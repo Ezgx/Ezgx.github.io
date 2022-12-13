@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Echocbx的博客</title>
+  
+  <subtitle>最后更新时间：2022-11-24</subtitle>
+  <link href="http://wlopck.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="http://wlopck.gitee.io/"/>
+  <updated>2022-11-11T04:23:38.702Z</updated>
+  <id>http://wlopck.gitee.io/</id>
+  
+  <author>
+    <name>Echocbx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux安装中文输入法</title>
+    <link href="http://wlopck.gitee.io/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    <id>http://wlopck.gitee.io/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</id>
+    <published>2077-08-24T08:35:20.000Z</published>
+    <updated>2022-11-11T04:23:38.702Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://shurufa.sogou.com">安装包下载</a></p><p>1、添加中文语言支持</p><p>打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”</p><span id="more"></span><p>弹出“已安装语言”窗口，勾选中文（简体），点击应用</p><p>回到“语言支持”窗口，在键盘输入法系统中，选择“fcitx”</p><p>注：</p><p>如果在键盘输入法系统中，没有“fcitx”选项时，建议先打开终端手动安装fcitx：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install fcitx</span><br></pre></td></tr></table></figure><p>等安装成功之后再执行上述步骤</p><p>点击“应用到整个系统”，关闭窗口，重启电脑</p><p>2、通过命令行安装搜狗输入法</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo dpkg -i sogoupinyin_版本号_amd64.deb</span><br></pre></td></tr></table></figure><p>注：</p><p>如果安装过程中提示缺少相关依赖，则执行如下命令解决：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt -f install</span><br></pre></td></tr></table></figure><p>3、注销计算机即可正常使用搜狗输入法</p><p>Ubuntu20.04安装搜狗输入法步骤</p><p>1、更新源</p><p>在终端执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure><p>2、安装fcitx输入法框架</p><ol><li>在终端输入</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install fcitx</span><br></pre></td></tr></table></figure><ol start="2"><li>设置fcitx为系统输入法</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://shurufa.sogou.com&quot;&gt;安装包下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1、添加中文语言支持&lt;/p&gt;
+&lt;p&gt;打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="linux" scheme="http://wlopck.gitee.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdowm-it_test</title>
+    <link href="http://wlopck.gitee.io/2022/12/12/markdown-it_test/"/>
+    <id>http://wlopck.gitee.io/2022/12/12/markdown-it_test/</id>
+    <published>2022-12-12T09:35:36.000Z</published>
+    <updated>2022-12-12T09:37:18.318Z</updated>
+    
+    <content type="html"><![CDATA[<p>+++ <strong>点击折叠</strong><br>这是被隐藏的内容<br>+++</p><div class="tips"><p><strong>提示</strong><br>这是一个提示</p></div><div class="warning"><p><strong>注意</strong><br>这是一个警告</p></div><div class="danger"><p><strong>警告</strong><br>这是一个危险信号</p></div><div class="success"><p><strong>成功</strong><br>这是一个成功信号</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;+++ &lt;strong&gt;点击折叠&lt;/strong&gt;&lt;br&gt;
+这是被隐藏的内容&lt;br&gt;
++++&lt;/p&gt;
+&lt;div class=&quot;tips&quot;&gt;
+&lt;p&gt;&lt;strong&gt;提示&lt;/strong&gt;&lt;br&gt;
+这是一个提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;warning&quot;&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>某度网盘高速下载</title>
+    <link href="http://wlopck.gitee.io/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/"/>
+    <id>http://wlopck.gitee.io/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/</id>
+    <published>2022-12-10T07:16:09.000Z</published>
+    <updated>2022-12-12T08:24:09.777Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1-前言</h1><h2 id="1-1-废话">1.1-废话</h2><p>众所周知，某度网盘下载没有vip灰常慢而我下载的镜像，动不动就2-3GB<br>几十kb每秒的下载速度</p><div class="danger"><p><strong>卒</strong><br>下完了半截身子入土了（</p></div><h1>2-开始</h1><h2 id="2-1-油猴">2.1-油猴</h2><p>所以今天推荐一个油猴插件首先安装好<mark>tampermonkey</mark></p><h2 id="2-2-脚本">2.2-脚本</h2><p>前往==<a href="greasyfork.org">greasyfork</a>==<br>搜索脚本：<ins>百度网盘</ins>往下翻，找到<a href="https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88">百度网盘简易下载助手（直链下载复活版）</a>点击“安装脚本”</p><h1>如果提示脚本友不受欢迎的功能，请不要在意，脚本纯净无病毒，请放心使用</h1><p>安装后去下载一个<a href="https://aria2.baisheng999.com/">aria2</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">解压后双击运行ariaNG启动器，如果要管理员权限点击是！</span><br></pre></td></tr></table></figure><p>最后到百度网盘网页版</p><h2 id="注意一定要网页版">注意一定要网页版</h2><p>勾选一个文件，只能一个，不能文件夹或者多个点击</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">获取直连地址</span><br></pre></td></tr></table></figure><p>然后会提示你到微信关zhu弓重号：软件小妹（此处并非打广告，因为真的需要）对弓重号发送“验证码”获取到浏览器输入到验证码框，再点击“获取直连地址”<br>获取成功点击发送到aria2<br>这玩意能拉满带宽！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;1-前言&lt;/h1&gt;
+&lt;h2 id=&quot;1-1-废话&quot;&gt;1.1-废话&lt;/h2&gt;
+&lt;p&gt;众所周知，某度网盘下载没有vip灰常慢而我下载的镜像，动不动就2-3GB&lt;br&gt;
+几十kb每秒的下载速度&lt;/p&gt;
+&lt;div class=&quot;danger&quot;&gt;
+&lt;p&gt;&lt;strong&gt;卒&lt;/str</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建</title>
+    <link href="http://wlopck.gitee.io/2022/10/03/hexoblog1/"/>
+    <id>http://wlopck.gitee.io/2022/10/03/hexoblog1/</id>
+    <published>2022-10-03T07:20:36.000Z</published>
+    <updated>2022-11-11T04:23:38.694Z</updated>
+    
+    <content type="html"><![CDATA[<p>准备工作&amp;添加主题</p><span id="more"></span><h1>npm和nodejs安装</h1><p><a href="https://nodejs.org/en/">跳转官网下载</a><br>image.png<br><img src="/img/1.jpg" alt="nodejs下载"><br>下载好后打开cmd运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm -v</span><br><span class="line">node -v</span><br></pre></td></tr></table></figure><p>查看版本正确安装后如图<br><img src="/img/7d42e0400b42667e8aa6e2ee31b9198.jpg" alt="version"></p><h1>安装git</h1><p><img src="/img/51ca56e2d729260f98c3b1fde80e500.jpg" alt="git"></p><p>cmd运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><h1>安装hexo</h1><p>成功安装Hexo后，运行下面的命令，会在指定文件夹中新建必须的文件。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init 文件夹名</span><br><span class="line"><span class="built_in">cd</span> 文件夹名</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><p>成功后，文件夹下应包含</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">_config.yml</span><br><span class="line">package.json</span><br><span class="line">scaffolds</span><br><span class="line">source</span><br><span class="line">├── _drafts</span><br><span class="line">└── _posts</span><br><span class="line">themes</span><br></pre></td></tr></table></figure><h2 id="安装yun主题">安装yun主题</h2><p>在刚新建的文件夹下打开cmd<br>执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-yun@latest</span><br></pre></td></tr></table></figure><h3 id="启用主题">启用主题</h3><p>在_config.yml中将</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: landscape</span><br></pre></td></tr></table></figure><p>改为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: yun</span><br></pre></td></tr></table></figure><h2 id="配置">配置</h2><p>在hexo根目录下新建_config.yun.yml<br>写进如下内容</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">mode:</span> <span class="string">light</span></span><br><span class="line"></span><br><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">/img/avatar.png</span></span><br><span class="line">  <span class="attr">status:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">emoji:</span> <span class="string">🌑</span></span><br><span class="line">    <span class="attr">message:</span> <span class="string">Looking</span> <span class="string">for</span> <span class="string">dawn.</span></span><br><span class="line"></span><br><span class="line"><span class="attr">reward:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">comment:</span> <span class="string">赞赏作者</span></span><br><span class="line">  <span class="attr">methods:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">微信支付</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/img/wechatpay.jpg</span></span><br><span class="line">      <span class="attr">color:</span> <span class="string">&#x27;#2DC100&#x27;</span></span><br><span class="line">      <span class="attr">icon:</span> <span class="string">ri:wechat-pay-line</span></span><br><span class="line"></span><br><span class="line"><span class="attr">comment:</span></span><br><span class="line">  <span class="attr">candidates:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">utterances</span></span><br><span class="line">  <span class="attr">tips:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">评论</span></span><br><span class="line"></span><br><span class="line"><span class="attr">utterances:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">echocbx/utterances</span></span><br><span class="line">  <span class="attr">issue-term:</span> <span class="string">pathname</span></span><br><span class="line">  <span class="comment"># label: comment</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">github-light</span></span><br><span class="line"></span><br><span class="line"><span class="attr">github_issues:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="attr">github_discussions:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="attr">disqusjs:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">shortname:</span> <span class="string">yunyoujun</span></span><br><span class="line">  <span class="attr">apikey:</span> <span class="string">ouoGQCaamOKdJgyZU5DKcpFnRIg3SNzvk0nwygPtlcTRJuE68c8igvrZGW4wAJoN</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># https://github.com/laymonage/giscus</span></span><br><span class="line"><span class="attr">giscus:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">YunYouJun/yunyoujun.github.io</span></span><br><span class="line">  <span class="attr">repo-id:</span></span><br><span class="line">  <span class="attr">category-id:</span></span><br><span class="line">  <span class="attr">mapping:</span> <span class="string">pathname</span></span><br><span class="line">  <span class="attr">reactions-enabled:</span> <span class="number">1</span></span><br><span class="line">  <span class="attr">emit-metadata:</span> <span class="number">0</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">light</span></span><br><span class="line"></span><br><span class="line"><span class="attr">footer:</span></span><br><span class="line">  <span class="attr">since:</span> <span class="number">2016</span></span><br><span class="line">  <span class="attr">icon:</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://sponsors.yunyoujun.cn</span></span><br><span class="line">    <span class="attr">title:</span> <span class="string">云游君的赞助者们</span></span><br><span class="line">  <span class="attr">beian:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">icp:</span> <span class="string">京ICP备114514号</span> <span class="string">京公网安备1919810号</span></span><br><span class="line">  <span class="attr">support:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">title:</span> <span class="string">netlify</span></span><br><span class="line">    <span class="attr">link:</span> <span class="string">https://netlify.app</span></span><br><span class="line">    <span class="attr">logo:</span> <span class="string">/img/OIP-C.jpg</span></span><br><span class="line">    <span class="attr">prefix:</span> <span class="string">本网站由</span></span><br><span class="line">    <span class="attr">suffix:</span> <span class="string">提供加速</span></span><br><span class="line">  <span class="attr">custom_text:</span></span><br><span class="line"></span><br><span class="line"><span class="attr">engine_search:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># If you want to use it, you need config algolia appID in _config.yml!!!</span></span><br><span class="line"><span class="comment"># https://github.com/oncletom/hexo-algolia</span></span><br><span class="line"><span class="attr">algolia_search:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="comment"># ...</span></span><br><span class="line"></span><br><span class="line"><span class="attr">google_analytics:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">id:</span> <span class="string">G-1LL0D86CY9</span></span><br><span class="line"></span><br><span class="line"><span class="attr">google_adsense:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">client:</span> <span class="string">ca-pub-2245427233262012</span></span><br><span class="line"></span><br><span class="line"><span class="attr">post_edit:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">https://github.com/YunYouJun/yunyoujun.github.io/tree/hexo/source/</span></span><br><span class="line"></span><br><span class="line"><span class="attr">albums:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="attr">girls:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="attr">tags:</span></span><br><span class="line">  <span class="string">动画:</span> <span class="string">crimson</span></span><br><span class="line">  <span class="string">漫画:</span> <span class="string">orange</span></span><br><span class="line">  <span class="attr">Parcel:</span> <span class="string">&#x27;#21374b&#x27;</span></span><br><span class="line">  <span class="string">学习:</span> <span class="string">saddlebrown</span></span><br><span class="line">  <span class="attr">MAD:</span> <span class="string">crimson</span></span><br><span class="line">  <span class="string">教程:</span> <span class="string">royalblue</span></span><br><span class="line">  <span class="string">笔记:</span> <span class="string">dimgray</span></span><br><span class="line">  <span class="string">分享:</span> <span class="string">&#x27;#0078e7&#x27;</span></span><br><span class="line">  <span class="string">随笔:</span> <span class="string">mediumpurple</span></span><br><span class="line">  <span class="attr">Blender:</span> <span class="string">&#x27;#d04d2d&#x27;</span></span><br><span class="line">  <span class="attr">Linux:</span> <span class="string">&#x27;#2577b1&#x27;</span></span><br><span class="line">  <span class="string">中传:</span> <span class="string">&#x27;#ccb44b&#x27;</span></span><br><span class="line">  <span class="string">部落:</span> <span class="string">&#x27;#DD306A&#x27;</span></span><br><span class="line">  <span class="string">科幻:</span> <span class="string">midnightblue</span></span><br><span class="line">  <span class="string">蚂蚁森林:</span> <span class="string">&#x27;#54a892&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="attr">categories:</span></span><br><span class="line">  <span class="string">云游的小视频:</span> <span class="string">&#x27;#FB7299&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="attr">pages:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">我的小伙伴们</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">/links/</span></span><br><span class="line">    <span class="attr">icon:</span> <span class="string">ri:genderless-line</span></span><br><span class="line">    <span class="attr">color:</span> <span class="string">dodgerblue</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">哲</span></span><br><span class="line">    <span class="attr">link:</span> <span class="string">/哲/index.html</span></span><br><span class="line">    <span class="attr">icon:</span> <span class="string">ri:clipboard-line</span></span><br><span class="line">    <span class="attr">color:</span> <span class="string">red</span></span><br><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="attr">custom:</span></span><br><span class="line">    <span class="attr">title:</span> <span class="string">留言板</span></span><br><span class="line">    <span class="attr">path:</span> <span class="string">/about/#comment</span></span><br><span class="line">    <span class="attr">icon:</span> <span class="string">ri:clipboard-line</span></span><br><span class="line"></span><br><span class="line"><span class="attr">cursor:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="attr">baidu_push:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="attr">google_tagmanager:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">id:</span> <span class="string">GTM-M9KWR9L</span></span><br><span class="line"></span><br><span class="line"><span class="attr">say:</span></span><br><span class="line">  <span class="attr">api:</span> <span class="string">https://el-bot-api.vercel.app/api/words/young</span></span><br><span class="line">  <span class="attr">hitokoto:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="attr">social:</span></span><br><span class="line"> <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">微信</span></span><br><span class="line">   <span class="attr">link:</span> <span class="string">/作者微信/index.html</span></span><br><span class="line">   <span class="attr">icon:</span> <span class="string">ri:wechat-2-line</span></span><br><span class="line">   <span class="attr">color:</span> <span class="string">&quot;#1AAD19&quot;</span></span><br><span class="line"> <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">qq</span></span><br><span class="line">   <span class="attr">link:</span> <span class="string">/作者qq/index.html</span></span><br><span class="line">   <span class="attr">icon:</span> <span class="string">ri:qq-line</span></span><br><span class="line">   <span class="attr">color:</span> <span class="string">blue</span></span><br><span class="line"><span class="comment"># pjax:</span></span><br><span class="line"><span class="comment">#   enable: true</span></span><br></pre></td></tr></table></figure><h2 id="然后进入yun主题的-config-yml里自行配置">然后进入yun主题的_config.yml里自行配置</h2><p>#　严禁抄袭我的个人配置！！！<br>#　严禁抄袭我的个人配置！！！<br>#　严禁抄袭我的个人配置！！！</p><h1>下一期教大家同步到gitee或github！</h1>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;准备工作&amp;amp;添加主题&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://wlopck.gitee.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wlopck.gitee.io/2022/09/11/hello-world/"/>
+    <id>http://wlopck.gitee.io/2022/09/11/hello-world/</id>
+    <published>2022-09-11T09:41:45.969Z</published>
+    <updated>2022-12-01T02:51:56.154Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我第一次用hexo搭建博客，也是第一篇文章那就让我们开始写作，写下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></table></figure><p>（前面的文章是gridea弄的</p><blockquote><p>黑历史</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是我第一次用hexo搭建博客，也是第一篇文章那就让我们开始写作，写下：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/spa</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装kali</title>
+    <link href="http://wlopck.gitee.io/2022/08/27/aXsUd5m9Ca/"/>
+    <id>http://wlopck.gitee.io/2022/08/27/aXsUd5m9Ca/</id>
+    <published>2022-08-26T16:08:28.000Z</published>
+    <updated>2022-11-11T04:23:38.677Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="kali-linux">kali linux</h3><p>Kali 的优势和特性：<br>1、 包括 900 多种渗透测试工具。<br>2、 免费：完全免费且永远都是。你将永远不必支付 Kali Linux 的费用。<br>3、 开源：所有进入 Kali Linux 的源代码都可供任何人使用。<br>4、 广泛的无线设备支持：我们已经构建了 Kali Linux 以支持尽可能多的无线设备，允许它在各种硬 件上正常运行，并使其与众多 USB 和其他无线设备兼容。<br>5、 在安全的环境中开发：Kali Linux 团队由一小部分人组成，他们是唯一可信任的提交包并与存 储库交互的人，所有这些都是使用多个安全协议完成的。<br>6、 GPG 签名包和存储库：Kali Linux 中的每个包都由构建和提交它的每个开发人员签名，并且 存储库随后也会对包签名。<br>7、 ARMEL 和 ARMHF 支持：Kali Linux 可用于各种 ARM 设备。</p><!--- more ---><h1>安装教程</h1><p>1.到官网下载&amp;安装VMware<br><a href="https://www.vmware.com/cn/get-started.html">https://www.vmware.com/cn/get-started.html</a><br><img src="https://echox.netlify.app/post-images/1661530423934.jpg" alt=""></p><span id="more"></span><p>2.安装后去清华开源镜像站下载系统镜像这里直接把链接挂在下边<br><a href="https://mirrors.tuna.tsinghua.edu.cn/kali-images/current/kali-linux-2022.3-live-amd64.iso">https://mirrors.tuna.tsinghua.edu.cn/kali-images/current/kali-linux-2022.3-live-amd64.iso</a><br>然后，网上搜鸡活码防止被佛伯乐破门，这里就不详细介绍。</p><!-- more --><p>3.创建虚拟机<br>sha瓜式操作类型默认就行选择光盘镜像文件找到储存镜像的路径，选择下载好的kali系统镜像后面弹的窗口选择debian，因为kali基于debian<br>运存和储存酌情，作者这里8G运存全给了，储存磁盘一共512G，给个60G，这个大家根据配置酌情给，但是记住，运存高于2G，储存40G以上。启动虚拟机选择start installer（特娘的别进live system<br>然后就是引导安装啦，不用教都会</p><h2 id="但是">但是</h2><p>注意：分区的时候，如果你和我一样，是新手，那就选将所有的文件放在同一个分区如果你是高手，你应该不会来看这篇文章（doge</p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;kali-linux&quot;&gt;kali linux&lt;/h3&gt;
+&lt;p&gt;Kali 的优势和特性：&lt;br&gt;
+1、 包括 900 多种渗透测试工具。&lt;br&gt;
+2、 免费：完全免费且永远都是。你将永远不必支付 Kali Linux 的费用。&lt;br&gt;
+3、 开源：所有进入 Kali Linux 的源代码都可供任何人使用。&lt;br&gt;
+4、 广泛的无线设备支持：我们已经构建了 Kali Linux 以支持尽可能多的无线设备，允许它在各种硬 件上正常运行，并使其与众多 USB 和其他无线设备兼容。&lt;br&gt;
+5、 在安全的环境中开发：Kali Linux 团队由一小部分人组成，他们是唯一可信任的提交包并与存 储库交互的人，所有这些都是使用多个安全协议完成的。&lt;br&gt;
+6、 GPG 签名包和存储库：Kali Linux 中的每个包都由构建和提交它的每个开发人员签名，并且 存储库随后也会对包签名。&lt;br&gt;
+7、 ARMEL 和 ARMHF 支持：Kali Linux 可用于各种 ARM 设备。&lt;/p&gt;
+&lt;!--- more ---&gt;
+&lt;h1&gt;安装教程&lt;/h1&gt;
+&lt;p&gt;1.到官网下载&amp;amp;安装VMware&lt;br&gt;
+&lt;a href=&quot;https://www.vmware.com/cn/get-started.html&quot;&gt;https://www.vmware.com/cn/get-started.html&lt;/a&gt;&lt;br&gt;
+&lt;img src=&quot;https://echox.netlify.app/post-images/1661530423934.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="linux" scheme="http://wlopck.gitee.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OBS Studio录制卡顿怎么解决？</title>
+    <link href="http://wlopck.gitee.io/2022/08/26/KFZVRjMH0/"/>
+    <id>http://wlopck.gitee.io/2022/08/26/KFZVRjMH0/</id>
+    <published>2022-08-26T07:11:38.000Z</published>
+    <updated>2022-11-11T04:23:38.669Z</updated>
+    
+    <content type="html"><![CDATA[<p>OBS Studio录制卡顿的解决方法</p><span id="more"></span><p>1、启动OBS Studio软件，进入界面，在上方菜单栏中点击【文件】——【设置】选项。</p><p>2、打开设置面板，如图，在左侧栏点击【视频】选项，在右侧显示视频参数设置，包括基础分辨率、输出分辨率。</p><p>3、【基础分辨率】是高清视频分辨率，如果你的电脑显示器达不到最佳分辨率，点击【输出分辨率】，在下拉选项中自行调整分辨率。</p><p>4、点击【缩小方法】，进行调整，如果电脑配置较低，选择【两个立方（削尖缩放，16个样本）】。</p><p>5、点击【常用FPS值】选项，展开下拉框，这里有【常用FPS值】、【整数FPS值】、【分数帧率值】三个选项，大家自行选择设置。</p><p>6、最高FFS值是60，如果电脑配置低，你可以选择小数值的FFS值，我电脑配置一般，这里选择30，设置完成，最后点击确定。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;OBS Studio录制卡顿的解决方法&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
