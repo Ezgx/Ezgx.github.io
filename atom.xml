@@ -23,7 +23,7 @@
     <published>2077-08-24T08:35:20.000Z</published>
     <updated>2022-11-11T04:23:38.702Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://shurufa.sogou.com">安装包下载</a></p><p>1、添加中文语言支持</p><p>打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”</p><span id="more"></span><p>弹出“已安装语言”窗口，勾选中文（简体），点击应用</p><p>回到“语言支持”窗口，在键盘输入法系统中，选择“fcitx”</p><p>注：</p><p>如果在键盘输入法系统中，没有“fcitx”选项时，建议先打开终端手动安装fcitx：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install fcitx</span><br></pre></td></tr></table></figure><p>等安装成功之后再执行上述步骤</p><p>点击“应用到整个系统”，关闭窗口，重启电脑</p><p>2、通过命令行安装搜狗输入法</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo dpkg -i sogoupinyin_版本号_amd64.deb</span><br></pre></td></tr></table></figure><p>注：</p><p>如果安装过程中提示缺少相关依赖，则执行如下命令解决：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt -f install</span><br></pre></td></tr></table></figure><p>3、注销计算机即可正常使用搜狗输入法</p><p>Ubuntu20.04安装搜狗输入法步骤</p><p>1、更新源</p><p>在终端执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure><p>2、安装fcitx输入法框架</p><ol><li>在终端输入</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install fcitx</span><br></pre></td></tr></table></figure><ol start="2"><li>设置fcitx为系统输入法</li></ol>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://shurufa.sogou.com">安装包下载</a></p><p>1、添加中文语言支持</p><p>打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”</p><span id="more"></span><p>弹出“已安装语言”窗口，勾选中文（简体），点击应用</p><p>回到“语言支持”窗口，在键盘输入法系统中，选择“fcitx”</p><p>注：</p><p>如果在键盘输入法系统中，没有“fcitx”选项时，建议先打开终端手动安装fcitx：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install fcitx</span><br></pre></td></tr></table></figure><p>等安装成功之后再执行上述步骤</p><p>点击“应用到整个系统”，关闭窗口，重启电脑</p><p>2、通过命令行安装搜狗输入法</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo dpkg -i sogoupinyin_版本号_amd64.deb</span><br></pre></td></tr></table></figure><p>注：</p><p>如果安装过程中提示缺少相关依赖，则执行如下命令解决：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt -f install</span><br></pre></td></tr></table></figure><p>3、注销计算机即可正常使用搜狗输入法</p><p>Ubuntu20.04安装搜狗输入法步骤</p><p>1、更新源</p><p>在终端执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure><p>2、安装fcitx输入法框架</p><ol><li class="lvl-3"><p>在终端输入</p></li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install fcitx</span><br></pre></td></tr></table></figure><ol start="2"><li class="lvl-3"><p>设置fcitx为系统输入法</p></li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;a href=&quot;https://shurufa.sogou.com&quot;&gt;安装包下载&lt;/a&gt;&lt;/p&gt;
@@ -44,19 +44,15 @@
     <published>2022-12-12T09:35:36.000Z</published>
     <updated>2022-12-12T09:37:18.318Z</updated>
     
-    <content type="html"><![CDATA[<p>+++ <strong>点击折叠</strong><br>这是被隐藏的内容<br>+++</p><div class="tips"><p><strong>提示</strong><br>这是一个提示</p></div><div class="warning"><p><strong>注意</strong><br>这是一个警告</p></div><div class="danger"><p><strong>警告</strong><br>这是一个危险信号</p></div><div class="success"><p><strong>成功</strong><br>这是一个成功信号</p></div>]]></content>
+    <content type="html"><![CDATA[<details open><summary><span class="pre-summary">&nbsp;</span><strong>点击折叠</strong></summary><p>这是被隐藏的内容</p></details><div class="tips"><p><strong>提示</strong><br>这是一个提示</p></div><div class="warning"><p><strong>注意</strong><br>这是一个警告</p></div><div class="danger"><p><strong>警告</strong><br>这是一个危险信号</p></div><div class="success"><p><strong>成功</strong><br>这是一个成功信号</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;+++ &lt;strong&gt;点击折叠&lt;/strong&gt;&lt;br&gt;
-这是被隐藏的内容&lt;br&gt;
-+++&lt;/p&gt;
+    <summary type="html">&lt;details open&gt;
+&lt;summary&gt;&lt;span class=&quot;pre-summary&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;点击折叠&lt;/strong&gt;&lt;/summary&gt;&lt;p&gt;这是被隐藏的内容&lt;/p&gt;
+&lt;/details&gt;
 &lt;div class=&quot;tips&quot;&gt;
-&lt;p&gt;&lt;strong&gt;提示&lt;/strong&gt;&lt;br&gt;
-这是一个提示&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;warning&quot;&gt;
 </summary>
       
     
