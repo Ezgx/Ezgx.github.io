@@ -38,6 +38,30 @@
   </entry>
   
   <entry>
+    <title>使用obs虚拟摄像机上网课/开会议</title>
+    <link href="http://cngov.ml/2022/12/15/obsvcam/"/>
+    <id>http://cngov.ml/2022/12/15/obsvcam/</id>
+    <published>2022-12-15T07:33:30.000Z</published>
+    <updated>2022-12-16T06:37:09.968Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tips"><h2 id="请准备">请准备</h2><p>1.<a href="https://obsproject.com">obs</a><br><a href="/img/obs.png">下载和你电脑对应的版本</a><br>2.电脑<br>3.手<br>4.确保你是个正常人</p></div><h1>开始</h1><h2 id="录制视频：">录制视频：</h2><p>打开obs<br>然后按照图中步骤操作，新建一个场景<br><a href="/img/obsvcam1.png"></a></p><p>创建好之后，按照图中步骤操作<br><img src="/img/obsvcam2.png" alt=""><br><img src="/img/obsvcam3.png" alt=""></p><p>开始录制<br><img src="/img/obsvcam4.png" alt=""></p><h2 id="在虚拟摄像头放视频">在虚拟摄像头放视频</h2><div class="warning"><p>录制好之后，<mark>确认如下路径能找到刚刚录制的视频</mark><br><img src="/img/obsvcam5.png" alt=""></p></div><p>按照图中步骤依次点击：</p><div class="success"><h3 id="加号-媒体源-浏览-想要放的视频-打开">+加号 &gt; 媒体源 &gt; 浏览 &gt; 想要放的视频 &gt; 打开</h3><p><img src="/img/obsvcam6.png" alt=""><br><img src="/img/obsvcam7.png" alt=""></p><div class="danger"><h3 id="记得勾选上循环！！">记得勾选上循环！！</h3></div></div><p>:::</p><h2 id="使用虚拟摄像头">使用虚拟摄像头</h2><p>点击“启动虚拟摄像机”<br><img src="/img/obsvcam8.png" alt=""><br>这里以腾讯会议为例，在这里选择 “obs virtual camera”<br><img src="/img/obsvcam9.png" alt=""></p><div class="success"><h1>如果一切正常，那么恭喜你，你成功啦！</h1></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
+&lt;h2 id=&quot;请准备&quot;&gt;请准备&lt;/h2&gt;
+&lt;p&gt;1.&lt;a href=&quot;https://obsproject.com&quot;&gt;obs&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/img/obs.png&quot;&gt;下载和你电脑对应的版本&lt;/a&gt;&lt;br&gt;
+2.电脑&lt;b</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>hexo博客搭建-3-主题&amp;页面配置</title>
     <link href="http://cngov.ml/2022/12/14/hexoblog3/"/>
     <id>http://cngov.ml/2022/12/14/hexoblog3/</id>
