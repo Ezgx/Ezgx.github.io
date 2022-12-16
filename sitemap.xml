@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cngov.ml/2022/12/15/obsvcam/</loc>
+    <loc>http://cngov.ml/2022/12/16/winterminalmh/</loc>
     
     <lastmod>2022-12-16</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/16/winterminalmh/</loc>
+    <loc>http://cngov.ml/2022/12/15/obsvcam/</loc>
     
     <lastmod>2022-12-16</lastmod>
     
@@ -242,6 +242,20 @@
   
   <url>
     <loc>http://cngov.ml/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://cngov.ml/tags/windows/</loc>
+    <lastmod>2022-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

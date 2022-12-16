@@ -38,15 +38,27 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>windows-terminal美化</title>
     <link href="http://cngov.ml/2022/12/16/winterminalmh/"/>
     <id>http://cngov.ml/2022/12/16/winterminalmh/</id>
-    <published>2022-12-16T06:47:17.986Z</published>
-    <updated>2022-12-16T06:47:17.986Z</updated>
+    <published>2022-12-16T07:33:30.000Z</published>
+    <updated>2022-12-16T07:59:48.519Z</updated>
+    
+    <content type="html"><![CDATA[<p>众所周知，<ins>Windows</ins>的<mark>cmd</mark>和<mark>powershell</mark>都 灰 常 的 丑所以，今天教大家美化Windows-terminal</p><p>###这里我按照<a href="https://akilar.top/posts/cdbee199/">akilar大佬的教程</a>做的，出现了一些报错，这里是我避免报错的过程</p><p>先去<mark>Microsoft store</mark>安装<mark>Windows terminal</mark>，</p><div class="warning"><h3 id="注意一定要那个preview版本">注意一定要那个preview版本</h3><div class="danger"><p>普通的不行！！！</p></div></div><p>去<mark>Microsoft store</mark>安装<mark>oh-my-posh</mark>（这里我按照akila的教程运行命令安装oh-my-posh，报错了，就去<mark>msstore</mark>安装的</p><p>打开一个<mark>管理员权限的</mark><ins>powershell</ins><br>运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">New-Item -Path <span class="variable">$PROFILE</span> -Type File -Force</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">notepad <span class="variable">$PROFILE</span></span><br></pre></td></tr></table></figure><p>赞后在打开的配置文件中输入</p><div class="tips"><p>&amp; ([ScriptBlock]::Create((oh-my-posh init pwsh --config C:\Users\你的用户名\AppData\Local\Programs\oh-my-posh\themes\主题名字.omp.json --print) -join “`n”))</p></div><p>主题名字见<a href="https://ohmyposh.dev/docs/themes">https://ohmyposh.dev/docs/themes</a></p><p>运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">. <span class="variable">$PROFILE</span></span><br></pre></td></tr></table></figure><p>发现是乱码去<mark>nerdfonts</mark>官网下载，然后将下载的压缩包解压选中所有.ttf和.otf文件，右键安装</p><div class="warning"><p>在windows terminal里设置：设置 &gt; powershell &gt; 字体 &gt; 选择带有Nerd字样的字体</p><div class="tips"><p>保存设置</p></div></div><p>重启<mark>windows terminal</mark><br>就好了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;众所周知，&lt;ins&gt;Windows&lt;/ins&gt;的&lt;mark&gt;cmd&lt;/mark&gt;和&lt;mark&gt;powershell&lt;/mark&gt;都 灰 常 的 丑所以，今天教大家美化Windows-terminal&lt;/p&gt;
+&lt;p&gt;###这里我按照&lt;a href=&quot;https://akila</summary>
+      
     
     
     
     
+    <category term="windows" scheme="http://cngov.ml/tags/windows/"/>
+    
+    <category term="美化" scheme="http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   

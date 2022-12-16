@@ -1,5 +1,5 @@
-http://cngov.ml/2022/12/15/obsvcam/
 http://cngov.ml/2022/12/16/winterminalmh/
+http://cngov.ml/2022/12/15/obsvcam/
 http://cngov.ml/goodsites/index.html
 http://cngov.ml/%E7%95%99%E8%A8%80%E6%9D%BF/index.html
 http://cngov.ml/2022/12/14/hexoblog3/
@@ -26,3 +26,5 @@ http://cngov.ml/
 http://cngov.ml/tags/linux/
 http://cngov.ml/tags/hexo/
 http://cngov.ml/tags/%E6%95%99%E7%A8%8B/
+http://cngov.ml/tags/windows/
+http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/
