@@ -3,11 +3,11 @@
   <title>Echocbx的博客</title>
   
   <subtitle>最后更新时间：2022-11-24</subtitle>
-  <link href="http://wlopck.gitee.io/atom.xml" rel="self"/>
+  <link href="http://cngov.ml/atom.xml" rel="self"/>
   
-  <link href="http://wlopck.gitee.io/"/>
+  <link href="http://cngov.ml/"/>
   <updated>2022-11-11T04:23:38.702Z</updated>
-  <id>http://wlopck.gitee.io/</id>
+  <id>http://cngov.ml/</id>
   
   <author>
     <name>Echocbx</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux安装中文输入法</title>
-    <link href="http://wlopck.gitee.io/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/"/>
-    <id>http://wlopck.gitee.io/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</id>
+    <link href="http://cngov.ml/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    <id>http://cngov.ml/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</id>
     <published>2077-08-24T08:35:20.000Z</published>
     <updated>2022-11-11T04:23:38.702Z</updated>
     
@@ -33,14 +33,14 @@
     
     
     
-    <category term="linux" scheme="http://wlopck.gitee.io/tags/linux/"/>
+    <category term="linux" scheme="http://cngov.ml/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客搭建-3-主题&amp;页面配置</title>
-    <link href="http://wlopck.gitee.io/2022/12/14/hexoblog3/"/>
-    <id>http://wlopck.gitee.io/2022/12/14/hexoblog3/</id>
+    <link href="http://cngov.ml/2022/12/14/hexoblog3/"/>
+    <id>http://cngov.ml/2022/12/14/hexoblog3/</id>
     <published>2022-12-14T07:51:30.000Z</published>
     <updated>2022-12-15T01:30:37.565Z</updated>
     
@@ -60,14 +60,14 @@
     
     
     
-    <category term="hexo" scheme="http://wlopck.gitee.io/tags/hexo/"/>
+    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客搭建-2-页面完善</title>
-    <link href="http://wlopck.gitee.io/2022/12/14/hexoblog2/"/>
-    <id>http://wlopck.gitee.io/2022/12/14/hexoblog2/</id>
+    <link href="http://cngov.ml/2022/12/14/hexoblog2/"/>
+    <id>http://cngov.ml/2022/12/14/hexoblog2/</id>
     <published>2022-12-14T07:21:10.000Z</published>
     <updated>2022-12-15T01:30:27.608Z</updated>
     
@@ -81,14 +81,14 @@
     
     
     
-    <category term="hexo" scheme="http://wlopck.gitee.io/tags/hexo/"/>
+    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>markdowm-it_test</title>
-    <link href="http://wlopck.gitee.io/2022/12/12/markdown-it_test/"/>
-    <id>http://wlopck.gitee.io/2022/12/12/markdown-it_test/</id>
+    <link href="http://cngov.ml/2022/12/12/markdown-it_test/"/>
+    <id>http://cngov.ml/2022/12/12/markdown-it_test/</id>
     <published>2022-12-12T09:35:36.000Z</published>
     <updated>2022-12-13T07:54:26.466Z</updated>
     
@@ -110,8 +110,8 @@
   
   <entry>
     <title>markdowm-it食用教程</title>
-    <link href="http://wlopck.gitee.io/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    <id>http://wlopck.gitee.io/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</id>
+    <link href="http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</id>
     <published>2022-12-12T09:35:36.000Z</published>
     <updated>2022-12-13T08:18:32.375Z</updated>
     
@@ -124,14 +124,14 @@
     
     
     
-    <category term="教程" scheme="http://wlopck.gitee.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://cngov.ml/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>某度网盘高速下载</title>
-    <link href="http://wlopck.gitee.io/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/"/>
-    <id>http://wlopck.gitee.io/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/</id>
+    <link href="http://cngov.ml/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/"/>
+    <id>http://cngov.ml/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/</id>
     <published>2022-12-10T07:16:09.000Z</published>
     <updated>2022-12-12T08:24:09.777Z</updated>
     
@@ -155,8 +155,8 @@
   
   <entry>
     <title>hexo博客搭建-1-快速开始&amp;安装主题</title>
-    <link href="http://wlopck.gitee.io/2022/10/03/hexoblog1/"/>
-    <id>http://wlopck.gitee.io/2022/10/03/hexoblog1/</id>
+    <link href="http://cngov.ml/2022/10/03/hexoblog1/"/>
+    <id>http://cngov.ml/2022/10/03/hexoblog1/</id>
     <published>2022-10-03T07:20:36.000Z</published>
     <updated>2022-12-15T01:30:31.618Z</updated>
     
@@ -168,14 +168,14 @@
     
     
     
-    <category term="hexo" scheme="http://wlopck.gitee.io/tags/hexo/"/>
+    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://wlopck.gitee.io/2022/09/11/hello-world/"/>
-    <id>http://wlopck.gitee.io/2022/09/11/hello-world/</id>
+    <link href="http://cngov.ml/2022/09/11/hello-world/"/>
+    <id>http://cngov.ml/2022/09/11/hello-world/</id>
     <published>2022-09-11T09:41:45.969Z</published>
     <updated>2022-12-01T02:51:56.154Z</updated>
     
@@ -195,8 +195,8 @@
   
   <entry>
     <title>虚拟机安装kali</title>
-    <link href="http://wlopck.gitee.io/2022/08/27/aXsUd5m9Ca/"/>
-    <id>http://wlopck.gitee.io/2022/08/27/aXsUd5m9Ca/</id>
+    <link href="http://cngov.ml/2022/08/27/aXsUd5m9Ca/"/>
+    <id>http://cngov.ml/2022/08/27/aXsUd5m9Ca/</id>
     <published>2022-08-26T16:08:28.000Z</published>
     <updated>2022-11-11T04:23:38.677Z</updated>
     
@@ -221,14 +221,14 @@
     
     
     
-    <category term="linux" scheme="http://wlopck.gitee.io/tags/linux/"/>
+    <category term="linux" scheme="http://cngov.ml/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>OBS Studio录制卡顿怎么解决？</title>
-    <link href="http://wlopck.gitee.io/2022/08/26/KFZVRjMH0/"/>
-    <id>http://wlopck.gitee.io/2022/08/26/KFZVRjMH0/</id>
+    <link href="http://cngov.ml/2022/08/26/KFZVRjMH0/"/>
+    <id>http://cngov.ml/2022/08/26/KFZVRjMH0/</id>
     <published>2022-08-26T07:11:38.000Z</published>
     <updated>2022-11-11T04:23:38.669Z</updated>
     
