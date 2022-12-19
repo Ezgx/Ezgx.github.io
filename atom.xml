@@ -124,6 +124,24 @@
   </entry>
   
   <entry>
+    <title>markdowm-it食用教程</title>
+    <link href="http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</id>
+    <published>2022-12-12T09:35:36.000Z</published>
+    <updated>2022-12-13T08:18:32.375Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
+&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;然后安装markdown-it&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="教程" scheme="http://cngov.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markdowm-it_test</title>
     <link href="http://cngov.ml/2022/12/12/markdown-it_test/"/>
     <id>http://cngov.ml/2022/12/12/markdown-it_test/</id>
@@ -141,24 +159,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>markdowm-it食用教程</title>
-    <link href="http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    <id>http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</id>
-    <published>2022-12-12T09:35:36.000Z</published>
-    <updated>2022-12-13T08:18:32.375Z</updated>
-    
-    
-    <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
-&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;然后安装markdown-it&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="教程" scheme="http://cngov.ml/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
