@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cngov.ml/link/index.html</loc>
+    
+    <lastmod>2022-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://cngov.ml/daziji.html</loc>
     
     <lastmod>2022-12-20</lastmod>
@@ -86,15 +95,6 @@
     <loc>http://cngov.ml/2022/12/14/hexoblog2/</loc>
     
     <lastmod>2022-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cngov.ml/link/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
