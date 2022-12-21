@@ -1,16 +1,34 @@
-window.onkeydown = window.onkeyup = window.onkeypress = function (event) {  
-  // 判断是否按下F12，F12键码为123  
-  if (event.keyCode = 123) {  
-      event.preventDefault() // 阻止默认事件行为  
-      window.event.returnValue = false  
-      alert("f12被禁用");
-  }  
+((function() {var callbacks = [],timeLimit = 50,open = false;setInterval(loop, 1);return {addListener: function(fn) {callbacks.push(fn);},cancleListenr: function(fn) {callbacks = callbacks.filter(function(v) {return v !== fn;});}}
+function loop() {var startTime = new Date();debugger;if (new Date() - startTime > timeLimit) {if (!open) {callbacks.forEach(function(fn) {fn.call(null);});}open = true;window.stop();alert('此处添加关掉调试时提示的文字');document.body.innerHTML = "";} else {open = false;}}})()).addListener(function() {window.location.reload();});
+
+
+function toDevtools(){
+  let num = 0;
+  let devtools = new Date();
+  devtools.toString = function() {
+    num++;
+    if (num > 1) {
+        window.location.href = "about:blank"
+        blast();
+    }
+  }
+  console.log('', devtools);
 }
-let threshold = 160 // 打开控制台的宽或高阈值  
-window.setInterval(function() {  
-    if (window.outerWidth - window.innerWidth > threshold ||   
-    window.outerHeight - window.innerHeight > threshold) {  
-        // 如果打开控制台，则刷新页面  
-        window.location.reload()  
-    }  
-}, 1000)
+toDevtools();
+
+
+document.onkeydown = document.onkeyup = document.onkeypress = function(event) {
+    var e = event || window.event || arguments.callee.caller.arguments[0];
+    if (e && (e.keyCode == 123)) {
+      e.keyCode = 0;
+      e.returnValue = false;
+      btf.snackbarShow('早就料到你会f12');
+      return (false);
+    }
+}
+$(document).keydown(function(e){
+  if( e.ctrlKey  == true && e.keyCode == 83 ){
+    console.log('ctrl+s');
+    return false;
+  }
+});
