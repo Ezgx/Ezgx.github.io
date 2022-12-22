@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cngov.ml/posts/55920/</loc>
+    
+    <lastmod>2022-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cngov.ml/posts/31415/</loc>
+    
+    <lastmod>2022-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cngov.ml/posts/31415/</loc>
+    
+    <lastmod>2022-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://cngov.ml/link/index.html</loc>
     
     <lastmod>2022-12-21</lastmod>
@@ -29,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/19/hexojiq/</loc>
+    <loc>http://cngov.ml/posts/21521/</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -38,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/16/winterminalmh/</loc>
+    <loc>http://cngov.ml/posts/50741/</loc>
     
     <lastmod>2022-12-16</lastmod>
     
@@ -47,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/15/obsvcam/</loc>
+    <loc>http://cngov.ml/posts/13364/</loc>
     
     <lastmod>2022-12-16</lastmod>
     
@@ -74,25 +101,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/14/hexoblog3/</loc>
-    
-    <lastmod>2022-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cngov.ml/2022/10/03/hexoblog1/</loc>
-    
-    <lastmod>2022-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cngov.ml/2022/12/14/hexoblog2/</loc>
+    <loc>http://cngov.ml/posts/31415/</loc>
     
     <lastmod>2022-12-15</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/12/markdown-it%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://cngov.ml/posts/65320/</loc>
     
     <lastmod>2022-12-13</lastmod>
     
@@ -128,16 +137,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/12/12/markdown-it_test/</loc>
-    
-    <lastmod>2022-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cngov.ml/2022/12/10/%E6%9F%90%E5%BA%A6%E7%BD%91%E7%9B%98%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD/</loc>
+    <loc>http://cngov.ml/posts/da0f/</loc>
     
     <lastmod>2022-12-12</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/09/11/hello-world/</loc>
+    <loc>http://cngov.ml/posts/16107/</loc>
     
     <lastmod>2022-12-01</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2077/08/24/linux%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</loc>
+    <loc>http://cngov.ml/posts/10141/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/08/27/aXsUd5m9Ca/</loc>
+    <loc>http://cngov.ml/posts/51673/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://cngov.ml/2022/08/26/KFZVRjMH0/</loc>
+    <loc>http://cngov.ml/posts/65417/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -247,7 +247,7 @@
 
   <url>
     <loc>http://cngov.ml/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -255,35 +255,35 @@
   
   <url>
     <loc>http://cngov.ml/tags/linux/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cngov.ml/tags/hexo/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cngov.ml/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cngov.ml/tags/windows/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2022-12-21</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
