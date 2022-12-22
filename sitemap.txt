@@ -26,8 +26,8 @@ http://cngov.ml/404.html
 http://cngov.ml/%E8%81%94%E7%B3%BB%E4%BD%9C%E8%80%85/index.html
 http://cngov.ml/tags/index.html
 http://cngov.ml/
-http://cngov.ml/tags/linux/
 http://cngov.ml/tags/hexo/
+http://cngov.ml/tags/linux/
 http://cngov.ml/tags/%E6%95%99%E7%A8%8B/
 http://cngov.ml/tags/windows/
 http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/
