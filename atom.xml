@@ -3,11 +3,11 @@
   <title>Echocbx</title>
   
   <subtitle>欢迎来到Echocbx的博客</subtitle>
-  <link href="http://cngov.ml/atom.xml" rel="self"/>
+  <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
-  <link href="http://cngov.ml/"/>
+  <link href="http://ezgx.tk/"/>
   <updated>2022-11-11T04:23:38.702Z</updated>
-  <id>http://cngov.ml/</id>
+  <id>http://ezgx.tk/</id>
   
   <author>
     <name>Echocbx</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux安装中文输入法</title>
-    <link href="http://cngov.ml/posts/10141/"/>
-    <id>http://cngov.ml/posts/10141/</id>
+    <link href="http://ezgx.tk/posts/10141/"/>
+    <id>http://ezgx.tk/posts/10141/</id>
     <published>2077-08-24T08:35:20.000Z</published>
     <updated>2022-11-11T04:23:38.702Z</updated>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="linux" scheme="http://cngov.ml/tags/linux/"/>
+    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>hexo一个菜鸟滴踩坑记录和解决办法分享</title>
-    <link href="http://cngov.ml/posts/21521/"/>
-    <id>http://cngov.ml/posts/21521/</id>
+    <link href="http://ezgx.tk/posts/21521/"/>
+    <id>http://ezgx.tk/posts/21521/</id>
     <published>2022-12-19T07:39:03.000Z</published>
     <updated>2022-12-22T08:04:56.414Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>windows-terminal美化</title>
-    <link href="http://cngov.ml/posts/50741/"/>
-    <id>http://cngov.ml/posts/50741/</id>
+    <link href="http://ezgx.tk/posts/50741/"/>
+    <id>http://ezgx.tk/posts/50741/</id>
     <published>2022-12-16T07:33:30.000Z</published>
     <updated>2022-12-22T08:04:56.487Z</updated>
     
@@ -75,16 +75,16 @@
     
     
     
-    <category term="windows" scheme="http://cngov.ml/tags/windows/"/>
+    <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
     
-    <category term="美化" scheme="http://cngov.ml/tags/%E7%BE%8E%E5%8C%96/"/>
+    <category term="美化" scheme="http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>使用obs虚拟摄像机上网课/开会议</title>
-    <link href="http://cngov.ml/posts/13364/"/>
-    <id>http://cngov.ml/posts/13364/</id>
+    <link href="http://ezgx.tk/posts/13364/"/>
+    <id>http://ezgx.tk/posts/13364/</id>
     <published>2022-12-15T07:33:30.000Z</published>
     <updated>2022-12-22T08:04:56.479Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>hexo博客搭建-3-主题&amp;页面配置</title>
-    <link href="http://cngov.ml/posts/31415/"/>
-    <id>http://cngov.ml/posts/31415/</id>
+    <link href="http://ezgx.tk/posts/31415/"/>
+    <id>http://ezgx.tk/posts/31415/</id>
     <published>2022-12-14T07:51:30.000Z</published>
     <updated>2022-12-22T04:40:22.667Z</updated>
     
@@ -121,14 +121,14 @@
     
     
     
-    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客搭建-2-页面完善</title>
-    <link href="http://cngov.ml/posts/31415/"/>
-    <id>http://cngov.ml/posts/31415/</id>
+    <link href="http://ezgx.tk/posts/31415/"/>
+    <id>http://ezgx.tk/posts/31415/</id>
     <published>2022-12-14T07:21:10.000Z</published>
     <updated>2022-12-22T05:17:34.115Z</updated>
     
@@ -140,14 +140,14 @@
     
     
     
-    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>markdowm-it语法</title>
-    <link href="http://cngov.ml/posts/55920/"/>
-    <id>http://cngov.ml/posts/55920/</id>
+    <link href="http://ezgx.tk/posts/55920/"/>
+    <id>http://ezgx.tk/posts/55920/</id>
     <published>2022-12-12T09:35:36.000Z</published>
     <updated>2022-12-22T06:24:51.477Z</updated>
     
@@ -167,8 +167,8 @@
   
   <entry>
     <title>markdowm-it食用教程</title>
-    <link href="http://cngov.ml/posts/65320/"/>
-    <id>http://cngov.ml/posts/65320/</id>
+    <link href="http://ezgx.tk/posts/65320/"/>
+    <id>http://ezgx.tk/posts/65320/</id>
     <published>2022-12-12T09:35:36.000Z</published>
     <updated>2022-12-22T08:04:56.445Z</updated>
     
@@ -179,14 +179,14 @@
     
     
     
-    <category term="教程" scheme="http://cngov.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>某度网盘高速下载</title>
-    <link href="http://cngov.ml/posts/da0f/"/>
-    <id>http://cngov.ml/posts/da0f/</id>
+    <link href="http://ezgx.tk/posts/da0f/"/>
+    <id>http://ezgx.tk/posts/da0f/</id>
     <published>2022-12-10T07:16:09.000Z</published>
     <updated>2022-12-12T08:24:09.777Z</updated>
     
@@ -206,8 +206,8 @@
   
   <entry>
     <title>hexo博客搭建-1-快速开始&amp;安装主题</title>
-    <link href="http://cngov.ml/posts/31415/"/>
-    <id>http://cngov.ml/posts/31415/</id>
+    <link href="http://ezgx.tk/posts/31415/"/>
+    <id>http://ezgx.tk/posts/31415/</id>
     <published>2022-10-03T07:20:36.000Z</published>
     <updated>2022-12-15T01:30:31.618Z</updated>
     
@@ -217,14 +217,14 @@
     
     
     
-    <category term="hexo" scheme="http://cngov.ml/tags/hexo/"/>
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://cngov.ml/posts/16107/"/>
-    <id>http://cngov.ml/posts/16107/</id>
+    <link href="http://ezgx.tk/posts/16107/"/>
+    <id>http://ezgx.tk/posts/16107/</id>
     <published>2022-09-11T09:41:45.969Z</published>
     <updated>2022-12-01T02:51:56.154Z</updated>
     
@@ -244,8 +244,8 @@
   
   <entry>
     <title>虚拟机安装kali</title>
-    <link href="http://cngov.ml/posts/51673/"/>
-    <id>http://cngov.ml/posts/51673/</id>
+    <link href="http://ezgx.tk/posts/51673/"/>
+    <id>http://ezgx.tk/posts/51673/</id>
     <published>2022-08-26T16:08:28.000Z</published>
     <updated>2022-11-11T04:23:38.677Z</updated>
     
@@ -268,14 +268,14 @@
     
     
     
-    <category term="linux" scheme="http://cngov.ml/tags/linux/"/>
+    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>OBS Studio录制卡顿怎么解决？</title>
-    <link href="http://cngov.ml/posts/65417/"/>
-    <id>http://cngov.ml/posts/65417/</id>
+    <link href="http://ezgx.tk/posts/65417/"/>
+    <id>http://ezgx.tk/posts/65417/</id>
     <published>2022-08-26T07:11:38.000Z</published>
     <updated>2022-11-11T04:23:38.669Z</updated>
     
