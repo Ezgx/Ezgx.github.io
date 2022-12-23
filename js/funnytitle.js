@@ -6,7 +6,7 @@ document.addEventListener('visibilitychange', function(){
         document.title = '404 Not Found';
         clearTimeout(titleTime);
     }else{
-        document.title = 'ヾ(≧▽≦*)o上当了吧嘿嘿';
+        document.title = '上当了吧哈哈！';
         titleTime = setTimeout(function() {
             document.title = OriginTitile;
         }, 3000); // 3秒后恢复原标题
