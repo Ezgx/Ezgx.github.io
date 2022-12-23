@@ -3037,28 +3037,28 @@ h1.page-title + .tag-cloud-list {
 }
 #content-inner #article-container {
   background: var(--cyber-container-background);
-  padding: 15px 15px;
+  padding: 50px 50px;
   clip-path: polygon(15px 15px, calc(50% - 60px) 15px, calc(50% - 50px) 0, calc(50% + 50px) 0, calc(50% + 60px) 15px, calc(100% - 15px) 15px, 100% 30px, 100% calc(100% - 30px), calc(100% - 15px) calc(100% - 15px), calc(50% + 60px) calc(100% - 15px), calc(50% + 50px) 100%, calc(50% - 50px) 100%, calc(50% - 60px) calc(100% - 15px), 15px calc(100% - 15px), 0 calc(100% - 30px), 0 30px);
 }
 #content-inner #post-comment {
   background: var(--cyber-container-background);
-  padding: 15px 15px;
+  padding: 50px 50px;
   clip-path: polygon(15px 15px, calc(50% - 60px) 15px, calc(50% - 50px) 0, calc(50% + 50px) 0, calc(50% + 60px) 15px, calc(100% - 15px) 15px, 100% 30px, 100% calc(100% - 30px), calc(100% - 15px) calc(100% - 15px), calc(50% + 60px) calc(100% - 15px), calc(50% + 50px) 100%, calc(50% - 50px) 100%, calc(50% - 60px) calc(100% - 15px), 15px calc(100% - 15px), 0 calc(100% - 30px), 0 30px);
 }
 #content-inner .tag_share {
   text-align: center;
   background: var(--cyber-container-background);
-  padding: 15px 15px;
+  padding: 50px 50px;
   clip-path: polygon(15px 15px, calc(50% - 60px) 15px, calc(50% - 50px) 0, calc(50% + 50px) 0, calc(50% + 60px) 15px, calc(100% - 15px) 15px, 100% 30px, 100% calc(100% - 30px), calc(100% - 15px) calc(100% - 15px), calc(50% + 60px) calc(100% - 15px), calc(50% + 50px) 100%, calc(50% - 50px) 100%, calc(50% - 60px) calc(100% - 15px), 15px calc(100% - 15px), 0 calc(100% - 30px), 0 30px);
 }
 #content-inner .tag-cloud-list {
   background: var(--cyber-container-background);
-  padding: 15px 15px;
+  padding: 50px 50px;
   clip-path: polygon(15px 15px, calc(50% - 60px) 15px, calc(50% - 50px) 0, calc(50% + 50px) 0, calc(50% + 60px) 15px, calc(100% - 15px) 15px, 100% 30px, 100% calc(100% - 30px), calc(100% - 15px) calc(100% - 15px), calc(50% + 60px) calc(100% - 15px), calc(50% + 50px) 100%, calc(50% - 50px) 100%, calc(50% - 60px) calc(100% - 15px), 15px calc(100% - 15px), 0 calc(100% - 30px), 0 30px);
 }
 #content-inner .category-lists {
   background: var(--cyber-container-background);
-  padding: 15px 15px;
+  padding: 50px 50px;
   clip-path: polygon(15px 15px, calc(50% - 60px) 15px, calc(50% - 50px) 0, calc(50% + 50px) 0, calc(50% + 60px) 15px, calc(100% - 15px) 15px, 100% 30px, 100% calc(100% - 30px), calc(100% - 15px) calc(100% - 15px), calc(50% + 60px) calc(100% - 15px), calc(50% + 50px) 100%, calc(50% - 50px) 100%, calc(50% - 60px) calc(100% - 15px), 15px calc(100% - 15px), 0 calc(100% - 30px), 0 30px);
 }
 #aside-content {
