@@ -27,8 +27,8 @@ http://ezgx.tk/404.html
 http://ezgx.tk/%E8%81%94%E7%B3%BB%E4%BD%9C%E8%80%85/index.html
 http://ezgx.tk/tags/index.html
 http://ezgx.tk/
-http://ezgx.tk/tags/linux/
 http://ezgx.tk/tags/hexo/
+http://ezgx.tk/tags/linux/
 http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/
 http://ezgx.tk/tags/windows/
 http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/
