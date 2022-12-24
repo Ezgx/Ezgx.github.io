@@ -189,15 +189,17 @@
   </entry>
   
   <entry>
-    <title>markdowm-it食用教程</title>
+    <title>markdown-it食用教程</title>
     <link href="http://ezgx.tk/posts/65320/"/>
     <id>http://ezgx.tk/posts/65320/</id>
     <published>2022-12-12T09:35:36.000Z</published>
-    <updated>2022-12-22T08:04:56.445Z</updated>
+    <updated>2022-12-24T12:17:28.682Z</updated>
     
     
     <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
-&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;然后安装markdown-it&lt;/p&gt;</summary>
+&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm un hexo-renderer-marked --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然后安装markdown-it&lt;/p&gt;</summary>
     
     
     
