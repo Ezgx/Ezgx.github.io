@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.tk/kernel.html</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/10453/</loc>
     
     <lastmod>2022-12-26</lastmod>
@@ -104,15 +113,6 @@
     <loc>http://ezgx.tk/daziji.html</loc>
     
     <lastmod>2022-12-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/kernel.html</loc>
-    
-    <lastmod>2022-12-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
