@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.tk/posts/10453/</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/55979/</loc>
     
     <lastmod>2022-12-26</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>http://ezgx.tk/posts/48756/</loc>
-    
-    <lastmod>2022-12-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/posts/10453/</loc>
     
     <lastmod>2022-12-23</lastmod>
     
@@ -280,6 +280,13 @@
   
   <url>
     <loc>http://ezgx.tk/tags/hexo/</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/</loc>
     <lastmod>2022-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

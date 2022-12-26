@@ -36,11 +36,11 @@
   </entry>
   
   <entry>
-    <title>hexoyuming</title>
+    <title>hexo自定义域名</title>
     <link href="http://ezgx.tk/posts/55979/"/>
     <id>http://ezgx.tk/posts/55979/</id>
     <published>2022-12-26T06:34:45.000Z</published>
-    <updated>2022-12-26T08:03:14.658Z</updated>
+    <updated>2022-12-26T08:09:16.399Z</updated>
     
     
       
@@ -54,14 +54,18 @@
     
     
     
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="域名" scheme="http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/"/>
+    
   </entry>
   
   <entry>
-    <title>hexoplugins</title>
+    <title>hexo插件推荐</title>
     <link href="http://ezgx.tk/posts/10453/"/>
     <id>http://ezgx.tk/posts/10453/</id>
     <published>2022-12-23T06:09:11.000Z</published>
-    <updated>2022-12-23T09:47:52.113Z</updated>
+    <updated>2022-12-26T08:09:19.819Z</updated>
     
     
       
@@ -189,26 +193,6 @@
   </entry>
   
   <entry>
-    <title>markdown-it食用教程</title>
-    <link href="http://ezgx.tk/posts/65320/"/>
-    <id>http://ezgx.tk/posts/65320/</id>
-    <published>2022-12-12T09:35:36.000Z</published>
-    <updated>2022-12-24T12:17:28.682Z</updated>
-    
-    
-    <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
-&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm un hexo-renderer-marked --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;然后安装markdown-it&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>markdown-it语法</title>
     <link href="http://ezgx.tk/posts/55920/"/>
     <id>http://ezgx.tk/posts/55920/</id>
@@ -226,6 +210,26 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>markdown-it食用教程</title>
+    <link href="http://ezgx.tk/posts/65320/"/>
+    <id>http://ezgx.tk/posts/65320/</id>
+    <published>2022-12-12T09:35:36.000Z</published>
+    <updated>2022-12-24T12:17:28.682Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
+&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm un hexo-renderer-marked --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然后安装markdown-it&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
