@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2022-11-11T04:23:38.702Z</updated>
+  <updated>2022-12-27T15:38:22.415Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -17,30 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux安装中文输入法</title>
-    <link href="http://ezgx.tk/posts/10141/"/>
-    <id>http://ezgx.tk/posts/10141/</id>
-    <published>2077-08-24T08:35:20.000Z</published>
-    <updated>2022-11-11T04:23:38.702Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://shurufa.sogou.com&quot;&gt;安装包下载&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1、添加中文语言支持&lt;/p&gt;
-&lt;p&gt;打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
     <title>新冠阳性记录</title>
     <link href="http://ezgx.tk/posts/17909/"/>
     <id>http://ezgx.tk/posts/17909/</id>
     <published>2022-12-27T14:47:12.000Z</published>
-    <updated>2022-12-27T15:35:28.554Z</updated>
+    <updated>2022-12-27T15:38:22.415Z</updated>
     
     
       
@@ -53,6 +34,8 @@
     
     
     
+    
+    <category term="生活" scheme="http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -355,6 +338,25 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Linux安装中文输入法</title>
+    <link href="http://ezgx.tk/posts/10141/"/>
+    <id>http://ezgx.tk/posts/10141/</id>
+    <published>2022-08-24T08:35:20.000Z</published>
+    <updated>2022-12-27T15:38:42.181Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://shurufa.sogou.com&quot;&gt;安装包下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1、添加中文语言支持&lt;/p&gt;
+&lt;p&gt;打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
     
   </entry>
   
