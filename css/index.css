@@ -7158,6 +7158,43 @@ a.category_button:after {
     color: darken(rgb(231,76,60),20%);
 }
 
+#article-container code {
+    padding: 2px 4px;
+    border-radius: 6px;
+    background: #4259ef;
+    color: #fff;
+  }
+  
+  #article-container a {
+    text-decoration: none;
+    border-bottom: 2px solid #4259ef;
+    color: #363636;
+    font-weight: bold;
+    padding: 0 4px;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  #article-container a:not(.fancybox):hover {
+    text-decoration: none;
+    border-bottom: 2px solid #00000000;
+    color: #fff;
+    background: #4259ef;
+    border-radius: 4px;
+    box-shadow: 0 8px 12px -3px #425aef23;
+  }
+  
+  #article-container a.fancybox {
+    border-bottom: 0;
+    padding: 0;
+    margin: auto;
+    display: contents;
+    width: fit-content;
+  }
+  
+  #article-container a.fancybox img {
+    cursor: pointer;
+  }
+  
 #nav a:hover {
   background: var(--anzhiyu-main);
   transition: 0.3s;
