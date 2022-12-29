@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2022-12-28T06:35:48.392Z</updated>
+  <updated>2022-12-29T05:38:41.900Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo一体化上传命令</title>
+    <link href="http://ezgx.tk/posts/33392/"/>
+    <id>http://ezgx.tk/posts/33392/</id>
+    <published>2022-12-29T05:17:42.000Z</published>
+    <updated>2022-12-29T05:38:41.900Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="优化" scheme="http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo上传到github或gitee</title>
+    <link href="http://ezgx.tk/posts/61230/"/>
+    <id>http://ezgx.tk/posts/61230/</id>
+    <published>2022-12-29T04:57:58.000Z</published>
+    <updated>2022-12-29T05:17:08.604Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>新冠阳性记录</title>
