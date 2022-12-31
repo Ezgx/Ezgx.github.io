@@ -292,64 +292,64 @@
 
   <url>
     <loc>http://ezgx.tk/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://ezgx.tk/tags/linux/</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/tags/hexo/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2022-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/tags/linux/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/windows/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
