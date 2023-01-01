@@ -208,7 +208,6 @@ template {
   -webkit-box-orient: vertical;
 }
 .fontawesomeIcon,
-hr:before,
 #article-container.post-content h1:before,
 #article-container.post-content h2:before,
 #article-container.post-content h3:before,
@@ -1434,30 +1433,6 @@ h6 code {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-}
-hr {
-  position: relative;
-  margin: 40px auto;
-  border: 2px dashed var(--hr-border);
-  width: calc(100% - 4px);
-}
-hr:hover:before {
-  left: calc(95% - 20px);
-}
-hr:before {
-  position: absolute;
-  top: -10px;
-  left: 5%;
-  z-index: 1;
-  color: var(--hr-before-color);
-  content: '\f0c4';
-  font-size: 20px;
-  line-height: 1;
-  -webkit-transition: all 1s ease-in-out;
-  -moz-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
 }
 .table-wrap {
   overflow-x: scroll;
@@ -3245,6 +3220,75 @@ h1.page-title + .tag-cloud-list {
 #post-comment .comment-wrap > div:nth-child(2) {
   display: none;
 }
+:root {
+  --hr-line-color: #e91417;
+}
+[data-theme="dark"] {
+  --hr-line-color: #4db7d5;
+}
+hr {
+  position: relative;
+  margin: 40px auto;
+  display: block;
+  height: 20px;
+  width: 100%;
+  background: transparent;
+  border: none;
+}
+hr:hover::before {
+  clip-path: polygon(0 0, 60px 100%, calc(100% - 30px) 100%, 100% 50%, calc(100% - 15px) 50%, calc(100% - 35px) calc(100% - 5px), 65px calc(100% - 5px), 15px 0);
+  -webkit-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -moz-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -o-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -ms-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+}
+hr:hover::after {
+  clip-path: polygon(0 50%, 35px 0, calc(100% - 60px) 0, 100% 100%, calc(100% - 15px) 100%, calc(100% - 65px) 5px, 35px 5px, 15px 50%);
+  -webkit-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -moz-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -o-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -ms-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+}
+hr::before {
+  display: block;
+  content: "";
+  height: 20px;
+  width: calc(50% + 60px);
+  left: 0px;
+  position: absolute;
+  background: -webkit-linear-gradient(right, var(--hr-line-color), transparent);
+  background: -moz-linear-gradient(right, var(--hr-line-color), transparent);
+  background: -o-linear-gradient(right, var(--hr-line-color), transparent);
+  background: -ms-linear-gradient(right, var(--hr-line-color), transparent);
+  background: linear-gradient(to left, var(--hr-line-color), transparent);
+  clip-path: polygon(0 100%, 60px 0, calc(100% - 30px) 0, 100% 50%, calc(100% - 15px) 50%, calc(100% - 35px) 5px, 65px 5px, 15px 100%);
+  -webkit-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -moz-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -o-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -ms-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+}
+hr::after {
+  display: block;
+  content: "";
+  height: 20px;
+  width: calc(50% + 60px);
+  right: 0px;
+  position: absolute;
+  background: -webkit-linear-gradient(left, var(--hr-line-color), transparent);
+  background: -moz-linear-gradient(left, var(--hr-line-color), transparent);
+  background: -o-linear-gradient(left, var(--hr-line-color), transparent);
+  background: -ms-linear-gradient(left, var(--hr-line-color), transparent);
+  background: linear-gradient(to right, var(--hr-line-color), transparent);
+  clip-path: polygon(0 50%, 35px 100%, calc(100% - 60px) 100%, 100% 0, calc(100% - 15px) 0, calc(100% - 65px) calc(100% - 5px), 35px calc(100% - 5px), 15px 50%);
+  -webkit-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -moz-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -o-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  -ms-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+  transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
+}
 #footer {
   position: relative;
   background: #49b1f5;
@@ -3276,7 +3320,6 @@ h1.page-title + .tag-cloud-list {
 #page-header {
   position: relative;
   width: 100%;
-  background-color: #49b1f5;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -6003,10 +6046,26 @@ img {
       --style-border-hover: 0px solid var(--heo-theme);
     }
   }
-#page-header:not(.not-top-img):before {
-    background-color: rgba(0,0,0,.0);
+/* 头图透明 */
+#page-header{
+    background: transparent!important;
+  }
+  /* 头图遮罩层透明 */
+  #page-header::before{
+    background: transparent!important;
+    }
+  /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+  #page-header.post-bg:before {
+    background-color: transparent!important;
+  }
+#page-header.full_page {
+    height: 70vh !important;
+    background-attachment: fixed !important;
 }
 
+#web_bg {
+    background-attachment: fixed !important;
+}
 .tips {
     padding-left: 10px;
     background-color: rgba(52,152,219,.3);
