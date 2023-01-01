@@ -5852,6 +5852,16 @@ blockquote.pullquote.right {
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
     --anzhiyu-card-border: #42444a;
   }
+#nav {
+    top: 15px !important;
+    width: 96% !important;
+    margin-left: 2% !important;
+    border-radius: 20px;
+}
+
+#page-header.nav-fixed #nav {
+    top: -50px !important;
+}
 /* 页脚footer */
 /* 渐变色滚动动画 */
 @-webkit-keyframes Gradient {
