@@ -6324,6 +6324,13 @@ blockquote.pullquote.right {
 #page-header.nav-fixed #nav {
     top: -50px !important;
 }
+
+footer {
+    top: -20px !important;
+    width: 96% !important;
+    margin-left: 2% !important;
+    border-radius: 20px;
+}
 /* 页脚footer */
 /* 渐变色滚动动画 */
 @-webkit-keyframes Gradient {
