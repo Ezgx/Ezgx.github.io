@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.tk/qqgroup/index.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/61230/</loc>
     
     <lastmod>2022-12-29</lastmod>
@@ -248,15 +257,6 @@
     <loc>http://ezgx.tk/posts/65417/</loc>
     
     <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/%E8%81%94%E7%B3%BB%E4%BD%9C%E8%80%85/index.html</loc>
-    
-    <lastmod>2022-09-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
