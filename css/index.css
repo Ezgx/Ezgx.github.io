@@ -2314,10 +2314,10 @@ figure.highlight pre .javascript .function {
   font-size: 1.5em;
 }
 :root {
-  --recent-post-bgcolor: rgba(255,255,255,0.9);
-  --article-content-bgcolor: #49b1f5;
-  --recent-post-arrow: #fff;
-  --recent-post-cover-shadow: #fff;
+  --recent-post-bgcolor: #b4fcff;
+  --article-content-bgcolor: #fffd88;
+  --recent-post-arrow: #1201fc;
+  --recent-post-cover-shadow: #b4fcff;
   --recent-post-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
 }
 [data-theme="dark"] {
@@ -6165,6 +6165,67 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+/* 翻页按钮居中 */
+#pagination {
+    width: 100%;
+    margin: auto;
+  }
+/* 侧边栏个人信息卡片动态渐变色 */
+#aside-content > .card-widget.card-info {
+    background: linear-gradient(
+      -45deg,
+      #0ab4df,
+      #0575d1,
+      #a3e9eb,
+      #10e9ba,
+      #0debeb
+    );
+    box-shadow: 0 0 5px rgb(66, 68, 68);
+    position: relative;
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 10s ease infinite;
+    -moz-animation: Gradient 10s ease infinite;
+    animation: Gradient 10s ease infinite !important;
+  }
+  @-webkit-keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  /* 个人信息Follow me按钮 */
+  #aside-content > .card-widget.card-info > #card-info-btn {
+    background-color: #3eb8be;
+    border-radius: 8px;
+  }
 /* 颜色 */
 :root {
     --anzhiyu-theme-op: #4259ef23;
@@ -6254,7 +6315,7 @@ blockquote.pullquote.right {
     --anzhiyu-card-border: #42444a;
   }
 #nav {
-    top: 15px !important;
+    top: 20px !important;
     width: 96% !important;
     margin-left: 2% !important;
     border-radius: 20px;
@@ -6539,6 +6600,19 @@ img {
     cursor: pointer;
   }
   
+#sidebar #sidebar-menus.open {
+    right: -280px !important;
+}
+
+#sidebar #sidebar-menus {
+    height: 96vh !important;
+    margin-top: 2vh;
+    border-radius: 40px;
+}
+
+#sidebar #sidebar-menus .menus_items {
+    padding: 0 10px !important;
+}
 #nav a:hover {
   background: var(--anzhiyu-main);
   transition: 0.3s;
