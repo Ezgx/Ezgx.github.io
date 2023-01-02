@@ -1,0 +1,5 @@
+@font-face{
+    font-family:'nerd' ;  /* 字体名自定义即可 */
+    src:url('/fonts/nerd.otf'); /* 字体文件路径 */
+    font-display : swap;
+  }
