@@ -6174,11 +6174,12 @@ blockquote.pullquote.right {
 #aside-content > .card-widget.card-info {
     background: linear-gradient(
       -45deg,
-      #0ab4df,
-      #0575d1,
-      #a3e9eb,
-      #10e9ba,
-      #0debeb
+      #ec0909,
+      #bd06ce,
+      #0fdbe2,
+      #49ec08,
+      #f8e800,
+      #ec0909
     );
     box-shadow: 0 0 5px rgb(66, 68, 68);
     position: relative;
@@ -6314,6 +6315,7 @@ blockquote.pullquote.right {
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
     --anzhiyu-card-border: #42444a;
   }
+/* 顶栏悬浮 */
 #nav {
     top: 20px !important;
     width: 96% !important;
@@ -6325,6 +6327,7 @@ blockquote.pullquote.right {
     top: -50px !important;
 }
 
+/* 页脚悬浮 */
 footer {
     top: -20px !important;
     width: 96% !important;
@@ -7175,6 +7178,22 @@ center#name-container {
 #rightside>div>button,
 #rightside>div>a {
     border-radius: 50% !important;
+}
+/* 文章块阴影 */
+#recent-posts {
+    box-shadow: 0px 0px 10px 5px #aaa;
+    background: rgba(222, 255, 255, 0.425);
+    top: -20px !important;
+    width: 96% !important;
+    margin-left: 2% !important;
+    border-radius: 20px;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+
+.recent-posts .recent-post-item {
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
+    z-index: 1000;
 }
 .search-dialog {
   position: fixed;
