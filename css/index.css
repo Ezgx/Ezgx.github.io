@@ -6332,7 +6332,8 @@ footer {
     top: -20px !important;
     width: 96% !important;
     margin-left: 2% !important;
-    border-radius: 20px;
+    border-radius: 20px 20px 20px 20px !important;
+    padding-top: 20px;
 }
 /* 页脚footer */
 /* 渐变色滚动动画 */
