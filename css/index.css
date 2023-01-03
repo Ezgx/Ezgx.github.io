@@ -7211,7 +7211,7 @@ center#name-container {
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
     background: rgba(236, 240, 0, 0.8);
 }
-/* 历史上的今天部分白色修复 */
+/* 历史上的今天部分白色bug修复 */
 .history_slide {
     text-align: left;
     font-size: 14px;
@@ -7223,9 +7223,81 @@ center#name-container {
     align-items: flex-start;
 }
 
+/* 文章页效果 */
 #post {
-    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
+    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset;
     background: rgba(255, 255, 255, 0.77);
+}
+
+/* 打赏板块美化 */
+.post-reward .reward-button {
+    display: inline-block;
+    padding: 4px 24px;
+    background: var(--btn-bg);
+    color: black !important;
+    color: var(--btn-color);
+    background: cyan;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px !important;
+}
+
+/* 上一篇下一篇文章部分美化 */
+#pagination.pagination-post {
+    overflow: hidden;
+    margin-top: 40px;
+    width: 100%;
+    border-radius: 20px 20px 20px 20px !important;
+    background: #000;
+}
+
+/* 相关推荐部分*/
+div.relatedPosts-list {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px !important;
+}
+.relatedPosts>.relatedPosts-list>div {
+    border-radius: 20px !important;
+    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255) inset;
+}
+
+/* 标题美化 */
+#article-container.post-content h1 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h2 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h3 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h4 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h5 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h6 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
 }
 .search-dialog {
   position: fixed;
