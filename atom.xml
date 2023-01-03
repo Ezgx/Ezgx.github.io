@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2022-12-29T05:39:15.587Z</updated>
+  <updated>2023-01-03T07:39:49.874Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ecx-UI-1-设计理念</title>
+    <link href="http://ezgx.tk/posts/870/"/>
+    <id>http://ezgx.tk/posts/870/</id>
+    <published>2023-01-03T06:12:57.000Z</published>
+    <updated>2023-01-03T07:39:49.874Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo一体化上传命令</title>
