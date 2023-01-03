@@ -6181,7 +6181,7 @@ blockquote.pullquote.right {
       #f8e800,
       #ec0909
     );
-    box-shadow: 0 0 5px rgb(66, 68, 68);
+    box-shadow: 0px 0px 10px 5px rgb(128, 128, 128) inset;
     position: relative;
     background-size: 400% 400%;
     -webkit-animation: Gradient 10s ease infinite;
@@ -6321,6 +6321,8 @@ blockquote.pullquote.right {
     width: 96% !important;
     margin-left: 2% !important;
     border-radius: 20px;
+    box-shadow: 0px 0px 10px 5px rgb(255, 166, 0) !important;
+    z-index: 1000;
 }
 
 #page-header.nav-fixed #nav {
@@ -6333,6 +6335,7 @@ footer {
     width: 96% !important;
     margin-left: 2% !important;
     border-radius: 20px 20px 20px 20px !important;
+    box-shadow: 0px 0px 10px 5px rgb(0, 119, 255) inset;
     padding-top: 20px;
 }
 /* 页脚footer */
@@ -7182,19 +7185,43 @@ center#name-container {
 }
 /* 文章块阴影 */
 #recent-posts {
-    box-shadow: 0px 0px 10px 5px #aaa;
-    background: rgba(222, 255, 255, 0.425);
+    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
+    background: rgba(222, 255, 255, 0.623);
     top: -20px !important;
     width: 96% !important;
     margin-left: 2% !important;
     border-radius: 20px;
     padding-top: 4vh;
     padding-bottom: 4vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    z-index: -5;
 }
 
 .recent-posts .recent-post-item {
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
     z-index: 1000;
+}
+
+/* 侧边栏颜色&悬浮 */
+#aside-content .card-widget {
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+    padding: 20px 24px;
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
+    background: rgba(236, 240, 0, 0.8);
+}
+/* 历史上的今天部分白色修复 */
+.history_slide {
+    text-align: left;
+    font-size: 14px;
+    background: var(--card-bg);
+    display: flex;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0) !important;
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
+    align-items: flex-start;
 }
 .search-dialog {
   position: fixed;
