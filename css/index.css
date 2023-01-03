@@ -7222,6 +7222,11 @@ center#name-container {
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
     align-items: flex-start;
 }
+
+#post {
+    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
+    background: rgba(255, 255, 255, 0.77);
+}
 .search-dialog {
   position: fixed;
   top: 10%;
