@@ -6026,74 +6026,6 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
-/* 翻页按钮居中 */
-#pagination {
-    width: 100%;
-    margin: auto;
-  }
-/* 侧边栏个人信息卡片动态渐变色 */
-#aside-content > .card-widget.card-info {
-    background: linear-gradient(
-      -45deg,
-      #ec0909,
-      #bd06ce,
-      #0fdbe2,
-      #49ec08,
-      #f8e800,
-      #ec0909
-    );
-    box-shadow: 0px 0px 10px 5px rgb(128, 128, 128) inset;
-    position: relative;
-    background-size: 400% 400%;
-    -webkit-animation: Gradient 10s ease infinite;
-    -moz-animation: Gradient 10s ease infinite;
-    animation: Gradient 10s ease infinite !important;
-  }
-  @-webkit-keyframes Gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-  @-moz-keyframes Gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-  @keyframes Gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-
-/* 方形头像 */
-.avatar-img {
-  border-radius: 20px 20px 20px 20px !important;
-}
-
-/* 框内阴影 */
-.is-center {
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-    border-radius: 10px;
-    text-align: center;
-}
 /* 颜色 */
 :root {
     --anzhiyu-theme-op: #4259ef23;
@@ -6225,6 +6157,72 @@ footer {
     border-radius: 10px;
     padding: -9px;
 }
+
+
+/* 侧边栏个人信息卡片动态渐变色 */
+#aside-content > .card-widget.card-info {
+    background: linear-gradient(
+      -45deg,
+      #ec0909,
+      #bd06ce,
+      #0fdbe2,
+      #49ec08,
+      #f8e800,
+      #ec0909
+    );
+    box-shadow: 0px 0px 10px 5px rgb(128, 128, 128) inset;
+    position: relative;
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 10s ease infinite;
+    -moz-animation: Gradient 10s ease infinite;
+    animation: Gradient 10s ease infinite !important;
+  }
+  @-webkit-keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes Gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+/* 方形头像 */
+.avatar-img {
+  border-radius: 20px 20px 20px 20px !important;
+}
+
+/* 名片框内阴影 */
+.is-center {
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+    border-radius: 10px;
+    text-align: center;
+}
+
 /* 页脚footer */
 /* 渐变色滚动动画 */
 @-webkit-keyframes Gradient {
@@ -6286,6 +6284,242 @@ footer {
     background-color: rgba(0, 0, 0, 0);
 }
 
+/* 手机端菜单悬浮圆角 */
+#sidebar #sidebar-menus.open {
+    right: -280px !important;
+}
+
+#sidebar #sidebar-menus {
+    height: 96vh !important;
+    margin-top: 2vh;
+    border-radius: 40px;
+}
+
+#sidebar #sidebar-menus .menus_items {
+    padding: 0 10px !important;
+}
+
+/* markdown美化 */
+#article-container code {
+    padding: 2px 4px;
+    border-radius: 6px;
+    background: #4259ef;
+    color: #fff;
+  }
+  
+  #article-container a {
+    text-decoration: none;
+    border-bottom: 2px solid #4259ef;
+    color: #363636;
+    font-weight: bold;
+    padding: 0 4px;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  #article-container a:not(.fancybox):hover {
+    text-decoration: none;
+    border-bottom: 2px solid #00000000;
+    color: #fff;
+    background: #4259ef;
+    border-radius: 4px;
+    box-shadow: 0 8px 12px -3px #425aef23;
+  }
+  
+  #article-container a.fancybox {
+    border-bottom: 0;
+    padding: 0;
+    margin: auto;
+    display: contents;
+    width: fit-content;
+  }
+  
+  #article-container a.fancybox img {
+    cursor: pointer;
+  }
+  
+#article-container code {
+    padding: 2px 4px;
+    border-radius: 6px;
+    background: #4259ef;
+    color: #fff;
+  }
+  
+  #article-container a {
+    text-decoration: none;
+    border-bottom: 2px solid #4259ef;
+    color: #363636;
+    font-weight: bold;
+    padding: 0 4px;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  #article-container a:not(.fancybox):hover {
+    text-decoration: none;
+    border-bottom: 2px solid #00000000;
+    color: #fff;
+    background: #4259ef;
+    border-radius: 4px;
+    box-shadow: 0 8px 12px -3px #425aef23;
+  }
+  
+  #article-container a.fancybox {
+    border-bottom: 0;
+    padding: 0;
+    margin: auto;
+    display: contents;
+    width: fit-content;
+  }
+  
+  #article-container a.fancybox img {
+    cursor: pointer;
+  }
+  
+/* 文章块阴影 */
+#recent-posts {
+    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
+    background: rgba(222, 255, 255, 0.623);
+    top: -20px !important;
+    width: 96% !important;
+    margin-left: 2% !important;
+    border-radius: 20px;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    z-index: unset;
+}
+
+.recent-posts .recent-post-item {
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
+}
+
+/* 侧边栏颜色&悬浮 */
+#aside-content .card-widget {
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+    padding: 20px 24px;
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
+    background: rgba(236, 240, 0, 0.8);
+}
+/* 历史上的今天部分白色bug修复 */
+.history_slide {
+    text-align: left;
+    font-size: 14px;
+    background: var(--card-bg);
+    display: flex;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0) !important;
+    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
+    align-items: flex-start;
+}
+
+/* 文章页效果 */
+#post {
+    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset;
+    background: rgba(255, 255, 255, 0.77);
+}
+
+/* 打赏板块美化 */
+.post-reward .reward-button {
+    display: inline-block;
+    padding: 4px 24px;
+    background: var(--btn-bg);
+    color: black !important;
+    color: var(--btn-color);
+    background: cyan;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px !important;
+}
+
+/* 上一篇下一篇文章部分美化 */
+#pagination.pagination-post {
+    overflow: hidden;
+    margin-top: 40px;
+    width: 100%;
+    border-radius: 20px 20px 20px 20px !important;
+    background: #000;
+}
+
+/* 相关推荐部分*/
+div.relatedPosts-list {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px !important;
+}
+.relatedPosts>.relatedPosts-list>div {
+    border-radius: 20px !important;
+    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255) inset;
+}
+
+/* 标题美化 */
+#article-container.post-content h1 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h2 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h3 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h4 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h5 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+#article-container.post-content h6 {
+    padding-left: 32px;
+    background: #00ffff8c;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
+}
+
+/* 右下角按钮圆形 */
+#rightside>div>button,
+#rightside>div>a {
+    border-radius: 50% !important;
+}
+
+/* 头图透明 */
+#page-header{
+    background: transparent!important;
+  }
+  /* 头图遮罩层透明 */
+  #page-header::before{
+    background: transparent!important;
+    }
+  /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+  #page-header.post-bg:before {
+    background-color: transparent!important;
+  }
+/* 头图不全屏 */
+#page-header.full_page {
+    height: 62vh !important;
+    background-attachment: fixed !important;
+}
+
+#web_bg {
+    background-attachment: fixed !important;
+}
+
+/* 鼠标 */
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
         default;
@@ -6296,41 +6530,66 @@ img {
         default;
 }
 
+/* markdown-it颜色块 */
+.tips {
+    padding-left: 10px;
+    background-color: rgba(52,152,219,.3);
+    border-left: 4px solid rgb(52,152,219);
+    color: darken(rgb(52,152,219),20%);
+}
+.success {
+    padding-left: 10px;
+    background-color: rgba(46,204,113,.3);
+    border-left: 4px solid rgb(46,204,113);
+    color: darken(rgb(46,204,113),20%);
+}
+.warning {
+    padding-left: 10px;
+    background-color: rgba(241,196,15,.3);
+    border-left: 4px solid rgb(241,196,15);
+    color: darken(rgb(241,196,15),20%);
+}
+.danger {
+    padding-left: 10px;
+    background-color: rgba(231,76,60,.3);
+    border-left: 4px solid rgb(231,76,60);
+    color: darken(rgb(231,76,60),20%);
+}
+
 /* 滚动条 */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background-color: rgba(73, 177, 245, 0.2);
-  border-radius: 2em;
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: #49b1f5;
-  background-image: -webkit-linear-gradient(
-    45deg,
-    rgba(255, 255, 255, 0.4) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, 0.4) 50%,
-    rgba(255, 255, 255, 0.4) 75%,
-    transparent 75%,
-    transparent
-  );
-  border-radius: 2em;
-}
-
-::-webkit-scrollbar-corner {
-  background-color: transparent;
-}
-
-::-moz-selection {
-  color: #fff;
-  background-color: #49b1f5;
-}
-
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: rgba(73, 177, 245, 0.2);
+    border-radius: 2em;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #49b1f5;
+    background-image: -webkit-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.4) 25%,
+      transparent 25%,
+      transparent 50%,
+      rgba(255, 255, 255, 0.4) 50%,
+      rgba(255, 255, 255, 0.4) 75%,
+      transparent 75%,
+      transparent
+    );
+    border-radius: 2em;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    background-color: transparent;
+  }
+  
+  ::-moz-selection {
+    color: #fff;
+    background-color: #49b1f5;
+  }  
 :root{
     --heo-white: #fff;
     --heo-black: #000;
@@ -6419,26 +6678,6 @@ img {
       --style-border-hover: 0px solid var(--heo-theme);
     }
   }
-/* 头图透明 */
-#page-header{
-    background: transparent!important;
-  }
-  /* 头图遮罩层透明 */
-  #page-header::before{
-    background: transparent!important;
-    }
-  /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
-  #page-header.post-bg:before {
-    background-color: transparent!important;
-  }
-#page-header.full_page {
-    height: 62vh !important;
-    background-attachment: fixed !important;
-}
-
-#web_bg {
-    background-attachment: fixed !important;
-}
 .tips {
     padding-left: 10px;
     background-color: rgba(52,152,219,.3);
@@ -6464,56 +6703,6 @@ img {
     color: darken(rgb(231,76,60),20%);
 }
 
-#article-container code {
-    padding: 2px 4px;
-    border-radius: 6px;
-    background: #4259ef;
-    color: #fff;
-  }
-  
-  #article-container a {
-    text-decoration: none;
-    border-bottom: 2px solid #4259ef;
-    color: #363636;
-    font-weight: bold;
-    padding: 0 4px;
-    border-radius: 4px 4px 0 0;
-  }
-  
-  #article-container a:not(.fancybox):hover {
-    text-decoration: none;
-    border-bottom: 2px solid #00000000;
-    color: #fff;
-    background: #4259ef;
-    border-radius: 4px;
-    box-shadow: 0 8px 12px -3px #425aef23;
-  }
-  
-  #article-container a.fancybox {
-    border-bottom: 0;
-    padding: 0;
-    margin: auto;
-    display: contents;
-    width: fit-content;
-  }
-  
-  #article-container a.fancybox img {
-    cursor: pointer;
-  }
-  
-#sidebar #sidebar-menus.open {
-    right: -280px !important;
-}
-
-#sidebar #sidebar-menus {
-    height: 96vh !important;
-    margin-top: 2vh;
-    border-radius: 40px;
-}
-
-#sidebar #sidebar-menus .menus_items {
-    padding: 0 10px !important;
-}
 #nav a:hover {
   background: var(--anzhiyu-main);
   transition: 0.3s;
@@ -7064,127 +7253,6 @@ center#name-container {
   --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
   --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
   --anzhiyu-card-border: #42444a;
-}
-/* 右下角按钮 */
-#rightside>div>button,
-#rightside>div>a {
-    border-radius: 50% !important;
-}
-/* 文章块阴影 */
-#recent-posts {
-    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
-    background: rgba(222, 255, 255, 0.623);
-    top: -20px !important;
-    width: 96% !important;
-    margin-left: 2% !important;
-    border-radius: 20px;
-    padding-top: 4vh;
-    padding-bottom: 4vh;
-    padding-left: 2vh;
-    padding-right: 2vh;
-    z-index: unset;
-}
-
-.recent-posts .recent-post-item {
-    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
-}
-
-/* 侧边栏颜色&悬浮 */
-#aside-content .card-widget {
-    position: relative;
-    overflow: hidden;
-    margin-top: 20px;
-    padding: 20px 24px;
-    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
-    background: rgba(236, 240, 0, 0.8);
-}
-/* 历史上的今天部分白色bug修复 */
-.history_slide {
-    text-align: left;
-    font-size: 14px;
-    background: var(--card-bg);
-    display: flex;
-    flex-direction: column;
-    background: rgba(0, 0, 0, 0) !important;
-    box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
-    align-items: flex-start;
-}
-
-/* 文章页效果 */
-#post {
-    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset;
-    background: rgba(255, 255, 255, 0.77);
-}
-
-/* 打赏板块美化 */
-.post-reward .reward-button {
-    display: inline-block;
-    padding: 4px 24px;
-    background: var(--btn-bg);
-    color: black !important;
-    color: var(--btn-color);
-    background: cyan;
-    cursor: pointer;
-    border-radius: 20px 20px 20px 20px !important;
-}
-
-/* 上一篇下一篇文章部分美化 */
-#pagination.pagination-post {
-    overflow: hidden;
-    margin-top: 40px;
-    width: 100%;
-    border-radius: 20px 20px 20px 20px !important;
-    background: #000;
-}
-
-/* 相关推荐部分*/
-div.relatedPosts-list {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border-radius: 20px 20px 20px 20px !important;
-}
-.relatedPosts>.relatedPosts-list>div {
-    border-radius: 20px !important;
-    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255) inset;
-}
-
-/* 标题美化 */
-#article-container.post-content h1 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-}
-#article-container.post-content h2 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-}
-#article-container.post-content h3 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-}
-#article-container.post-content h4 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-}
-#article-container.post-content h5 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
-}
-#article-container.post-content h6 {
-    padding-left: 32px;
-    background: #00ffff8c;
-    border-radius: 100px;
-    box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
 }
 .search-dialog {
   position: fixed;
