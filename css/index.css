@@ -6114,6 +6114,8 @@ blockquote.pullquote.right {
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
     --anzhiyu-card-border: #42444a;
   }
+/* Exc-UI
+
 /* 顶栏悬浮 */
 #nav {
     top: 20px !important;
@@ -6136,6 +6138,7 @@ footer {
     border-radius: 20px 20px 20px 20px !important;
     box-shadow: 0px 0px 10px 5px rgb(0, 119, 255) inset;
     padding-top: 20px;
+    clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
 /* 按钮填色 */
@@ -6589,7 +6592,15 @@ img {
   ::-moz-selection {
     color: #fff;
     background-color: #49b1f5;
-  }  
+  }
+
+.fa-angle-down:before {
+    content: "\f107";
+    background: cyan;
+    padding: 10px;
+    color: black;
+    clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
 :root{
     --heo-white: #fff;
     --heo-black: #000;

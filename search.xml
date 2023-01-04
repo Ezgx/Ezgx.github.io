@@ -4,6 +4,42 @@
   
     
     <entry>
+      <title>Ecx-UI-3-文章板块+文章页</title>
+      <link href="/posts/64874/"/>
+      <url>/posts/64874/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ecx-UI-2-顶栏+页脚</title>
+      <link href="/posts/22100/"/>
+      <url>/posts/22100/</url>
+      
+        <content type="html"><![CDATA[<div class="success"><p>今天第一期</p></div><h1>顶栏和页脚</h1><p>顶栏悬浮&amp;圆角&amp;炫光通过css的top等属性实现</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* 顶栏悬浮 */</span></span><br><span class="line"><span class="selector-id">#nav</span> &#123;</span><br><span class="line">    <span class="attribute">top</span>: <span class="number">20px</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">width</span>: <span class="number">96%</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">margin-left</span>: <span class="number">2%</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">border-radius</span>: <span class="number">20px</span>;</span><br><span class="line">    <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">10px</span> <span class="number">5px</span> <span class="built_in">rgb</span>(<span class="number">255</span>, <span class="number">166</span>, <span class="number">0</span>) <span class="meta">!important</span>; <span class="comment">/* 不要炫光就去掉这一行 */</span></span><br><span class="line">    <span class="attribute">z-index</span>: <span class="number">1000</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#page-header</span><span class="selector-class">.nav-fixed</span> <span class="selector-id">#nav</span> &#123;</span><br><span class="line">    <span class="attribute">top</span>: -<span class="number">45px</span> <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>页脚也是一样</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* 页脚悬浮 */</span></span><br><span class="line"><span class="selector-tag">footer</span> &#123;</span><br><span class="line">    <span class="attribute">top</span>: -<span class="number">20px</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">width</span>: <span class="number">96%</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">margin-left</span>: <span class="number">2%</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">border-radius</span>: <span class="number">20px</span> <span class="number">20px</span> <span class="number">20px</span> <span class="number">20px</span> <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">10px</span> <span class="number">5px</span> <span class="built_in">rgb</span>(<span class="number">0</span>, <span class="number">119</span>, <span class="number">255</span>) inset;</span><br><span class="line">    <span class="attribute">padding-top</span>: <span class="number">20px</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>如果想要顶栏按钮填色，可以</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* 按钮填色 */</span></span><br><span class="line"><span class="selector-id">#nav</span> <span class="selector-id">#site-name</span> &#123;</span><br><span class="line">    <span class="attribute">text-shadow</span>: <span class="number">2px</span> <span class="number">2px</span> <span class="number">4px</span> <span class="built_in">rgb</span>(<span class="number">0</span> <span class="number">0</span> <span class="number">0</span> / <span class="number">15%</span>);</span><br><span class="line">    <span class="attribute">font-weight</span>: bold;</span><br><span class="line">    <span class="attribute">cursor</span>: pointer;</span><br><span class="line">    <span class="attribute">background</span>: cyan;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.fa-angle-double-down</span><span class="selector-pseudo">:before</span>, <span class="selector-class">.fa-angles-down</span><span class="selector-pseudo">:before</span> &#123;</span><br><span class="line">    <span class="attribute">content</span>: <span class="string">&quot;\f103&quot;</span>;</span><br><span class="line">    <span class="attribute">background</span>: cyan;</span><br><span class="line">    <span class="attribute">border-radius</span>: <span class="number">10px</span>;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">9px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#nav</span><span class="selector-class">.hide-menu</span> <span class="selector-id">#toggle-menu</span> &#123;</span><br><span class="line">    <span class="attribute">display</span>: inline-block <span class="meta">!important</span>;</span><br><span class="line">    <span class="attribute">background</span>: cyan;</span><br><span class="line">    <span class="attribute">border-radius</span>: <span class="number">10px</span>;</span><br><span class="line">    <span class="attribute">padding</span>: -<span class="number">9px</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> Ecx-UI </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ecx-UI-1-设计理念</title>
       <link href="/posts/870/"/>
       <url>/posts/870/</url>

@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-01-03T16:35:01.380Z</updated>
+  <updated>2023-01-04T07:43:22.556Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ecx-UI-3-文章板块+文章页</title>
+    <link href="http://ezgx.tk/posts/64874/"/>
+    <id>http://ezgx.tk/posts/64874/</id>
+    <published>2023-01-04T03:51:34.000Z</published>
+    <updated>2023-01-04T07:43:22.556Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-2-顶栏+页脚</title>
+    <link href="http://ezgx.tk/posts/22100/"/>
+    <id>http://ezgx.tk/posts/22100/</id>
+    <published>2023-01-04T03:39:10.000Z</published>
+    <updated>2023-01-04T07:43:22.551Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Ecx-UI-1-设计理念</title>
@@ -417,25 +457,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Linux安装中文输入法</title>
-    <link href="http://ezgx.tk/posts/10141/"/>
-    <id>http://ezgx.tk/posts/10141/</id>
-    <published>2022-08-24T08:35:20.000Z</published>
-    <updated>2022-12-27T15:38:42.181Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://shurufa.sogou.com&quot;&gt;安装包下载&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1、添加中文语言支持&lt;/p&gt;
-&lt;p&gt;打开 系统设置——区域和语言——管理已安装的语言——在“语言”tab下——点击“添加或删除语言”&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
     
   </entry>
   
