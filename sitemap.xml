@@ -380,6 +380,13 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/tags/windows/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -388,13 +395,6 @@
   
   <url>
     <loc>http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2023-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
