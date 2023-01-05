@@ -6123,9 +6123,24 @@ blockquote.pullquote.right {
     margin-left: 2% !important;
     border-radius: 20px;
     box-shadow: 0px 0px 10px 5px rgb(255, 166, 0) !important;
+    background: rgba(255,255,255,0)
     z-index: 1000;
 }
-
+/* 模糊顶栏 */
+#page-header.nav-fixed #nav {
+  position: fixed;
+  top: -60px;
+  z-index: 91;
+  background: rgb(255 255 255 / 0%) !important;
+  -webkit-box-shadow: 0 5px 6px -5px rgb(133 133 133 / 60%);
+  box-shadow: 0 5px 6px -5px rgb(133 133 133 / 60%);
+  -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  -moz-transition: -moz-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  -o-transition: -o-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  -ms-transition: -ms-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+}
+/* 顶栏上方距离 */
 #page-header.nav-fixed #nav {
     top: -45px !important;
 }
@@ -6141,24 +6156,45 @@ footer {
     clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
+/* 搜索块 */
+.search-dialog {
+  background: rgba(255,255,255,0.7) !important;
+  box-shadow: 0px 0px 10px 5px rgb(255 166 0) !important;
+  border-radius: 8px;
+}
+
 /* 按钮填色 */
 #nav #site-name {
     text-shadow: 2px 2px 4px rgb(0 0 0 / 15%);
     font-weight: bold;
+    border-radius: 30px;
     cursor: pointer;
     background: cyan;
 }
 .fa-angle-double-down:before, .fa-angles-down:before {
     content: "\f103";
     background: cyan;
-    border-radius: 10px;
+    clip-path: circle(45%);
     padding: 9px;
 }
 #nav.hide-menu #toggle-menu {
     display: inline-block !important;
     background: cyan;
     border-radius: 10px;
+    clip-path: circle(37%);
     padding: -9px;
+}
+.fa-magnifying-glass:before, .fa-search:before {
+  content: "\f002";
+  clip-path: circle(45%);
+  background: cyan;
+  padding: 10px;
+}
+.fa-adjust:before, .fa-circle-half-stroke:before {
+  content: "\f042";
+  background: cyan;
+  padding: 10px;
+  clip-path: circle(45%);
 }
 
 /* 侧边栏作者卡片动态渐变色 */
