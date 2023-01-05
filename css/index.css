@@ -6592,12 +6592,43 @@ img {
     background-color: #49b1f5;
   }
 
-.fa-angle-down:before {
+/* 首页下滑小箭头 */
+  .fa-angle-down:before {
     content: "\f107";
     background: cyan;
     padding: 10px;
     color: black;
     clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+/* 代码块美化 */
+#article-container figure.highlight .highlight-tools:after {
+  position: absolute;
+  left: 14px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #fc625d00;
+  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  box-shadow: 20px 0 #000000;
+  content: ' ';
+}
+#article-container .highlight-tools .copy-button {
+  position: sticky;
+  right: 14px;
+  padding: 10px;
+  color: black;
+  cursor: pointer;
+  clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  background: #00ff28;
+  -webkit-transition: color 0.2s;
+  -moz-transition: color 0.2s;
+  -o-transition: color 0.2s;
+  -ms-transition: color 0.2s;
+  transition: color 0.2s;
+}
+#article-container figure.highlight .highlight-tools .code-lang {
+  left: 32vh;
 }
 :root{
     --heo-white: #fff;
