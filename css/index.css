@@ -1359,7 +1359,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: songti;
+  font-family: songti, nerd;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -6495,7 +6495,8 @@ div.relatedPosts-list {
 /* 右下角按钮圆形 */
 #rightside>div>button,
 #rightside>div>a {
-    border-radius: 50% !important;
+  clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  background: cyan;
 }
 
 /* 头图透明 */
@@ -6535,24 +6536,28 @@ img {
 .tips {
     padding-left: 10px;
     background-color: rgba(52,152,219,.3);
+    border-radius: 20px;
     border-left: 4px solid rgb(52,152,219);
     color: darken(rgb(52,152,219),20%);
 }
 .success {
     padding-left: 10px;
     background-color: rgba(46,204,113,.3);
+    border-radius: 20px;
     border-left: 4px solid rgb(46,204,113);
     color: darken(rgb(46,204,113),20%);
 }
 .warning {
     padding-left: 10px;
     background-color: rgba(241,196,15,.3);
+    border-radius: 20px;
     border-left: 4px solid rgb(241,196,15);
     color: darken(rgb(241,196,15),20%);
 }
 .danger {
     padding-left: 10px;
     background-color: rgba(231,76,60,.3);
+    border-radius: 20px;
     border-left: 4px solid rgb(231,76,60);
     color: darken(rgb(231,76,60),20%);
 }
