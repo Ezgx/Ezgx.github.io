@@ -6181,8 +6181,9 @@ footer {
     display: inline-block !important;
     background: cyan;
     border-radius: 10px;
-    clip-path: circle(50%);
-    padding: -9px;
+    clip-path: circle(45%);
+    padding: 10px;
+    padding-right: 10px;
 }
 .fa-magnifying-glass:before, .fa-search:before {
   content: "\f002";
