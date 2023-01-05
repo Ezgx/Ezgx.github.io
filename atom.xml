@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-01-04T07:43:22.556Z</updated>
+  <updated>2023-01-05T00:22:52.860Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -21,11 +21,60 @@
     <link href="http://ezgx.tk/posts/64874/"/>
     <id>http://ezgx.tk/posts/64874/</id>
     <published>2023-01-04T03:51:34.000Z</published>
-    <updated>2023-01-04T07:43:22.556Z</updated>
+    <updated>2023-01-05T00:22:52.860Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
     
     
     
     
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-3-页脚+侧栏</title>
+    <link href="http://ezgx.tk/posts/64874/"/>
+    <id>http://ezgx.tk/posts/64874/</id>
+    <published>2023-01-04T03:51:34.000Z</published>
+    <updated>2023-01-05T00:41:12.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
     
   </entry>
   
@@ -34,7 +83,7 @@
     <link href="http://ezgx.tk/posts/22100/"/>
     <id>http://ezgx.tk/posts/22100/</id>
     <published>2023-01-04T03:39:10.000Z</published>
-    <updated>2023-01-04T07:43:22.551Z</updated>
+    <updated>2023-01-05T00:15:01.450Z</updated>
     
     
       
@@ -50,9 +99,13 @@
     
     <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
     <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
     
-    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
     
   </entry>
   
@@ -61,7 +114,7 @@
     <link href="http://ezgx.tk/posts/870/"/>
     <id>http://ezgx.tk/posts/870/</id>
     <published>2023-01-03T06:12:57.000Z</published>
-    <updated>2023-01-03T16:35:01.380Z</updated>
+    <updated>2023-01-05T00:11:56.027Z</updated>
     
     
       
@@ -78,6 +131,10 @@
     <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
     <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
     
     <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
@@ -442,21 +499,6 @@
     
     
     <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>OBS Studio录制卡顿怎么解决？</title>
-    <link href="http://ezgx.tk/posts/65417/"/>
-    <id>http://ezgx.tk/posts/65417/</id>
-    <published>2022-08-26T07:11:38.000Z</published>
-    <updated>2022-11-11T04:23:38.669Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;OBS Studio录制卡顿的解决方法&lt;/p&gt;</summary>
-    
-    
-    
     
   </entry>
   

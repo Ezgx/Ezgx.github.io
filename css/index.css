@@ -6114,7 +6114,7 @@ blockquote.pullquote.right {
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
     --anzhiyu-card-border: #42444a;
   }
-/* Exc-UI
+/* Exc-UI */
 
 /* 顶栏悬浮 */
 #nav {
@@ -6161,8 +6161,7 @@ footer {
     padding: -9px;
 }
 
-
-/* 侧边栏个人信息卡片动态渐变色 */
+/* 侧边栏作者卡片动态渐变色 */
 #aside-content > .card-widget.card-info {
     background: linear-gradient(
       -45deg,
@@ -6226,8 +6225,7 @@ footer {
     text-align: center;
 }
 
-/* 页脚footer */
-/* 渐变色滚动动画 */
+/* 页脚渐变色滚动动画 */
 @-webkit-keyframes Gradient {
     0% {
         background-position: 0 50%;
