@@ -2301,10 +2301,10 @@ figure.highlight pre .javascript .function {
   font-size: 1.5em;
 }
 :root {
-  --recent-post-bgcolor: #b4fcff;
+  --recent-post-bgcolor: rgba(180,252,255,0.6);
   --article-content-bgcolor: #fffd88;
   --recent-post-arrow: #1201fc;
-  --recent-post-cover-shadow: #b4fcff;
+  --recent-post-cover-shadow: rgba(180,252,255,0.6);
   --recent-post-transition: all 0.5s cubic-bezier(0.59, 0.01, 0.48, 1.17);
 }
 [data-theme="dark"] {
