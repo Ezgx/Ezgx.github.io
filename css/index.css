@@ -6628,7 +6628,7 @@ img {
   transition: color 0.2s;
 }
 #article-container figure.highlight .highlight-tools .code-lang {
-  left: 32vh;
+  left: 5vh;
 }
 :root{
     --heo-white: #fff;
