@@ -6635,6 +6635,20 @@ img {
 #article-container figure.highlight .highlight-tools .code-lang {
   left: 7vh;
 }
+
+/* 主页翻页按钮圆形 */
+.cardHover, .layout > div:first-child:not(.recent-posts), #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {
+  border-radius: 8px;
+  background: var(--card-bg);
+  -webkit-box-shadow: var(--card-box-shadow);
+  box-shadow: var(--card-box-shadow);
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  border-radius: 20px;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
 :root{
     --heo-white: #fff;
     --heo-black: #000;
