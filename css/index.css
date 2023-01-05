@@ -6181,7 +6181,7 @@ footer {
     display: inline-block !important;
     background: cyan;
     border-radius: 10px;
-    clip-path: circle(37%);
+    clip-path: circle(50%);
     padding: -9px;
 }
 .fa-magnifying-glass:before, .fa-search:before {
