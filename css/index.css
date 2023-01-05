@@ -6417,8 +6417,8 @@ footer {
 
 /* 文章页效果 */
 #post {
-    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset;
-    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset !important;
+    background: rgba(255, 255, 255, 0.77) !important;
 }
 
 /* 打赏板块美化 */
@@ -6492,7 +6492,7 @@ div.relatedPosts-list {
     box-shadow: 0px 0px 10px 5px rgb(0 0 0 / 40%);
 }
 
-/* 右下角按钮圆形 */
+/* 右下角按钮六边形 */
 #rightside>div>button,
 #rightside>div>a {
   clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
@@ -6638,16 +6638,14 @@ img {
 
 /* 主页翻页按钮圆形 */
 .cardHover, .layout > div:first-child:not(.recent-posts), #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {
-  border-radius: 8px;
-  background: var(--card-bg);
-  -webkit-box-shadow: var(--card-box-shadow);
-  box-shadow: var(--card-box-shadow);
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  border-radius: 20px;
-  -o-transition: all 0.3s;
-  -ms-transition: all 0.3s;
-  transition: all 0.3s;
+  border-radius: 10px;
+}
+
+.page-number {
+  border-radius: 200px;
+  background: rgb(236, 240, 0) !important;
+  box-shadow: 20px 0 #aaa;
+  color: black;
 }
 :root{
     --heo-white: #fff;
