@@ -6252,7 +6252,7 @@ footer {
     text-align: center;
 }
 
-/* 侧边栏最新文章部分封面六边形 *、
+/* 侧边栏最新文章部分封面六边形 */
 .imgHover, .article-sort-item-img img, #aside-content .aside-list > .aside-list-item .thumbnail > img {
   clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
