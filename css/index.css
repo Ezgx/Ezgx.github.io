@@ -1633,7 +1633,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: ink !important;
+  font-family: Althea !important;
 }
 #article-container code {
   padding: 2px 4px;
