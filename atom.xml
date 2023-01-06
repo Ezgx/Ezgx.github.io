@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>𝔼ℂℍ𝕆ℂ𝔹𝕏的博客</title>
+  
+  <subtitle>欢迎来到Echocbx的博客</subtitle>
+  <link href="http://ezgx.tk/atom.xml" rel="self"/>
+  
+  <link href="http://ezgx.tk/"/>
+  <updated>2023-01-05T00:47:26.465Z</updated>
+  <id>http://ezgx.tk/</id>
+  
+  <author>
+    <name>Echocbx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ecx-UI-4-页脚+侧栏</title>
+    <link href="http://ezgx.tk/posts/64874/"/>
+    <id>http://ezgx.tk/posts/64874/</id>
+    <published>2023-01-05T00:33:34.000Z</published>
+    <updated>2023-01-05T00:47:26.465Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-3-文章板块+文章页</title>
+    <link href="http://ezgx.tk/posts/64874/"/>
+    <id>http://ezgx.tk/posts/64874/</id>
+    <published>2023-01-04T03:51:34.000Z</published>
+    <updated>2023-01-05T00:55:51.526Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-2-顶栏+页脚</title>
+    <link href="http://ezgx.tk/posts/22100/"/>
+    <id>http://ezgx.tk/posts/22100/</id>
+    <published>2023-01-04T03:39:10.000Z</published>
+    <updated>2023-01-05T00:15:01.450Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-1-设计理念</title>
+    <link href="http://ezgx.tk/posts/870/"/>
+    <id>http://ezgx.tk/posts/870/</id>
+    <published>2023-01-03T06:12:57.000Z</published>
+    <updated>2023-01-05T03:46:32.763Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo一体化上传命令</title>
+    <link href="http://ezgx.tk/posts/33392/"/>
+    <id>http://ezgx.tk/posts/33392/</id>
+    <published>2022-12-29T05:17:42.000Z</published>
+    <updated>2023-01-05T03:47:01.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="优化" scheme="http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo上传到github或gitee</title>
+    <link href="http://ezgx.tk/posts/61230/"/>
+    <id>http://ezgx.tk/posts/61230/</id>
+    <published>2022-12-29T04:57:58.000Z</published>
+    <updated>2022-12-29T05:39:15.601Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新冠阳性记录</title>
+    <link href="http://ezgx.tk/posts/17909/"/>
+    <id>http://ezgx.tk/posts/17909/</id>
+    <published>2022-12-27T14:47:12.000Z</published>
+    <updated>2023-01-05T04:06:08.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="生活" scheme="http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo自定义域名</title>
+    <link href="http://ezgx.tk/posts/55979/"/>
+    <id>http://ezgx.tk/posts/55979/</id>
+    <published>2022-12-26T06:34:45.000Z</published>
+    <updated>2022-12-26T08:09:16.399Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="域名" scheme="http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo插件推荐</title>
+    <link href="http://ezgx.tk/posts/10453/"/>
+    <id>http://ezgx.tk/posts/10453/</id>
+    <published>2022-12-23T06:09:11.000Z</published>
+    <updated>2022-12-26T08:09:19.819Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo一个菜鸟滴踩坑记录和解决办法分享</title>
+    <link href="http://ezgx.tk/posts/21521/"/>
+    <id>http://ezgx.tk/posts/21521/</id>
+    <published>2022-12-19T07:39:03.000Z</published>
+    <updated>2023-01-03T16:42:18.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>windows-terminal美化</title>
+    <link href="http://ezgx.tk/posts/50741/"/>
+    <id>http://ezgx.tk/posts/50741/</id>
+    <published>2022-12-16T07:33:30.000Z</published>
+    <updated>2023-01-05T04:05:58.769Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
+    
+    <category term="美化" scheme="http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用obs虚拟摄像机上网课/开会</title>
+    <link href="http://ezgx.tk/posts/13364/"/>
+    <id>http://ezgx.tk/posts/13364/</id>
+    <published>2022-12-15T07:33:30.000Z</published>
+    <updated>2023-01-05T04:06:25.461Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建-3-主题&amp;页面配置</title>
+    <link href="http://ezgx.tk/posts/45799/"/>
+    <id>http://ezgx.tk/posts/45799/</id>
+    <published>2022-12-14T07:51:30.000Z</published>
+    <updated>2023-01-05T03:47:32.060Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建-2-页面完善</title>
+    <link href="http://ezgx.tk/posts/48756/"/>
+    <id>http://ezgx.tk/posts/48756/</id>
+    <published>2022-12-14T07:21:10.000Z</published>
+    <updated>2023-01-05T03:47:23.315Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;danger&quot;&gt;
+&lt;h2 id=&quot;还算简单…&quot;&gt;还算简单…&lt;/h2&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown-it语法</title>
+    <link href="http://ezgx.tk/posts/55920/"/>
+    <id>http://ezgx.tk/posts/55920/</id>
+    <published>2022-12-12T09:35:36.000Z</published>
+    <updated>2023-01-05T03:48:18.368Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>markdown-it食用教程</title>
+    <link href="http://ezgx.tk/posts/65320/"/>
+    <id>http://ezgx.tk/posts/65320/</id>
+    <published>2022-12-12T09:35:36.000Z</published>
+    <updated>2023-01-05T03:48:11.956Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;给hexo食用更高级的渲染器：markdown-it&lt;/h1&gt;
+&lt;p&gt;&lt;ins&gt;先卸载&lt;/ins&gt;&lt;mark&gt;默认的渲染器&lt;/mark&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm un hexo-renderer-marked --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然后安装markdown-it&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百度网盘高速下载</title>
+    <link href="http://ezgx.tk/posts/da0f/"/>
+    <id>http://ezgx.tk/posts/da0f/</id>
+    <published>2022-12-10T07:16:09.000Z</published>
+    <updated>2023-01-05T03:47:58.495Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建-1-快速开始&amp;安装主题</title>
+    <link href="http://ezgx.tk/posts/31415/"/>
+    <id>http://ezgx.tk/posts/31415/</id>
+    <published>2022-10-03T07:20:36.000Z</published>
+    <updated>2023-01-05T03:47:19.756Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;准备工作&amp;amp;添加主题&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ezgx.tk/posts/16107/"/>
+    <id>http://ezgx.tk/posts/16107/</id>
+    <published>2022-09-11T09:41:45.969Z</published>
+    <updated>2022-12-01T02:51:56.154Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装kali</title>
+    <link href="http://ezgx.tk/posts/51673/"/>
+    <id>http://ezgx.tk/posts/51673/</id>
+    <published>2022-08-26T16:08:28.000Z</published>
+    <updated>2022-11-11T04:23:38.677Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;kali-linux&quot;&gt;kali linux&lt;/h3&gt;
+&lt;p&gt;Kali 的优势和特性：&lt;br&gt;
+1、 包括 900 多种渗透测试工具。&lt;br&gt;
+2、 免费：完全免费且永远都是。你将永远不必支付 Kali Linux 的费用。&lt;br&gt;
+3、 开源：所有进入 Kali Linux 的源代码都可供任何人使用。&lt;br&gt;
+4、 广泛的无线设备支持：我们已经构建了 Kali Linux 以支持尽可能多的无线设备，允许它在各种硬 件上正常运行，并使其与众多 USB 和其他无线设备兼容。&lt;br&gt;
+5、 在安全的环境中开发：Kali Linux 团队由一小部分人组成，他们是唯一可信任的提交包并与存 储库交互的人，所有这些都是使用多个安全协议完成的。&lt;br&gt;
+6、 GPG 签名包和存储库：Kali Linux 中的每个包都由构建和提交它的每个开发人员签名，并且 存储库随后也会对包签名。&lt;br&gt;
+7、 ARMEL 和 ARMHF 支持：Kali Linux 可用于各种 ARM 设备。&lt;/p&gt;
+&lt;!--- more ---&gt;
+&lt;h1&gt;安装教程&lt;/h1&gt;
+&lt;p&gt;1.到官网下载&amp;amp;安装VMware&lt;br&gt;
+&lt;a href=&quot;https://www.vmware.com/cn/get-started.html&quot;&gt;https://www.vmware.com/cn/get-started.html&lt;/a&gt;&lt;br&gt;
+&lt;img src=&quot;https://echox.netlify.app/post-images/1661530423934.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
+    
+  </entry>
+  
+</feed>
