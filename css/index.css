@@ -1385,7 +1385,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(/img/14.jpg);
+  background: url(/img/1.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -1633,7 +1633,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: Althea !important;
+  font-family: ink !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -6128,17 +6128,7 @@ blockquote.pullquote.right {
 }
 /* 模糊顶栏 */
 #page-header.nav-fixed #nav {
-  position: fixed;
-  top: -60px;
-  z-index: 91;
-  background: rgb(255 255 255 / 0%) !important;
-  -webkit-box-shadow: 0 5px 6px -5px rgb(133 133 133 / 60%);
-  box-shadow: 0 5px 6px -5px rgb(133 133 133 / 60%);
-  -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -moz-transition: -moz-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -o-transition: -o-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -ms-transition: -ms-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  background: rgba(255, 255, 255, 0.534) !important;
 }
 /* 顶栏上方距离 */
 #page-header.nav-fixed #nav {
@@ -6416,15 +6406,6 @@ footer {
 #recent-posts {
     box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
     background: rgba(222, 255, 255, 0.623);
-    top: -20px !important;
-    width: 96% !important;
-    margin-left: 2% !important;
-    border-radius: 20px;
-    padding-top: 4vh;
-    padding-bottom: 4vh;
-    padding-left: 2vh;
-    padding-right: 2vh;
-    z-index: unset;
 }
 
 .recent-posts .recent-post-item {
@@ -6433,23 +6414,13 @@ footer {
 
 /* 侧边栏颜色&悬浮 */
 #aside-content .card-widget {
-    position: relative;
-    overflow: hidden;
-    margin-top: 20px;
-    padding: 20px 24px;
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
     background: rgba(236, 240, 0, 0.8);
 }
 /* 历史上的今天部分白色bug修复 */
 .history_slide {
-    text-align: left;
-    font-size: 14px;
-    background: var(--card-bg);
-    display: flex;
-    flex-direction: column;
     background: rgba(0, 0, 0, 0) !important;
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104);
-    align-items: flex-start;
 }
 
 /* 文章页效果 */

@@ -5,7 +5,7 @@
   }
 @font-face{
     font-family:'songti' ;  /* 字体名自定义即可 */
-    src:url('/fonts/songti.otf'); /* 字体文件路径 */
+    src:url('/fonts/songti.ttf'); /* 字体文件路径 */
     font-display : swap;
   }
 @font-face{
