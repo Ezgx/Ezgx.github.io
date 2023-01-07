@@ -6417,6 +6417,8 @@ footer {
 #recent-posts {
     padding-top: 30px;
     padding-bottom: 30px;
+    padding-left: 22px;
+    padding-right: 22px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
     background: rgba(222, 255, 255, 0.623);
@@ -6430,6 +6432,7 @@ footer {
 #aside-content .card-widget {
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-left: 10px;
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
     background: rgba(236, 240, 0, 0.8);
 }
