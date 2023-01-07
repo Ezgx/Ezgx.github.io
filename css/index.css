@@ -6188,6 +6188,11 @@ footer {
   clip-path: circle(45%);
 }
 
+/* swiper图片六边形 */
+.blog-slider__img img {
+  clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
 /* 侧边栏作者卡片动态渐变色 */
 #aside-content > .card-widget.card-info {
     background: linear-gradient(
@@ -6240,9 +6245,10 @@ footer {
     }
   }
 
-/* 方形头像 */
+/* 六边形头像 */
 .avatar-img {
-  border-radius: 20px 20px 20px 20px !important;
+  border-radius: 10px 10px 10px 10px !important; /* 方形圆角 */
+  clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
 /* 名片框内阴影 */
