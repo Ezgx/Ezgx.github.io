@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-01-06T14:31:53.873Z</updated>
+  <updated>2023-01-08T18:31:35.691Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>速度优化-css预加载</title>
+    <link href="http://ezgx.tk/posts/47635/"/>
+    <id>http://ezgx.tk/posts/47635/</id>
+    <published>2023-01-08T17:54:51.000Z</published>
+    <updated>2023-01-08T18:31:35.691Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="前端" scheme="http://ezgx.tk/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Ecx-UI-4-页脚+侧栏</title>
@@ -483,36 +510,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>虚拟机安装kali</title>
-    <link href="http://ezgx.tk/posts/51673/"/>
-    <id>http://ezgx.tk/posts/51673/</id>
-    <published>2022-08-26T16:08:28.000Z</published>
-    <updated>2022-11-11T04:23:38.677Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;kali-linux&quot;&gt;kali linux&lt;/h3&gt;
-&lt;p&gt;Kali 的优势和特性：&lt;br&gt;
-1、 包括 900 多种渗透测试工具。&lt;br&gt;
-2、 免费：完全免费且永远都是。你将永远不必支付 Kali Linux 的费用。&lt;br&gt;
-3、 开源：所有进入 Kali Linux 的源代码都可供任何人使用。&lt;br&gt;
-4、 广泛的无线设备支持：我们已经构建了 Kali Linux 以支持尽可能多的无线设备，允许它在各种硬 件上正常运行，并使其与众多 USB 和其他无线设备兼容。&lt;br&gt;
-5、 在安全的环境中开发：Kali Linux 团队由一小部分人组成，他们是唯一可信任的提交包并与存 储库交互的人，所有这些都是使用多个安全协议完成的。&lt;br&gt;
-6、 GPG 签名包和存储库：Kali Linux 中的每个包都由构建和提交它的每个开发人员签名，并且 存储库随后也会对包签名。&lt;br&gt;
-7、 ARMEL 和 ARMHF 支持：Kali Linux 可用于各种 ARM 设备。&lt;/p&gt;
-&lt;!--- more ---&gt;
-&lt;h1&gt;安装教程&lt;/h1&gt;
-&lt;p&gt;1.到官网下载&amp;amp;安装VMware&lt;br&gt;
-&lt;a href=&quot;https://www.vmware.com/cn/get-started.html&quot;&gt;https://www.vmware.com/cn/get-started.html&lt;/a&gt;&lt;br&gt;
-&lt;img src=&quot;https://echox.netlify.app/post-images/1661530423934.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="linux" scheme="http://ezgx.tk/tags/linux/"/>
     
   </entry>
   
