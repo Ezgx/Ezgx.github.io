@@ -6023,7 +6023,7 @@ footer {
     background: rgba(222, 255, 255, 0.623);
 }
 #recent-posts > .recent-post-item {
-  background: rgba(236, 240, 0, 0.521)
+  background: rgba(236, 240, 0, 0.521);
   box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) !important;
 }
 .imgHover, .article-sort-item-img img, #recent-posts > .recent-post-item .post_cover img.post_bg, #aside-content .aside-list > .aside-list-item .thumbnail > img {
