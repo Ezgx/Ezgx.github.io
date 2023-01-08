@@ -5723,9 +5723,8 @@ blockquote.pullquote.right {
     border-radius: 20px;
     box-shadow: 0px 0px 10px 5px rgb(255, 166, 0) !important;
     background: rgba(255,255,255,0)
-    z-index: 1000;
 }
-/* 模糊顶栏 */
+/* 顶栏渐变 */
 #page-header.nav-fixed #nav {
   background-image: linear-gradient(25deg, #86039d, #996db6, #a0b5ce, #98fde5) !important;
 }
@@ -5895,7 +5894,10 @@ footer {
 
 /* 手机端菜单悬浮圆角 */
 #sidebar #sidebar-menus.open {
-    right: -280px !important;
+    background-image: linear-gradient(25deg, #2508f4, #7968d5, #8faeb2, #88f387)
+}
+#sidebar #menu-mask {
+  background: #ffffff7e;
 }
 
 #sidebar #sidebar-menus {
@@ -5998,11 +6000,11 @@ footer {
   box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) !important;
 }
 .imgHover, .article-sort-item-img img, #recent-posts > .recent-post-item .post_cover img.post_bg, #aside-content .aside-list > .aside-list-item .thumbnail > img {
-  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  clip-path: polygon(83% 10%, 100% 50%, 83% 90%, 18% 90%, 0 50%, 18% 10%);
 }
 #recent-posts > .recent-post-item >.recent-post-info {
   padding: 0 40px;
-  clip-path: polygon(82% 12%, 100% 50%, 83% 87%, 16% 87%, 0 50%, 17% 12%);
+  clip-path: polygon(83% 10%, 100% 50%, 83% 90%, 18% 90%, 0 50%, 18% 10%);
   background: rgba(0, 255, 255, 0.507);
   padding-top: 10vh;
   margin-left: 10px;
