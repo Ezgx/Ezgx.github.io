@@ -5857,11 +5857,6 @@ footer {
     text-align: center;
 }
 
-/* 侧边栏最新文章部分封面六边形 */
-.imgHover, .article-sort-item-img img, #aside-content .aside-list > .aside-list-item .thumbnail > img {
-  clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-
 /* 页脚渐变色滚动动画 */
 @-webkit-keyframes Gradient {
     0% {
@@ -6037,6 +6032,15 @@ footer {
   margin-left: 10px;
   padding-bottom: 10vh;
 }
+#recent-posts > .recent-post-item >.recent-post-info > .article-title {
+  text-align:center;
+}
+#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
+  text-align:center;
+}
+#recent-posts > .recent-post-item >.recent-post-info > .content {
+  text-align:center;
+}
 
 /* 侧边栏颜色&悬浮 */
 #aside-content .card-widget {
@@ -6147,7 +6151,7 @@ div.relatedPosts-list {
     }
   /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
   #page-header.post-bg:before {
-    background-color: transparent!important;
+    background-color: transparent !important;
   }
 /* 头图不全屏 */
 #page-header.full_page {
