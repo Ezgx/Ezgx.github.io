@@ -5727,7 +5727,7 @@ blockquote.pullquote.right {
 }
 /* 模糊顶栏 */
 #page-header.nav-fixed #nav {
-  background: rgba(255, 255, 255, 0.534) !important;
+  background-image: linear-gradient(25deg, #86039d, #996db6, #a0b5ce, #98fde5) !important;
 }
 /* 顶栏上方距离 */
 #page-header.nav-fixed #nav {
@@ -5887,18 +5887,7 @@ footer {
     }
 }
 #footer {
-    background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    -webkit-animation: Gradient 10s ease infinite;
-    -moz-animation: Gradient 10s ease infinite;
-    animation: Gradient 10s ease infinite;
-    -o-user-select: none;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    background-image: linear-gradient(25deg, #86039d, #996db6, #a0b5ce, #98fde5);
 }
 #footer:before {
     background-color: rgba(0, 0, 0, 0);
@@ -6001,11 +5990,11 @@ footer {
     padding-left: 22px;
     padding-right: 22px;
     border-radius: 20px;
-    box-shadow: 0px 0px 10px 5px rgb(236, 240, 0) inset;
+    box-shadow: 0px 0px 17px 17px #D9A195 inset;
     background: rgba(222, 255, 255, 0.623);
 }
 #recent-posts > .recent-post-item {
-  background: rgba(236, 240, 0, 0.521);
+  background-image: linear-gradient(217deg, #8c74e2, #b19ce8, #d1c5ec, #f0f0f0);
   box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) !important;
 }
 .imgHover, .article-sort-item-img img, #recent-posts > .recent-post-item .post_cover img.post_bg, #aside-content .aside-list > .aside-list-item .thumbnail > img {
@@ -6035,7 +6024,7 @@ footer {
     padding-bottom: 10px;
     margin-left: 10px;
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
-    background: rgba(236, 240, 0, 0.8);
+    background-image: linear-gradient(196deg, #7170de, #8c97ca, #9cbeb4, #a3e69b);
 }
 /* 历史上的今天部分白色bug修复 */
 .history_slide {
@@ -6046,7 +6035,7 @@ footer {
 
 /* 文章页效果 */
 #post {
-    box-shadow: 0px 1px 15px 15px rgb(236 240 0) inset !important;
+  box-shadow: 0px 0px 17px 17px #D9A195 inset !important;
     background: rgba(255, 255, 255, 0.77) !important;
 }
 
@@ -6125,7 +6114,8 @@ div.relatedPosts-list {
 #rightside>div>button,
 #rightside>div>a {
   clip-path: polygon(50% 0%, 50% 0%, 100% 25%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  background: cyan;
+  background-image: linear-gradient(25deg, #86039d, #996db6, #a0b5ce, #98fde5);
+  color: black;
 }
 
 /* 头图透明 */
