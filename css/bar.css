@@ -1,0 +1,57 @@
+#nav-right{
+    flex:1 1 auto;
+    justify-content: flex-end;
+    margin-left: auto;
+    display: flex;
+    flex-wrap:nowrap;
+}
+#nav *::after{
+    background-color: transparent!important;
+}
+.menus_item_child li:not(#sidebar-menus li){
+    float: left;
+    border-radius: 6px!important;
+    -webkit-border-radius: 6px!important;
+    -moz-border-radius: 6px!important;
+    -ms-border-radius: 6px!important;
+    -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+  /*
+    left:calc(-150%)!important;这是估算值，为了保持元素居中的，如果不合适可以自己调
+  改为：*/
+  left:50%;
+  translate:-50%;
+}
+#site-name:hover::before{
+    opacity: 1;
+    scale:1.03;
+}
+#site-name{
+    position: relative;
+    font-size: 24px; /*一定要把字体调大点，否则效果惨不忍睹！*/
+}
+:root{
+    --lyx-theme: #ae00ff; /*我的主题色*/
+}
+.nav-fixed #nav{
+    transform: translateY(58px)!important;
+    -webkit-transform: translateY(58px)!important;
+    -moz-transform: translateY(58px)!important;
+    -ms-transform: translateY(58px)!important;
+    -o-transform: translateY(58px)!important;
+}
+#nav{
+    transition: none!important;
+    -webkit-transition: none!important;
+    -moz-transition: none!important;
+    -ms-transition: none!important;
+    -o-transition: none!important;
+}
+#nav .menus_items {
+    /* display: inline; 这个带不带都可以，本来就是inline */
+    position: absolute;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
