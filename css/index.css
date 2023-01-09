@@ -5720,7 +5720,7 @@ blockquote.pullquote.right {
     top: 20px !important;
     width: 96% !important;
     margin-left: 2% !important;
-    border-radius: 20px;
+    border-radius: 1145px;
     box-shadow: 0px 0px 10px 5px rgb(255, 166, 0) !important;
     background: rgba(255,255,255,0)
 }
@@ -5757,20 +5757,29 @@ footer {
     font-weight: bold;
     border-radius: 30px;
     cursor: pointer;
-    background: cyan;
+    background: #0060ff;
     margin-left: 10px;
+    color:rgb(255, 255, 255);
 }
 #page-header #nav .nav-button a {
   margin: 4px;
-  background: cyan;
+  background: #0060ff;
   border-radius: 2000px;
   padding: 5px;
+  color:rgb(255, 255, 255);
 }
 .fa-angle-double-left:before, .fa-angles-left:before {
-  background: cyan;
+  background: #0060ff;
   border-radius: 1000px;
-  padding: 7px;
+  padding: 3px;
   margin-right: 10px;
+  color:rgb(255, 255, 255);
+}
+#page-header.nav-fixed #nav a, #page-header.nav-fixed #nav #site-name, #page-header.nav-fixed #nav #toggle-menu {
+  color: #ffffff !important;
+  border-radius: 20px;
+  text-shadow: none;
+  background: #0060ff;
 }
 
 /* swiper图片六边形 */
@@ -6026,7 +6035,7 @@ footer {
     padding-bottom: 10px;
     margin-left: 10px;
     box-shadow: 0px 0px 10px 5px rgb(104, 104, 104) inset;
-    background-image: linear-gradient(196deg, #7170de, #8c97ca, #9cbeb4, #a3e69b);
+    background-image: linear-gradient(270deg, #8d73eb, #b29cf2, #d4c6f9, #f3f1fe)
 }
 /* 历史上的今天部分白色bug修复 */
 .history_slide {
