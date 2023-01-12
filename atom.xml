@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-01-11T09:36:25.183Z</updated>
+  <updated>2023-01-12T15:24:25.140Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于github被墙这件事</title>
+    <link href="http://ezgx.tk/posts/48213/"/>
+    <id>http://ezgx.tk/posts/48213/</id>
+    <published>2023-01-12T15:08:19.000Z</published>
+    <updated>2023-01-12T15:24:25.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>butterfly导航栏三创</title>
@@ -135,7 +158,7 @@
     <link href="http://ezgx.tk/posts/22100/"/>
     <id>http://ezgx.tk/posts/22100/</id>
     <published>2023-01-04T03:39:10.000Z</published>
-    <updated>2023-01-12T05:45:17.235Z</updated>
+    <updated>2023-01-12T06:02:57.089Z</updated>
     
     
       
@@ -168,7 +191,7 @@
     <link href="http://ezgx.tk/posts/22100/"/>
     <id>http://ezgx.tk/posts/22100/</id>
     <published>2023-01-04T03:39:10.000Z</published>
-    <updated>2023-01-12T06:02:57.089Z</updated>
+    <updated>2023-01-12T05:45:17.235Z</updated>
     
     
       
@@ -507,29 +530,6 @@
     
     
     <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>百度网盘高速下载</title>
-    <link href="http://ezgx.tk/posts/da0f/"/>
-    <id>http://ezgx.tk/posts/da0f/</id>
-    <published>2022-12-10T07:16:09.000Z</published>
-    <updated>2023-01-06T14:45:54.750Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="教程" scheme="http://ezgx.tk/categories/%E6%95%99%E7%A8%8B/"/>
-    
     
   </entry>
   
