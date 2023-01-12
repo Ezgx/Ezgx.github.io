@@ -73,7 +73,7 @@
     <link href="http://ezgx.tk/posts/6854/"/>
     <id>http://ezgx.tk/posts/6854/</id>
     <published>2023-01-05T00:33:34.000Z</published>
-    <updated>2023-01-09T07:02:30.244Z</updated>
+    <updated>2023-01-12T05:51:26.002Z</updated>
     
     
       
@@ -104,7 +104,7 @@
     <link href="http://ezgx.tk/posts/64874/"/>
     <id>http://ezgx.tk/posts/64874/</id>
     <published>2023-01-04T03:51:34.000Z</published>
-    <updated>2023-01-06T14:31:15.229Z</updated>
+    <updated>2023-01-12T05:49:02.608Z</updated>
     
     
       
@@ -131,11 +131,44 @@
   </entry>
   
   <entry>
-    <title>Ecx-UI-2-顶栏+页脚</title>
+    <title>Ecx-UI-2-顶栏+头图</title>
     <link href="http://ezgx.tk/posts/22100/"/>
     <id>http://ezgx.tk/posts/22100/</id>
     <published>2023-01-04T03:39:10.000Z</published>
-    <updated>2023-01-09T06:59:34.243Z</updated>
+    <updated>2023-01-12T05:45:28.853Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ui魔改" scheme="http://ezgx.tk/categories/ui%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-2-顶栏+头图</title>
+    <link href="http://ezgx.tk/posts/22100/"/>
+    <id>http://ezgx.tk/posts/22100/</id>
+    <published>2023-01-04T03:39:10.000Z</published>
+    <updated>2023-01-12T05:45:17.235Z</updated>
     
     
       
@@ -497,23 +530,6 @@
     
     <category term="教程" scheme="http://ezgx.tk/categories/%E6%95%99%E7%A8%8B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>hexo博客搭建-1-快速开始&amp;安装主题</title>
-    <link href="http://ezgx.tk/posts/31415/"/>
-    <id>http://ezgx.tk/posts/31415/</id>
-    <published>2022-10-03T07:20:36.000Z</published>
-    <updated>2023-01-08T07:17:14.463Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;准备工作&amp;amp;添加主题&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
   </entry>
   
