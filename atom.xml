@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Echocbxの异次元</title>
+  
+  <subtitle>欢迎来到Echocbxの异次元</subtitle>
+  <link href="http://ezgx.tk/atom.xml" rel="self"/>
+  
+  <link href="http://ezgx.tk/"/>
+  <updated>2023-01-26T16:47:16.000Z</updated>
+  <id>http://ezgx.tk/</id>
+  
+  <author>
+    <name>Echocbx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ezgx.tk/posts/16107/"/>
+    <id>http://ezgx.tk/posts/16107/</id>
+    <published>2023-01-28T14:09:30.920Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>css日记1</title>
+    <link href="http://ezgx.tk/posts/55282/"/>
+    <id>http://ezgx.tk/posts/55282/</id>
+    <published>2023-01-24T08:49:50.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="前端" scheme="http://ezgx.tk/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo优化方案汇总</title>
+    <link href="http://ezgx.tk/posts/32096/"/>
+    <id>http://ezgx.tk/posts/32096/</id>
+    <published>2023-01-20T06:17:35.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="优化" scheme="http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-5-侧栏</title>
+    <link href="http://ezgx.tk/posts/83242/"/>
+    <id>http://ezgx.tk/posts/83242/</id>
+    <published>2023-01-15T02:52:49.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Ecx-UI第五期&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ui魔改" scheme="http://ezgx.tk/categories/ui%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>速度优化-css预加载</title>
+    <link href="http://ezgx.tk/posts/47635/"/>
+    <id>http://ezgx.tk/posts/47635/</id>
+    <published>2023-01-08T17:54:51.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Ecx-project进行的过程中&lt;br&gt;发现了一个问题&lt;br&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="前端" scheme="http://ezgx.tk/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-4-页脚</title>
+    <link href="http://ezgx.tk/posts/6854/"/>
+    <id>http://ezgx.tk/posts/6854/</id>
+    <published>2023-01-05T00:33:34.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;success&quot;&gt;
+&lt;p&gt;Ecx-UI第四期&lt;/p&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="ui魔改" scheme="http://ezgx.tk/categories/ui%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-3-新拟态风格文章板块+文章页</title>
+    <link href="http://ezgx.tk/posts/64874/"/>
+    <id>http://ezgx.tk/posts/64874/</id>
+    <published>2023-01-04T03:51:34.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ui魔改" scheme="http://ezgx.tk/categories/ui%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-2-顶栏+头图</title>
+    <link href="http://ezgx.tk/posts/22100/"/>
+    <id>http://ezgx.tk/posts/22100/</id>
+    <published>2023-01-04T03:39:10.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;success&quot;&gt;
+&lt;p&gt;Ecx-UI第一期&lt;/p&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="ui魔改" scheme="http://ezgx.tk/categories/ui%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ecx-UI-1-设计理念</title>
+    <link href="http://ezgx.tk/posts/870/"/>
+    <id>http://ezgx.tk/posts/870/</id>
+    <published>2023-01-03T06:12:57.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;第一期–设计理念&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="Ecx-UI" scheme="http://ezgx.tk/tags/Ecx-UI/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo一体化上传命令</title>
+    <link href="http://ezgx.tk/posts/33392/"/>
+    <id>http://ezgx.tk/posts/33392/</id>
+    <published>2022-12-29T05:17:42.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="优化" scheme="http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo上传到github或gitee</title>
+    <link href="http://ezgx.tk/posts/61230/"/>
+    <id>http://ezgx.tk/posts/61230/</id>
+    <published>2022-12-29T04:57:58.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;哔哔&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新冠阳性记录</title>
+    <link href="http://ezgx.tk/posts/17909/"/>
+    <id>http://ezgx.tk/posts/17909/</id>
+    <published>2022-12-27T14:47:12.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活记录" scheme="http://ezgx.tk/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="生活" scheme="http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo自定义域名</title>
+    <link href="http://ezgx.tk/posts/55979/"/>
+    <id>http://ezgx.tk/posts/55979/</id>
+    <published>2022-12-26T06:34:45.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
+&lt;h1&gt;今天教大家给自己的hexo弄免费域名&lt;/h1&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="域名" scheme="http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo插件推荐</title>
+    <link href="http://ezgx.tk/posts/10453/"/>
+    <id>http://ezgx.tk/posts/10453/</id>
+    <published>2022-12-23T06:09:11.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;success&quot;&gt;
+&lt;h1&gt;今天来点hexo插件，顺便水文&lt;/h1&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo一个菜鸟滴踩坑记录和解决办法分享</title>
+    <link href="http://ezgx.tk/posts/21521/"/>
+    <id>http://ezgx.tk/posts/21521/</id>
+    <published>2022-12-19T07:39:03.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;今天继续水一篇（&lt;/h1&gt;
+&lt;p&gt;就说点hexo踩的坑和小技巧吧&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="FAQ" scheme="http://ezgx.tk/tags/FAQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于github被墙这件事</title>
+    <link href="http://ezgx.tk/posts/48213/"/>
+    <id>http://ezgx.tk/posts/48213/</id>
+    <published>2022-12-16T15:08:19.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2022年12月8日，github被墙&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows-terminal美化</title>
+    <link href="http://ezgx.tk/posts/50741/"/>
+    <id>http://ezgx.tk/posts/50741/</id>
+    <published>2022-12-16T07:33:30.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;众所周知，&lt;ins&gt;Windows&lt;/ins&gt;的&lt;mark&gt;cmd&lt;/mark&gt;和&lt;mark&gt;powershell&lt;/mark&gt;都 灰 常 的 丑&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
+    
+    <category term="美化" scheme="http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用obs虚拟摄像机上网课/开会</title>
+    <link href="http://ezgx.tk/posts/13364/"/>
+    <id>http://ezgx.tk/posts/13364/</id>
+    <published>2022-12-15T07:33:30.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
+&lt;h2 id=&quot;请准备&quot;&gt;请准备&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建-3-主题&amp;页面配置</title>
+    <link href="http://ezgx.tk/posts/45799/"/>
+    <id>http://ezgx.tk/posts/45799/</id>
+    <published>2022-12-14T07:51:30.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;danger&quot;&gt;
+&lt;h2 id=&quot;这期开始页面配置&quot;&gt;这期开始页面配置&lt;/h2&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建-2-页面完善</title>
+    <link href="http://ezgx.tk/posts/48756/"/>
+    <id>http://ezgx.tk/posts/48756/</id>
+    <published>2022-12-14T07:21:10.000Z</published>
+    <updated>2023-01-26T16:47:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;danger&quot;&gt;
+&lt;h2 id=&quot;还算简单…&quot;&gt;还算简单…&lt;/h2&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
