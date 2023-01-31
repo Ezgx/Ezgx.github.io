@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>请立即卸载notepad++！</title>
+      <link href="/posts/27391/"/>
+      <url>/posts/27391/</url>
+      
+        <content type="html"><![CDATA[<div class="danger"><h1>请立即卸载notepad++！</h1></div><p><code>Notepad++</code>是一个开源编辑器，作者（侯今吾）是个旅居法国的台湾人，<code>思想极端</code>，素以<code>夹带私货</code>闻名于开发者圈子。</p><p><code>1月 25日</code>，侯今吾在推上发帖称：<code>Notepad++</code>刚启用一个新功能：如果你不同意<code>Notepad++</code>的政治观点，那就在你的源码中加入随机字符！</p><p>是的就是这么离谱这么恶心！</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">“如果不同意政治观点，就在你的源码中添加随机字符”。</span><br></pre></td></tr></table></figure><p>具体如何实现，未可得知，但是这种强制行为立即遭到用户的一片谩骂！</p><p>很快，侯今吾给了答复，说这是一个玩笑，我是真无语！</p><p><img src="../img/posts/notepad++.png" alt=""></p><p>侯今吾曾<code>多次利用</code>软件强行推行政治观点，且拒不认错，引发了程序员群体的强烈反对。</p><ul class="lvl-0"><li class="lvl-2"><p>2022 年 2 月北京冬奥会时，他连续发布了两个 Notepad++ 版本更新，“抵制北京冬奥”。</p></li><li class="lvl-2"><p>2020 年 7 月期间，他支持香港反修。</p></li><li class="lvl-2"><p>2019 对中国的污蔑</p></li></ul><p>真的不像话，一个开发者、一个开源软件应该是这样的吗，这样的人在开源界应该存在？简直就是开源界的毒瘤！</p><p>并且国内某个下载站下载的notepad<ins>还存在恶意程序，西西软件园提供的开源编辑器 Notepad</ins> 被发现捆绑了恶意代码，而这个恶意脚本代码与勒索软件 WannaRen 有关联，该勒索软件可能通过国内下载站进行传播。在中文搜索引擎百度搜索 Notepad++，排在前几位的都是下载站，而不是官网 <a href="http://notepad-plus-plus.org">http://notepad-plus-plus.org</a>，如果下载站的版本存在恶意代码，那么可能会有很多中国用户受到影响。</p><div class="danger"><h2 id="总之，立即卸载它！">总之，立即卸载它！</h2><h2 id="vscode和webstorm不比这玩意好用？">vscode和webstorm不比这玩意好用？</h2><h2 id="真的太恶心了">真的太恶心了</h2></div><h3 id="推荐用geekuninstaller卸干净！">推荐用<a href="https://geekuninstaller.com/">geekuninstaller</a>卸干净！</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录一次诡异的windows崩溃</title>
+      <link href="/posts/27831/"/>
+      <url>/posts/27831/</url>
+      
+        <content type="html"><![CDATA[<div class="danger"><p>记录一次windows崩溃</p></div><p>当时我在用ps作图，同时开了hexo</p><p>cpu占用100%，内存占用80%。</p><p>电脑主板蜂鸣器响了，1长2短。</p><p>然后继续用了2分钟，突然所有程序无响应。</p><p>然后就是爆显存，CPU降频，显示器花屏。</p><p>蜂鸣器10短声过后，电脑蓝屏。</p><p>强制关机重启后进入BIOS界面。</p><p>退出bios进入了grub。</p><p>检查发现windows系统引导损坏。</p><p>多项驱动损坏</p><p>ghost后恢复正常</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/16107/"/>
       <url>/posts/16107/</url>
