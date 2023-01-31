@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-01-31T03:41:36.804Z</updated>
+  <updated>2023-01-31T19:26:18.500Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自定义美化你的windows桌面！</title>
+    <link href="http://ezgx.tk/posts/34037/"/>
+    <id>http://ezgx.tk/posts/34037/</id>
+    <published>2023-01-31T14:05:26.000Z</published>
+    <updated>2023-01-31T19:26:18.500Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
+    
+  </entry>
   
   <entry>
     <title>请立即卸载notepad++！</title>
@@ -454,7 +477,7 @@
     <link href="http://ezgx.tk/posts/50741/"/>
     <id>http://ezgx.tk/posts/50741/</id>
     <published>2022-12-16T07:33:30.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
+    <updated>2023-01-31T14:06:04.775Z</updated>
     
     
     <summary type="html">&lt;p&gt;众所周知，&lt;ins&gt;Windows&lt;/ins&gt;的&lt;mark&gt;cmd&lt;/mark&gt;和&lt;mark&gt;powershell&lt;/mark&gt;都 灰 常 的 丑&lt;/p&gt;</summary>
@@ -463,24 +486,6 @@
     
     
     <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
-    
-    <category term="美化" scheme="http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用obs虚拟摄像机上网课/开会</title>
-    <link href="http://ezgx.tk/posts/13364/"/>
-    <id>http://ezgx.tk/posts/13364/</id>
-    <published>2022-12-15T07:33:30.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
-&lt;h2 id=&quot;请准备&quot;&gt;请准备&lt;/h2&gt;</summary>
-    
-    
-    
     
   </entry>
   

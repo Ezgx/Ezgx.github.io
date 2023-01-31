@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>自定义美化你的windows桌面！</title>
+      <link href="/posts/34037/"/>
+      <url>/posts/34037/</url>
+      
+        <content type="html"><![CDATA[<p>我这个人嘛，好折腾。</p><p>博客整多了，又要开始整点windows了。</p><p>天天写博客跟explorer打交道，我需要一个高效，美观，易用的explorer</p><p>还有方便的启动程序方式，并且占用不能太高</p><p>先看效果图</p><p><img src="/img/posts/windowsdesktop.png" alt="img"></p><h1>以下为本人<code>自用方案</code>和<code>推荐方案</code></h1><h2 id="快捷启动程序实用任务栏。">快捷启动程序实用任务栏。</h2><p>在桌面上建一个文件夹，把<code>所有快捷方式</code>放进去。</p><p>然后右键任务栏，点工具栏，新建工具栏。选择刚刚的文件夹，就好了</p><p>右键任务栏取消锁定，看到<code>||</code>，拖动它，会显示一堆图标。右键，显示，取消掉显示文字和显示标题，选择大图标。</p><p>拖动到最前面然后把任务栏往后拽，你就得到了一个实用的快捷启动任务栏。</p><div class="tips"><p>至此，可以右键桌面-查看-取消勾选显示桌面图标，达到优雅的效果</p></div><h2 id="桌面主题">桌面主题</h2><p>写博客，玩游戏，敲代码，当然要有一个打开电脑就赏心悦目的桌面！</p><p>下载安装ultrathemepatcher（好像是叫这个）</p><p>这里推荐一个网站: <a href="https://zhutix.com/">致美化</a>，上面提到的资源都能在这里找到！</p><p>然后还是在<a href="https://zhutix.com/">致美化</a>去找一个主题，我选择的是Nord北极蓝。</p><p>下载安装</p><div class="danger"><p>安装路径不要变！安装路径不要变！</p></div><p>装好后会跳转官网，关掉就好了。去设置里找到个性化，主题，选择刚刚安装的，就好了。</p><h2 id="图标">图标</h2><p>还是那个网站，下载图标包。双击运行ipack的exe，快速安装。</p><div class="danger"><p>安装会暂时关闭explorer，请务必保存您正在做的工作！</p></div><p>安装好后重启。图标会有变化。</p><h2 id="mac风格">mac风格</h2><p>你可以选择<a href="https://zhutix.com/tools/mydock/">下载mydockfinder</a>来做到<code>mac风格</code>的效果。</p><p>下载后解压，双击运行<code>dock-64.exe</code>，缺少运行库就运行那两个vs。</p><p>然后拖拽图标到dock。</p><p>右键dock选择隐藏任务栏，即可做到mac风格。</p><p>站内也有不少mac风格图标下载。</p><div class="danger"><p>不过换图标包之前要先卸载之前的，推荐geek uninstaller。</p></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>请立即卸载notepad++！</title>
       <link href="/posts/27391/"/>
       <url>/posts/27391/</url>
@@ -439,8 +458,6 @@
         <tags>
             
             <tag> windows </tag>
-            
-            <tag> 美化 </tag>
             
         </tags>
       
