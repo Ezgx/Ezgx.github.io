@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ezgx.tk/posts/27831/</loc>
+    <loc>http://ezgx.tk/posts/27391/</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/27391/</loc>
+    <loc>http://ezgx.tk/posts/27831/</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -155,15 +155,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/61230/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/posts/21521/</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -173,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/10453/</loc>
+    <loc>http://ezgx.tk/posts/61230/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -183,6 +174,15 @@
   
   <url>
     <loc>http://ezgx.tk/posts/55979/</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/posts/10453/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/17909/</loc>
+    <loc>http://ezgx.tk/posts/50741/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/50741/</loc>
+    <loc>http://ezgx.tk/posts/17909/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/categories/index.html</loc>
+    <loc>http://ezgx.tk/cc/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/cc/index.html</loc>
+    <loc>http://ezgx.tk/categories/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/liuyanban/index.html</loc>
+    <loc>http://ezgx.tk/link/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/link/index.html</loc>
+    <loc>http://ezgx.tk/liuyanban/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -455,14 +455,14 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <loc>http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
