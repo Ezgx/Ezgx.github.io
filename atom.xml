@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-03T09:03:48.275Z</updated>
+  <updated>2023-02-03T19:47:00.476Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo主题推荐</title>
+    <link href="http://ezgx.tk/posts/65172/"/>
+    <id>http://ezgx.tk/posts/65172/</id>
+    <published>2023-02-03T18:57:52.000Z</published>
+    <updated>2023-02-03T19:47:00.476Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>自定义美化你的windows桌面！</title>
@@ -469,23 +492,6 @@
     
     
     <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>windows-terminal美化</title>
-    <link href="http://ezgx.tk/posts/50741/"/>
-    <id>http://ezgx.tk/posts/50741/</id>
-    <published>2022-12-16T07:33:30.000Z</published>
-    <updated>2023-02-03T09:06:03.595Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;众所周知，&lt;ins&gt;Windows&lt;/ins&gt;的&lt;mark&gt;cmd&lt;/mark&gt;和&lt;mark&gt;powershell&lt;/mark&gt;都 灰 常 的 丑&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="windows" scheme="http://ezgx.tk/tags/windows/"/>
     
   </entry>
   
