@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-07T08:19:23.367Z</updated>
+  <updated>2023-02-07T13:12:18.333Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用dimension作为您的hexo主题。</title>
+    <link href="http://ezgx.tk/posts/dimension/"/>
+    <id>http://ezgx.tk/posts/dimension/</id>
+    <published>2023-02-07T12:57:15.000Z</published>
+    <updated>2023-02-07T13:12:18.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo主题推荐</title>
@@ -475,23 +500,6 @@
     <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     <category term="FAQ" scheme="http://ezgx.tk/tags/FAQ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于github被墙这件事</title>
-    <link href="http://ezgx.tk/posts/48213/"/>
-    <id>http://ezgx.tk/posts/48213/</id>
-    <published>2022-12-16T15:08:19.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;2022年12月8日，github被墙&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
