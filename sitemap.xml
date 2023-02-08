@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ezgx.tk/link/index.html</loc>
+    <loc>http://ezgx.tk/link.json</loc>
     
     <lastmod>2023-02-08</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/link.json</loc>
+    <loc>http://ezgx.tk/link/index.html</loc>
     
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -236,15 +236,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/10453/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/posts/55979/</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -254,7 +245,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/55920/</loc>
+    <loc>http://ezgx.tk/posts/10453/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -264,6 +255,15 @@
   
   <url>
     <loc>http://ezgx.tk/posts/10141/</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/posts/55920/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorqq/index.html</loc>
+    <loc>http://ezgx.tk/authorwechat/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorwechat/index.html</loc>
+    <loc>http://ezgx.tk/authorqq/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -380,7 +380,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/qqgroup/index.html</loc>
+    <loc>http://ezgx.tk/tags/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -389,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/index.html</loc>
+    <loc>http://ezgx.tk/qqgroup/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
