@@ -326,25 +326,16 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorqq/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/authorwechat/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/categories/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/authorqq/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -372,6 +363,15 @@
   
   <url>
     <loc>http://ezgx.tk/goodsites/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/authorwechat/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
