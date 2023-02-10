@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/13364/</loc>
+    <loc>http://ezgx.tk/posts/65320/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/65320/</loc>
+    <loc>http://ezgx.tk/posts/13364/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -317,15 +317,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorqq/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/about/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -335,7 +326,16 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/cc/index.html</loc>
+    <loc>http://ezgx.tk/authorqq/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/categories/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/categories/index.html</loc>
+    <loc>http://ezgx.tk/cc/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -389,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/liuyanban/index.html</loc>
+    <loc>http://ezgx.tk/qqgroup/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/qqgroup/index.html</loc>
+    <loc>http://ezgx.tk/liuyanban/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
