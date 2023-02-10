@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/posts/55920/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/2637/</loc>
     
     <lastmod>2023-02-08</lastmod>
@@ -200,6 +209,15 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/posts/51673/</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/55282/</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -236,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/51673/</loc>
+    <loc>http://ezgx.tk/posts/45799/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -272,7 +290,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/55920/</loc>
+    <loc>http://ezgx.tk/posts/13364/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -290,43 +308,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/13364/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/posts/45799/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/posts/31415/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/about/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/authorwechat/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -344,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/categories/index.html</loc>
+    <loc>http://ezgx.tk/about/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -362,7 +344,43 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/authorwechat/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/essay/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/categories/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/goodsites/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/tags/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -381,24 +399,6 @@
   
   <url>
     <loc>http://ezgx.tk/qqgroup/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/tags/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/goodsites/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -458,6 +458,13 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/tags/linux/</loc>
+    <lastmod>2023-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-02-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -473,13 +480,6 @@
   
   <url>
     <loc>http://ezgx.tk/tags/FAQ/</loc>
-    <lastmod>2023-02-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/tags/linux/</loc>
     <lastmod>2023-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
