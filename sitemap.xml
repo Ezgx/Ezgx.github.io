@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ezgx.tk/posts/5781/</loc>
+    <loc>http://ezgx.tk/link.json</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/link.json</loc>
+    <loc>http://ezgx.tk/posts/5781/</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -236,15 +236,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/48213/</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/posts/16107/</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -272,7 +263,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/10453/</loc>
+    <loc>http://ezgx.tk/posts/48213/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -281,7 +272,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/55979/</loc>
+    <loc>http://ezgx.tk/posts/10453/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -299,6 +290,15 @@
   </url>
   
   <url>
+    <loc>http://ezgx.tk/posts/65320/</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/posts/13364/</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/posts/65320/</loc>
+    <loc>http://ezgx.tk/posts/55979/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -326,15 +326,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/about/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/authorqq/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -344,7 +335,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorwechat/index.html</loc>
+    <loc>http://ezgx.tk/about/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -371,7 +362,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/essay/index.html</loc>
+    <loc>http://ezgx.tk/authorwechat/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -398,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/liuyanban/index.html</loc>
+    <loc>http://ezgx.tk/tags/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -407,7 +398,16 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/index.html</loc>
+    <loc>http://ezgx.tk/essay/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/liuyanban/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -495,14 +495,14 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/</loc>
+    <loc>http://ezgx.tk/tags/windows/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ezgx.tk/tags/windows/</loc>
+    <loc>http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -532,14 +532,14 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
+    <loc>http://ezgx.tk/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ezgx.tk/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://ezgx.tk/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
