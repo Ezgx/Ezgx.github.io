@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-08T14:01:53.656Z</updated>
+  <updated>2023-02-11T13:19:42.090Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【转载】一篇文章butterfly主题heo化！</title>
+    <link href="http://ezgx.tk/posts/5781/"/>
+    <id>http://ezgx.tk/posts/5781/</id>
+    <published>2023-02-11T12:15:46.000Z</published>
+    <updated>2023-02-11T13:19:42.090Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+    <category term="洪化" scheme="http://ezgx.tk/tags/%E6%B4%AA%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>chrome发布新的css单位：lvh，svh，dvh！</title>
@@ -482,25 +513,6 @@
     <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
     <category term="域名" scheme="http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo插件推荐</title>
-    <link href="http://ezgx.tk/posts/10453/"/>
-    <id>http://ezgx.tk/posts/10453/</id>
-    <published>2022-12-23T06:09:11.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;success&quot;&gt;
-&lt;h1&gt;今天来点hexo插件，顺便水文&lt;/h1&gt;
-&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
   </entry>
   
