@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>我是怎么接触到个人博客hexo的</title>
+      <link href="/posts/33280/"/>
+      <url>/posts/33280/</url>
+      
+        <content type="html"><![CDATA[<div class="msgbox"><div class="msgguest msg-main"><div class="msg-avatar-box"><img class="msg-avatar no-lightbox" title="person" src="https://wlopck.gitee.io/img/friend_404.gif"/></div><div class="msg-content"><div class="msg-name">person</div><div class="msg-content-text"><p>你玩多久hexo了</p></div></div></div><div class="msgguest msg-main"><div class="msg-avatar-box"><img class="msg-avatar no-lightbox" title="person2" src="https://wlopck.gitee.io/img/friend_404.gif"/></div><div class="msg-content"><div class="msg-name">person2</div><div class="msg-content-text"><p>你怎么接触到hexo的</p></div></div></div>          </div><h1>我是怎么接触到hexo的</h1><p>一个菜鸟的hexo历史记录</p><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>07-20</p></div></div><div class='timeline-item-content'><p>我第一次接触到<code>个人博客</code></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>07-25</p></div></div><div class='timeline-item-content'><p>我知道了<code>hexo</code>，但hexo的食用难度劝退了我。</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>07-30</p></div></div><div class='timeline-item-content'><p>我转到了<code>gridea</code></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>08-03</p></div></div><div class='timeline-item-content'><p>我在用<code>gridea</code>的同时研究<code>hexo</code></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>08-13</p></div></div><div class='timeline-item-content'><p>我的hexo博客落地了，<code>github</code>域名，<code>fluid</code>主题，仅仅一篇<code>hello world</code>，当时我叫<code>Axbdk</code></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>08-20</p></div></div><div class='timeline-item-content'><p>有了些文章，开始魔改</p></div></div></div><p>主题更换记录：</p><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>08-13</p></div></div><div class='timeline-item-content'><p>fluid主题</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>09-03</p></div></div><div class='timeline-item-content'><p>yun主题</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>09-20</p></div></div><div class='timeline-item-content'><p>shoka主题</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>10-12</p></div></div><div class='timeline-item-content'><p>particleX主题</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>11-02</p></div></div><div class='timeline-item-content'><p>butterfly主题</p></div></div></div><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p></div></div><div class='timeline-item-content'><p>butterfly主题魔改（阴间版</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-08</p></div></div><div class='timeline-item-content'><p>独立主题：<code>dimension</code>，基于<code>butterfly</code>，被店长喷了一波</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-12</p></div></div><div class='timeline-item-content'><p>洪化<code>butterfly</code>主题</p></div></div></div><p>hexo的上手难度较高，需要熟悉命令行操作，markdown语法，配置环境变量，安装合适版本的nodejs</p><p>我也用过不少主题，也魔改过，加过特效，最后还洪化了哈哈哈</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【转载】一篇文章butterfly主题heo化！</title>
       <link href="/posts/5781/"/>
       <url>/posts/5781/</url>
@@ -135,19 +154,6 @@
             <tag> windows </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/posts/16107/"/>
-      <url>/posts/16107/</url>
-      
-        <content type="html"><![CDATA[<span id="more"></span><p>这是我第一次用hexo搭建博客，也是第一篇文章那就让我们开始写作，写下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></table></figure><p>（前面的文章是gridea弄的</p><blockquote><p>黑历史</p></blockquote>]]></content>
-      
-      
       
     </entry>
     
@@ -718,6 +724,19 @@
             <tag> linux </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/16107/"/>
+      <url>/posts/16107/</url>
+      
+        <content type="html"><![CDATA[<span id="more"></span><p>这是我第一次用hexo搭建博客，也是第一篇文章那就让我们开始写作，写下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></table></figure><p>（前面的文章是gridea弄的</p><blockquote><p>黑历史</p></blockquote>]]></content>
+      
+      
       
     </entry>
     
