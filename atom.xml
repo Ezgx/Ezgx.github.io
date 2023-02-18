@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-12T05:47:58.010Z</updated>
+  <updated>2023-02-18T18:15:15.264Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【原创】cbx-home开源首页</title>
+    <link href="http://ezgx.tk/posts/46680/"/>
+    <id>http://ezgx.tk/posts/46680/</id>
+    <published>2023-02-18T17:56:23.000Z</published>
+    <updated>2023-02-18T18:15:15.264Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="前端" scheme="http://ezgx.tk/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>我是怎么接触到个人博客hexo的</title>
@@ -494,27 +517,6 @@
     <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     <category term="生活" scheme="http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo自定义域名</title>
-    <link href="http://ezgx.tk/posts/55979/"/>
-    <id>http://ezgx.tk/posts/55979/</id>
-    <published>2022-12-26T06:34:45.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
-&lt;h1&gt;今天教大家给自己的hexo弄免费域名&lt;/h1&gt;
-&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
-    
-    <category term="域名" scheme="http://ezgx.tk/tags/%E5%9F%9F%E5%90%8D/"/>
     
   </entry>
   
