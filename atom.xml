@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-18T18:15:15.264Z</updated>
+  <updated>2023-02-23T15:54:21.549Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>butterfly主题添加动态蓝天白云特效</title>
+    <link href="http://ezgx.tk/posts/35907/"/>
+    <id>http://ezgx.tk/posts/35907/</id>
+    <published>2023-02-23T13:59:13.000Z</published>
+    <updated>2023-02-23T15:54:21.549Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="魔改" scheme="http://ezgx.tk/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.tk/tags/butterfly/"/>
+    
+  </entry>
   
   <entry>
     <title>【原创】cbx-home开源首页</title>
@@ -490,33 +519,6 @@
     <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
     
     <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新冠阳性记录</title>
-    <link href="http://ezgx.tk/posts/17909/"/>
-    <id>http://ezgx.tk/posts/17909/</id>
-    <published>2022-12-27T14:47:12.000Z</published>
-    <updated>2023-02-03T09:06:11.322Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="生活记录" scheme="http://ezgx.tk/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="碎碎念" scheme="http://ezgx.tk/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    <category term="生活" scheme="http://ezgx.tk/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
