@@ -6,7 +6,7 @@
   <link href="http://ezgx.tk/atom.xml" rel="self"/>
   
   <link href="http://ezgx.tk/"/>
-  <updated>2023-02-23T15:54:21.549Z</updated>
+  <updated>2023-02-25T10:53:09.149Z</updated>
   <id>http://ezgx.tk/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微软推出“新必应”，支持在线ChatGPT！</title>
+    <link href="http://ezgx.tk/posts/11066/"/>
+    <id>http://ezgx.tk/posts/11066/</id>
+    <published>2023-02-25T10:31:37.000Z</published>
+    <updated>2023-02-25T10:53:09.149Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>butterfly主题添加动态蓝天白云特效</title>
@@ -73,7 +94,7 @@
     <link href="http://ezgx.tk/posts/33280/"/>
     <id>http://ezgx.tk/posts/33280/</id>
     <published>2023-02-12T04:47:41.000Z</published>
-    <updated>2023-02-12T05:47:58.010Z</updated>
+    <updated>2023-02-25T10:56:31.638Z</updated>
     
     
       
@@ -96,7 +117,7 @@
     <link href="http://ezgx.tk/posts/5781/"/>
     <id>http://ezgx.tk/posts/5781/</id>
     <published>2023-02-11T12:15:46.000Z</published>
-    <updated>2023-02-11T15:41:15.730Z</updated>
+    <updated>2023-02-25T10:57:34.990Z</updated>
     
     
       
@@ -127,7 +148,7 @@
     <link href="http://ezgx.tk/posts/2637/"/>
     <id>http://ezgx.tk/posts/2637/</id>
     <published>2023-02-08T13:32:01.000Z</published>
-    <updated>2023-02-08T14:01:53.656Z</updated>
+    <updated>2023-02-25T11:06:06.234Z</updated>
     
     
       
@@ -150,7 +171,7 @@
     <link href="http://ezgx.tk/posts/dimension/"/>
     <id>http://ezgx.tk/posts/dimension/</id>
     <published>2023-02-07T12:57:15.000Z</published>
-    <updated>2023-02-08T13:31:00.920Z</updated>
+    <updated>2023-02-25T11:06:40.994Z</updated>
     
     
       
@@ -175,7 +196,7 @@
     <link href="http://ezgx.tk/posts/65172/"/>
     <id>http://ezgx.tk/posts/65172/</id>
     <published>2023-02-03T18:57:52.000Z</published>
-    <updated>2023-02-07T08:19:23.367Z</updated>
+    <updated>2023-02-25T11:03:49.385Z</updated>
     
     
       
@@ -198,7 +219,7 @@
     <link href="http://ezgx.tk/posts/34037/"/>
     <id>http://ezgx.tk/posts/34037/</id>
     <published>2023-01-31T14:05:26.000Z</published>
-    <updated>2023-02-03T09:03:48.275Z</updated>
+    <updated>2023-02-25T10:58:26.498Z</updated>
     
     
       
@@ -221,7 +242,7 @@
     <link href="http://ezgx.tk/posts/27391/"/>
     <id>http://ezgx.tk/posts/27391/</id>
     <published>2023-01-31T01:35:38.000Z</published>
-    <updated>2023-02-03T09:04:05.171Z</updated>
+    <updated>2023-02-25T10:59:12.852Z</updated>
     
     
       
@@ -265,7 +286,7 @@
     <link href="http://ezgx.tk/posts/55282/"/>
     <id>http://ezgx.tk/posts/55282/</id>
     <published>2023-01-24T08:49:50.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
+    <updated>2023-02-25T11:01:09.321Z</updated>
     
     
       
@@ -500,25 +521,6 @@
     <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="优化" scheme="http://ezgx.tk/tags/%E4%BC%98%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo上传到github或gitee</title>
-    <link href="http://ezgx.tk/posts/61230/"/>
-    <id>http://ezgx.tk/posts/61230/</id>
-    <published>2022-12-29T04:57:58.000Z</published>
-    <updated>2023-02-03T09:05:45.192Z</updated>
-    
-    
-    <summary type="html">&lt;h1&gt;哔哔&lt;/h1&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://ezgx.tk/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.tk/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
