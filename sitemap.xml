@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.tk/about/index.html</loc>
+    
+    <lastmod>2023-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.tk/2022/55920/</loc>
     
     <lastmod>2023-02-26</lastmod>
@@ -93,15 +102,6 @@
   
   <url>
     <loc>http://ezgx.tk/essay/index.html</loc>
-    
-    <lastmod>2023-02-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.tk/about/index.html</loc>
     
     <lastmod>2023-02-25</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/2022/65417/</loc>
+    <loc>http://ezgx.tk/2022/51673/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/2022/51673/</loc>
+    <loc>http://ezgx.tk/2022/65417/</loc>
     
     <lastmod>2023-01-26</lastmod>
     
@@ -416,15 +416,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.tk/authorqq/index.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.tk/authorwechat/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
@@ -444,6 +435,15 @@
   
   <url>
     <loc>http://ezgx.tk/tags/index.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.tk/authorqq/index.html</loc>
     
     <lastmod>2023-01-26</lastmod>
     
