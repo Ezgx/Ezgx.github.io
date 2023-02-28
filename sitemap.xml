@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.site/link/index.html</loc>
+    
+    <lastmod>2023-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.site/2023/59381/</loc>
     
     <lastmod>2023-02-28</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://ezgx.site/about/index.html</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/link/index.html</loc>
     
     <lastmod>2023-02-28</lastmod>
     
@@ -201,15 +201,6 @@
   
   <url>
     <loc>http://ezgx.site/2023/46680/</loc>
-    
-    <lastmod>2023-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/link.json</loc>
     
     <lastmod>2023-02-18</lastmod>
     
