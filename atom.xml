@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-02-28T10:41:39.542Z</updated>
+  <updated>2023-03-03T13:18:48.679Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://ezgx.site/2023/59381/"/>
     <id>http://ezgx.site/2023/59381/</id>
     <published>2023-02-28T10:23:44.000Z</published>
-    <updated>2023-02-28T10:41:39.542Z</updated>
+    <updated>2023-03-03T13:18:48.679Z</updated>
     
     
       
@@ -63,7 +63,7 @@
     <link href="http://ezgx.site/2023/35907/"/>
     <id>http://ezgx.site/2023/35907/</id>
     <published>2023-02-23T13:59:13.000Z</published>
-    <updated>2023-02-28T09:41:20.174Z</updated>
+    <updated>2023-03-03T13:15:51.030Z</updated>
     
     
       
@@ -76,10 +76,10 @@
     
     
     
+    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
+    
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
     
@@ -92,7 +92,7 @@
     <link href="http://ezgx.site/2023/46680/"/>
     <id>http://ezgx.site/2023/46680/</id>
     <published>2023-02-18T17:56:23.000Z</published>
-    <updated>2023-02-18T18:15:15.264Z</updated>
+    <updated>2023-03-03T13:16:54.109Z</updated>
     
     
       
@@ -104,32 +104,11 @@
       
     
     
+    
+    <category term="dimension" scheme="http://ezgx.site/categories/dimension/"/>
     
     
     <category term="前端" scheme="http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我是怎么接触到个人博客hexo的</title>
-    <link href="http://ezgx.site/2023/33280/"/>
-    <id>http://ezgx.site/2023/33280/</id>
-    <published>2023-02-12T04:47:41.000Z</published>
-    <updated>2023-02-25T10:56:31.638Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    
-    <category term="生活" scheme="http://ezgx.site/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -138,7 +117,7 @@
     <link href="http://ezgx.site/2023/5781/"/>
     <id>http://ezgx.site/2023/5781/</id>
     <published>2023-02-11T12:15:46.000Z</published>
-    <updated>2023-02-25T10:57:34.990Z</updated>
+    <updated>2023-03-03T13:19:58.664Z</updated>
     
     
       
@@ -151,16 +130,16 @@
     
     
     
+    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="heo同款" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/heo%E5%90%8C%E6%AC%BE/"/>
+    
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
     
     <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
-    
-    <category term="洪化" scheme="http://ezgx.site/tags/%E6%B4%AA%E5%8C%96/"/>
     
   </entry>
   
@@ -169,7 +148,7 @@
     <link href="http://ezgx.site/2023/2637/"/>
     <id>http://ezgx.site/2023/2637/</id>
     <published>2023-02-08T13:32:01.000Z</published>
-    <updated>2023-02-25T11:06:06.234Z</updated>
+    <updated>2023-03-03T13:17:48.830Z</updated>
     
     
       
@@ -181,6 +160,8 @@
       
     
     
+    
+    <category term="css" scheme="http://ezgx.site/categories/css/"/>
     
     
     <category term="前端" scheme="http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/"/>
@@ -192,7 +173,7 @@
     <link href="http://ezgx.site/2023/dimension/"/>
     <id>http://ezgx.site/2023/dimension/</id>
     <published>2023-02-07T12:57:15.000Z</published>
-    <updated>2023-02-28T09:41:20.173Z</updated>
+    <updated>2023-03-03T13:20:25.292Z</updated>
     
     
       
@@ -204,6 +185,8 @@
       
     
     
+    
+    <category term="dimension" scheme="http://ezgx.site/categories/dimension/"/>
     
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
@@ -307,7 +290,7 @@
     <link href="http://ezgx.site/2023/55282/"/>
     <id>http://ezgx.site/2023/55282/</id>
     <published>2023-01-24T08:49:50.000Z</published>
-    <updated>2023-02-25T11:01:09.321Z</updated>
+    <updated>2023-03-03T13:17:58.593Z</updated>
     
     
       
@@ -319,6 +302,8 @@
       
     
     
+    
+    <category term="css" scheme="http://ezgx.site/categories/css/"/>
     
     
     <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
@@ -386,12 +371,18 @@
     <link href="http://ezgx.site/2023/47635/"/>
     <id>http://ezgx.site/2023/47635/</id>
     <published>2023-01-08T17:54:51.000Z</published>
-    <updated>2023-02-03T09:03:05.899Z</updated>
+    <updated>2023-03-03T13:24:49.688Z</updated>
     
     
     <summary type="html">&lt;p&gt;Ecx-project进行的过程中&lt;br&gt;发现了一个问题&lt;br&gt;&lt;/p&gt;</summary>
     
     
+    
+    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="css" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/css/"/>
+    
+    <category term="博客优化" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/css/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
     
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
@@ -515,6 +506,37 @@
     <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
     
     <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo一体化上传命令</title>
+    <link href="http://ezgx.site/2022/33392/"/>
+    <id>http://ezgx.site/2022/33392/</id>
+    <published>2022-12-29T05:17:42.000Z</published>
+    <updated>2023-03-03T13:24:35.590Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="博客优化" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
+    
+    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="优化" scheme="http://ezgx.site/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
