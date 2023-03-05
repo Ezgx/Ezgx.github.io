@@ -494,6 +494,13 @@
   </url>
   
   <url>
+    <loc>http://ezgx.site/tags/linux/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -516,13 +523,6 @@
   
   <url>
     <loc>http://ezgx.site/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/tags/linux/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -559,6 +559,13 @@
   </url>
   
   <url>
+    <loc>http://ezgx.site/categories/dimension/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.site/categories/css/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -574,13 +581,6 @@
   
   <url>
     <loc>http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/categories/dimension/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
