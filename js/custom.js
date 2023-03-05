@@ -154,7 +154,7 @@ window.onkeydown = function (e) {
               position: 'top-left',
               offset: 50,
               showClose: true,
-              type: "success",
+              type: "warning",
               duration: 99999999999
           });
       }

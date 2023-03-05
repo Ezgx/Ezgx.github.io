@@ -95,8 +95,6 @@
           
           <category> 杂谈教程 </category>
           
-          <category> heo同款 </category>
-          
       </categories>
       
       
@@ -324,14 +322,10 @@
       <link href="/2023/47635/"/>
       <url>/2023/47635/</url>
       
-        <content type="html"><![CDATA[<p>Ecx-project进行的过程中<br>发现了一个问题<br></p><span id="more"></span><p>就是我加了nerdfont，仿宋等等多个字体<br>使用的css引入<br>再加上我没有cdn，用的也是github，加载非常慢<br>字体要十几秒。</p><div class="success"><p>这就有了今天的优化方案</p></div><div class="tips"><p>思路：首先我想到的方式有：</p><ol><li class="lvl-3">预加载<br></li></ol><ul class="lvl-1"><li class="lvl-2">原理：提早浏览器对资源的加载时机，和页面本身的解析流程更加同时，加速页面整体的渲染流程</li><li class="lvl-2">它慢，让它先加载</li><li class="lvl-2">方法：预加载css和ttf</li></ul><ol start="2"><li class="lvl-3">cdn</li></ol><ul class="lvl-1"><li class="lvl-2">没钱买</li></ul></div><p>今天来预加载</p><ul class="lvl-0"><li class="lvl-2"><p>首先声明：教程适用于butterfly主题</p></li></ul><p>在主题配置中找到inject字段</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p>可以看到你引用的css</p><p>然后添加预加载</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;preload&quot;</span> <span class="string">as=&quot;style&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p><code>注意这里两处自定义css的名称必须相同，这样他们才会指向同一个css</code></p><p>如果要预加载字体，先确保字体已经正常显示然后</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;preload&quot;</span> <span class="string">as=&quot;font&quot;</span> <span class="string">type=&quot;font/ttf&quot;</span> <span class="string">href=&quot;字体路径&quot;</span> <span class="string">crossorigin=&quot;anonymous&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p>特别鸣谢：</p><p><img src="https://wlopck.gitee.io/img/posts/csspreload-thank.png" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<p>Ecx-project进行的过程中<br>发现了一个问题<br></p><span id="more"></span><p>就是我加了nerdfont，仿宋等等多个字体<br>使用的css引入<br>再加上我没有cdn，用的也是github，加载非常慢<br>字体要十几秒。</p><div class="success"><p>这就有了今天的优化方案</p></div><div class="tips"><p>思路：首先我想到的方式有：</p><ol><li class="lvl-3">预加载<br></li></ol><ul class="lvl-1"><li class="lvl-2">原理：提早浏览器对资源的加载时机，和页面本身的解析流程更加同时，加速页面整体的渲染流程</li><li class="lvl-2">它慢，让它先加载</li><li class="lvl-2">方法：预加载css和ttf</li></ul><ol><li class="lvl-3">cdn</li></ol><ul class="lvl-1"><li class="lvl-2">没钱买</li></ul></div><p>今天来预加载</p><ul class="lvl-0"><li class="lvl-2"><p>首先声明：教程适用于butterfly主题</p></li></ul><p>在主题配置中找到inject字段</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p>可以看到你引用的css</p><p>然后添加预加载</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;preload&quot;</span> <span class="string">as=&quot;style&quot;</span> <span class="string">type=&quot;text/css&quot;</span> <span class="string">href=&quot;/css/自定义css的名称.css&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p><code>注意这里两处自定义css的名称必须相同，这样他们才会指向同一个css</code></p><p>如果要预加载字体，先确保字体已经正常显示然后</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Inject</span></span><br><span class="line"><span class="comment"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span></span><br><span class="line"><span class="comment"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span></span><br><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;preload&quot;</span> <span class="string">as=&quot;font&quot;</span> <span class="string">type=&quot;font/ttf&quot;</span> <span class="string">href=&quot;字体路径&quot;</span> <span class="string">crossorigin=&quot;anonymous&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br></pre></td></tr></table></figure><p>特别鸣谢：</p><p><img src="https://wlopck.gitee.io/img/posts/csspreload-thank.png" alt=""></p>]]></content>
       
       
       <categories>
-          
-          <category> 杂谈教程 </category>
-          
-          <category> css </category>
           
           <category> 博客优化 </category>
           
@@ -487,8 +481,6 @@
       
       
       <categories>
-          
-          <category> 杂谈教程 </category>
           
           <category> 博客优化 </category>
           
@@ -693,8 +685,6 @@
       
       <categories>
           
-          <category> 杂谈教程 </category>
-          
           <category> 博客教程 </category>
           
       </categories>
@@ -719,8 +709,6 @@
       
       
       <categories>
-          
-          <category> 杂谈教程 </category>
           
           <category> 博客教程 </category>
           
@@ -761,8 +749,6 @@
       <categories>
           
           <category> 杂谈教程 </category>
-          
-          <category> 博客优化 </category>
           
       </categories>
       
@@ -805,8 +791,6 @@
       
       
       <categories>
-          
-          <category> 杂谈教程 </category>
           
           <category> 博客教程 </category>
           

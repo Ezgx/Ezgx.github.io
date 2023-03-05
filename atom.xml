@@ -117,7 +117,7 @@
     <link href="http://ezgx.site/2023/5781/"/>
     <id>http://ezgx.site/2023/5781/</id>
     <published>2023-02-11T12:15:46.000Z</published>
-    <updated>2023-03-04T12:01:58.085Z</updated>
+    <updated>2023-03-05T16:24:41.551Z</updated>
     
     
       
@@ -131,8 +131,6 @@
     
     
     <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="heo同款" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/heo%E5%90%8C%E6%AC%BE/"/>
     
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
@@ -290,7 +288,7 @@
     <link href="http://ezgx.site/2023/55282/"/>
     <id>http://ezgx.site/2023/55282/</id>
     <published>2023-01-24T08:49:50.000Z</published>
-    <updated>2023-03-03T13:17:58.593Z</updated>
+    <updated>2023-03-05T16:25:11.406Z</updated>
     
     
       
@@ -371,18 +369,14 @@
     <link href="http://ezgx.site/2023/47635/"/>
     <id>http://ezgx.site/2023/47635/</id>
     <published>2023-01-08T17:54:51.000Z</published>
-    <updated>2023-03-03T13:24:49.688Z</updated>
+    <updated>2023-03-05T16:25:24.169Z</updated>
     
     
     <summary type="html">&lt;p&gt;Ecx-project进行的过程中&lt;br&gt;发现了一个问题&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
-    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="css" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/css/"/>
-    
-    <category term="博客优化" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/css/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    <category term="博客优化" scheme="http://ezgx.site/categories/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
     
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
@@ -514,7 +508,7 @@
     <link href="http://ezgx.site/2022/33392/"/>
     <id>http://ezgx.site/2022/33392/</id>
     <published>2022-12-29T05:17:42.000Z</published>
-    <updated>2023-03-03T13:24:35.590Z</updated>
+    <updated>2023-03-05T16:26:05.164Z</updated>
     
     
       
@@ -527,9 +521,7 @@
     
     
     
-    <category term="杂谈教程" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="博客优化" scheme="http://ezgx.site/categories/%E6%9D%82%E8%B0%88%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    <category term="博客优化" scheme="http://ezgx.site/categories/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
     
     
     <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
