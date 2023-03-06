@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ezgx.site/2023/dimension/</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ezgx.site/2022/65320/</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>http://ezgx.site/2022/48213/</loc>
-    
-    <lastmod>2023-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/2023/dimension/</loc>
     
     <lastmod>2023-03-03</lastmod>
     
@@ -559,14 +559,14 @@
   </url>
   
   <url>
-    <loc>http://ezgx.site/categories/dimension/</loc>
+    <loc>http://ezgx.site/categories/css/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ezgx.site/categories/css/</loc>
+    <loc>http://ezgx.site/categories/dimension/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
