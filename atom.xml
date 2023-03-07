@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-03-05T11:14:05.342Z</updated>
+  <updated>2023-03-07T16:26:46.977Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dimension外挂标签</title>
+    <link href="http://ezgx.site/2023/tagplugins/"/>
+    <id>http://ezgx.site/2023/tagplugins/</id>
+    <published>2023-03-07T15:59:03.000Z</published>
+    <updated>2023-03-07T16:26:46.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="dimension" scheme="http://ezgx.site/categories/dimension/"/>
+    
+    
+    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
+    
+  </entry>
   
   <entry>
     <title>问：我能去暗网看看吗？</title>
@@ -500,35 +527,6 @@
     <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
     
     <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo一体化上传命令</title>
-    <link href="http://ezgx.site/2022/33392/"/>
-    <id>http://ezgx.site/2022/33392/</id>
-    <published>2022-12-29T05:17:42.000Z</published>
-    <updated>2023-03-05T16:26:05.164Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="博客优化" scheme="http://ezgx.site/categories/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="优化" scheme="http://ezgx.site/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
