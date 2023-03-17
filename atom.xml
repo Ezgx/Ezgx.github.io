@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-03-14T15:30:03.854Z</updated>
+  <updated>2023-03-17T16:17:39.862Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>arcolinux初体验</title>
+    <link href="http://ezgx.site/2023/58214/"/>
+    <id>http://ezgx.site/2023/58214/</id>
+    <published>2023-03-17T13:42:30.000Z</published>
+    <updated>2023-03-17T16:17:39.862Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="http://ezgx.site/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>dimension外挂标签</title>
@@ -502,31 +525,6 @@
     <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
     
     <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ecx-UI-1-设计理念</title>
-    <link href="http://ezgx.site/2023/870/"/>
-    <id>http://ezgx.site/2023/870/</id>
-    <published>2023-01-03T06:12:57.000Z</published>
-    <updated>2023-01-26T16:47:16.000Z</updated>
-    
-    
-    <summary type="html">&lt;h1&gt;第一期–设计理念&lt;/h1&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="Ecx-UI" scheme="http://ezgx.site/tags/Ecx-UI/"/>
-    
-    <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
-    
-    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
-    
-    <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
