@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>typecho搭建教程</title>
+      <link href="/2023/23551/"/>
+      <url>/2023/23551/</url>
+      
+        <content type="html"><![CDATA[<div class="tips"><p>必备：</p><ul class="lvl-1"><li class="lvl-2">电脑</li><li class="lvl-2">ftp服务器（带有PHP环境）</li><li class="lvl-2">正常人</li><li class="lvl-2">手</li></ul></div><p>登录ftp服务器，PHP版本选择7.4（兼容性较好）</p><h1>安装</h1><h2 id="下载">下载</h2><p><img src="https://pic.imgdb.cn/item/641e4a12a682492fccebb30c.jpgKv" alt=""></p><p>下载typecho压缩包上传到ftp服务器的运行目录后解压</p><p><img src="https://pic.imgdb.cn/item/641e4aa1a682492fccec6a00.jpg" alt=""></p><p>绑定域名并在域名dns中添加cname记录</p><p><img src="https://pic.imgdb.cn/item/641e4af9a682492fccecdfa4.jpg" alt=""></p><h2 id="安装">安装</h2><p>访问<code>http://你的域名/install.php</code>完成安装，数据库地址填写自己的，如果你的是localhost，那么请在高级选项中查看默认端口是否正确。</p><p>安装完成后访问<code>http://你的域名/</code></p><p>如果成功可继续下一步操作。</p><h1>伪静态</h1><p>在ftp服务器伪静态设置中写入规则：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;IfModule mod_rewrite.c&gt;</span><br><span class="line">RewriteEngine On</span><br><span class="line">RewriteBase /</span><br><span class="line">RewriteCond %&#123;REQUEST_FILENAME&#125; !-f</span><br><span class="line">RewriteCond %&#123;REQUEST_FILENAME&#125; !-d</span><br><span class="line">RewriteRule ^(.*)$ index.php [L,E=PATH_INFO:$1]</span><br><span class="line">&lt;/IfModule&gt;</span><br></pre></td></tr></table></figure><p>访问<code>http://你的域名/admin</code>进行管理，在设置-永久链接中启用地址重写，并设置永久链接为默认风格。</p><p><img src="https://pic.imgdb.cn/item/641e4cdea682492fccef4803.jpg" alt=""></p><h1>主题</h1><p>主题放在<code>/usr/themes</code>下</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>arcolinux初体验</title>
       <link href="/2023/58214/"/>
       <url>/2023/58214/</url>

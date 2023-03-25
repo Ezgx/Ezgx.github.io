@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-03-17T16:17:39.862Z</updated>
+  <updated>2023-03-25T01:32:48.489Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>typecho搭建教程</title>
+    <link href="http://ezgx.site/2023/23551/"/>
+    <id>http://ezgx.site/2023/23551/</id>
+    <published>2023-03-18T18:50:15.000Z</published>
+    <updated>2023-03-25T01:32:48.489Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>arcolinux初体验</title>
@@ -481,35 +502,6 @@
     <summary type="html"></summary>
         
       
-    
-    
-    
-    <category term="ui魔改" scheme="http://ezgx.site/categories/ui%E9%AD%94%E6%94%B9/"/>
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Ecx-UI" scheme="http://ezgx.site/tags/Ecx-UI/"/>
-    
-    <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
-    
-    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ecx-UI-2-顶栏+头图</title>
-    <link href="http://ezgx.site/2023/22100/"/>
-    <id>http://ezgx.site/2023/22100/</id>
-    <published>2023-01-04T03:39:10.000Z</published>
-    <updated>2023-02-03T09:05:23.030Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;success&quot;&gt;
-&lt;p&gt;Ecx-UI第一期&lt;/p&gt;
-&lt;/div&gt;</summary>
     
     
     
