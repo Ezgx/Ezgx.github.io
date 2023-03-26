@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-03-25T01:32:48.489Z</updated>
+  <updated>2023-03-26T13:35:34.289Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dimension-6.0更新</title>
+    <link href="http://ezgx.site/2023/43564/"/>
+    <id>http://ezgx.site/2023/43564/</id>
+    <published>2023-03-26T13:16:57.000Z</published>
+    <updated>2023-03-26T13:35:34.289Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>typecho搭建教程</title>
@@ -469,39 +490,6 @@
     <summary type="html">&lt;div class=&quot;success&quot;&gt;
 &lt;p&gt;Ecx-UI第四期&lt;/p&gt;
 &lt;/div&gt;</summary>
-    
-    
-    
-    <category term="ui魔改" scheme="http://ezgx.site/categories/ui%E9%AD%94%E6%94%B9/"/>
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Ecx-UI" scheme="http://ezgx.site/tags/Ecx-UI/"/>
-    
-    <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
-    
-    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ecx-UI-3-新拟态风格文章板块+文章页</title>
-    <link href="http://ezgx.site/2023/64874/"/>
-    <id>http://ezgx.site/2023/64874/</id>
-    <published>2023-01-04T03:51:34.000Z</published>
-    <updated>2023-02-03T09:05:14.147Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
     
     
     
