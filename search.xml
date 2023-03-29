@@ -8,7 +8,7 @@
       <link href="/2023/43564/"/>
       <url>/2023/43564/</url>
       
-        <content type="html"><![CDATA[<span class='p center logo large'>hexo-theme-dimension</span> <span class='p center small'>一个基于butterfly的二次元hexo主题。</span><h1>新特性</h1><p>dimension 6.0新特性：</p><ul class="lvl-0"><li class="lvl-2"><p>优化了文件结构</p></li><li class="lvl-2"><p>css精简去除冗余css</p></li><li class="lvl-2"><p>webkit内核浏览器模糊bug修复</p></li><li class="lvl-2"><p>首页板块可选择开启关闭</p></li><li class="lvl-2"><p>文章双栏可选择开启关闭</p></li><li class="lvl-2"><p>分类页大变样</p></li><li class="lvl-2"><p>悬浮导航（可选开启）</p></li><li class="lvl-2"><p>外挂标签bug修复</p></li></ul><h1>安装</h1><h2 id="未使用过dimension">未使用过dimension</h2><p>同5.*版本</p><h2 id="从5-版本更新">从5.*版本更新</h2><p>下载新版dimension</p><p>替换<code>/layout/index.pug</code></p><p>替换<code>/css/_custom</code>下所有文件</p>]]></content>
+        <content type="html"><![CDATA[<span class='p center logo large'>hexo-theme-dimension</span> <span class='p center small'>一个基于butterfly的二次元hexo主题。</span><h1>新特性</h1><p>dimension 6.0新特性：</p><ul class="lvl-0"><li class="lvl-2"><p>优化了文件结构</p></li><li class="lvl-2"><p>css精简去除冗余css</p></li><li class="lvl-2"><p>webkit内核浏览器模糊bug修复</p></li><li class="lvl-2"><p>首页板块可选择开启关闭</p></li><li class="lvl-2"><p>文章双栏可选择开启关闭</p></li><li class="lvl-2"><p>分类页大变样</p></li><li class="lvl-2"><p>悬浮导航（可选开启）</p></li><li class="lvl-2"><p>外挂标签bug修复</p></li></ul><h1>安装</h1><h2 id="未使用过dimension">未使用过dimension</h2><p>同5.*版本</p><h2 id="从5-版本更新">从5.*版本更新</h2><p>下载新版dimension</p><p>替换<code>/layout/index.pug</code></p><p>替换<code>/css/_custom</code>下所有文件</p><p>替换<code>_config.dimension.yml</code></p>]]></content>
       
       
       
