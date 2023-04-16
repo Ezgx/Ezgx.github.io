@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-03-29T15:46:53.026Z</updated>
+  <updated>2023-04-15T17:01:30.000Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>title</title>
+    <link href="http://ezgx.site/2023/42496/"/>
+    <id>http://ezgx.site/2023/42496/</id>
+    <published>2023-04-15T17:01:29.000Z</published>
+    <updated>2023-04-15T17:01:30.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>dimension-6.0更新</title>
@@ -396,9 +417,9 @@
     <category term="css" scheme="http://ezgx.site/categories/css/"/>
     
     
-    <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
     <category term="前端" scheme="http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="碎碎念" scheme="http://ezgx.site/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
@@ -476,33 +497,6 @@
     <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="前端" scheme="http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ecx-UI-4-页脚</title>
-    <link href="http://ezgx.site/2023/6854/"/>
-    <id>http://ezgx.site/2023/6854/</id>
-    <published>2023-01-05T00:33:34.000Z</published>
-    <updated>2023-02-03T09:06:17.401Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;:::success&lt;br&gt;Ecx-UI第四期&lt;br&gt;:::&lt;br&gt;</summary>
-    
-    
-    
-    <category term="ui魔改" scheme="http://ezgx.site/categories/ui%E9%AD%94%E6%94%B9/"/>
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Ecx-UI" scheme="http://ezgx.site/tags/Ecx-UI/"/>
-    
-    <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
-    
-    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
     
   </entry>
   
