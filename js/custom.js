@@ -28,8 +28,7 @@ function percent() {
       ) - document.documentElement.clientHeight, // 整个网页高度 减去 可视高度
     result = Math.round((a / b) * 100), // 计算百分比
     btn = document.querySelector("#percent"); // 获取图标
-
-  result <= 99 || (result = 99), (btn.innerHTML = result);
+  (btn.innerHTML = result);
 }
 
 document.getElementById("page-name").innerText = document.title.split(" | blog")[0];
@@ -51,4 +50,15 @@ function toggleTheme() {
   var currentTheme = document.documentElement.getAttribute("data-theme");
   var targetTheme = currentTheme === "dark" ? "light" : "dark";
   document.documentElement.setAttribute("data-theme", targetTheme);
+}
+
+function hideAsideBtn() {
+  const e = document.documentElement.classList;
+  const $htmlDom = document.documentElement.classList
+  e.contains("hide-aside") ? saveToLocal.set("aside-status", "show", 2) : saveToLocal.set("aside-status", "hide", 2),
+  e.toggle("hide-aside"),
+      $htmlDom.contains('hide-aside')
+        ? saveToLocal.set('aside-status', 'show', 2)
+        : saveToLocal.set('aside-status', 'hide', 2)
+      $htmlDom.toggle('hide-aside')
 }
