@@ -54,34 +54,33 @@ function toggleTheme() {
 
 function showconsole() {
   var consolebtn = document.getElementById('console-pannel');
-  if (consolebtn.style.right === '-115px') {
-    consolebtn.style.right = '10px';
-  } 
-  else {
-    consolebtn.style.right = '-115px'
+  if (consolebtn.style.right === '7px') {
+    consolebtn.style.right = '-115px';
+  } else {
+    consolebtn.style.right = '7px'
   }
 }
 
 function hideaside() {
   var aside = document.getElementById('aside-content');
   var postmodule = document.getElementsByClassName('maininner114514')[0];
-  if (aside.style.display === 'block') {
-    aside.style.display = 'none';
-    postmodule.style.width = '100%';
-  }
-  else {
+  if (aside.style.display === 'none') {
     aside.style.display = 'block';
     postmodule.style.width = '74%';
+  }
+  else {
+    aside.style.display = 'none';
+    postmodule.style.width = '100%';
   }
 }
 
 function hidehometop() {
   var hometop = document.getElementById('hometop');
-  if (hometop.style.display === 'block') {
-    hometop.style.display = 'none';
+  if (hometop.style.display === 'none') {
+    hometop.style.display = 'block';
   }
   else {
-    hometop.style.display = 'block';
+    hometop.style.display = 'none';
   }
 }
 
