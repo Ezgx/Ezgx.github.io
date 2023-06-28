@@ -1,0 +1,13 @@
+
+function hideaside() {
+  var aside = document.getElementById('aside-content');
+  var postmodule = document.getElementsByClassName('post');
+  if (aside.style.display === 'block') {
+    aside.style.display = 'none';
+    postmodule.style.width = '100%';
+  }
+  else {
+    aside.style.display = 'block';
+    postmodule.style.width = '74%';
+  }
+}

@@ -52,13 +52,45 @@ function toggleTheme() {
   document.documentElement.setAttribute("data-theme", targetTheme);
 }
 
-function hideAsideBtn() {
-  const e = document.documentElement.classList;
-  const $htmlDom = document.documentElement.classList
-  e.contains("hide-aside") ? saveToLocal.set("aside-status", "show", 2) : saveToLocal.set("aside-status", "hide", 2),
-  e.toggle("hide-aside"),
-      $htmlDom.contains('hide-aside')
-        ? saveToLocal.set('aside-status', 'show', 2)
-        : saveToLocal.set('aside-status', 'hide', 2)
-      $htmlDom.toggle('hide-aside')
+function showconsole() {
+  var consolebtn = document.getElementById('console-pannel');
+  if (consolebtn.style.right === '-115px') {
+    consolebtn.style.right = '10px';
+  } 
+  else {
+    consolebtn.style.right = '-115px'
+  }
+}
+
+function hideaside() {
+  var aside = document.getElementById('aside-content');
+  var postmodule = document.getElementsByClassName('maininner114514')[0];
+  if (aside.style.display === 'block') {
+    aside.style.display = 'none';
+    postmodule.style.width = '100%';
+  }
+  else {
+    aside.style.display = 'block';
+    postmodule.style.width = '74%';
+  }
+}
+
+function hidehometop() {
+  var hometop = document.getElementById('hometop');
+  if (hometop.style.display === 'block') {
+    hometop.style.display = 'none';
+  }
+  else {
+    hometop.style.display = 'block';
+  }
+}
+
+function hidefooter() {
+  var navfixed = document.getElementById('navfixedsw');
+  if (navfixed.style.position === 'fixed') {
+    navfixed.style.position = 'inherit';
+  }
+  else {
+    navfixed.style.position = 'fixed';
+  }
 }
