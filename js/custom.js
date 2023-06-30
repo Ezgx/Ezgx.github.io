@@ -86,7 +86,7 @@ function hideaside() {
 }
 
 function hidehometop() {
-  var hometop = document.getElementById('hometop');
+  var hometop = document.getElementsByClassName('hometop')[0];
   if (hometop.style.display === 'none') {
     hometop.style.display = 'block';
   }
