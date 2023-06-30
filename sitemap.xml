@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ezgx.site/archives/46680/</loc>
+    <loc>http://ezgx.site/archives/da0f/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.site/archives/55920/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.site/archives/65320/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.site/archives/65417/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -12,6 +39,15 @@
   
   <url>
     <loc>http://ezgx.site/archives/13364/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ezgx.site/archives/46680/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -138,15 +174,6 @@
   
   <url>
     <loc>http://ezgx.site/archives/58214/</loc>
-    
-    <lastmod>2023-06-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/archives/65320/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -353,15 +380,6 @@
   </url>
   
   <url>
-    <loc>http://ezgx.site/archives/55920/</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.site/comments/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -371,25 +389,7 @@
   </url>
   
   <url>
-    <loc>http://ezgx.site/archives/65417/</loc>
-    
-    <lastmod>2023-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ezgx.site/archives/55979/</loc>
-    
-    <lastmod>2023-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ezgx.site/archives/da0f/</loc>
     
     <lastmod>2023-03-03</lastmod>
     
