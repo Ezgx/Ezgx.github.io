@@ -6,7 +6,7 @@
   <link href="http://ezgx.site/atom.xml" rel="self"/>
   
   <link href="http://ezgx.site/"/>
-  <updated>2023-06-30T10:07:55.209Z</updated>
+  <updated>2023-07-01T16:38:44.957Z</updated>
   <id>http://ezgx.site/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo-Theme-Dynasty</title>
+    <link href="http://ezgx.site/archives/49841/"/>
+    <id>http://ezgx.site/archives/49841/</id>
+    <published>2023-06-30T16:46:24.000Z</published>
+    <updated>2023-07-01T16:38:44.957Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
+    
+    <category term="dimesion" scheme="http://ezgx.site/tags/dimesion/"/>
+    
+    <category term="dynasty" scheme="http://ezgx.site/tags/dynasty/"/>
+    
+    <category term="dimspace" scheme="http://ezgx.site/tags/dimspace/"/>
+    
+  </entry>
+  
+  <entry>
     <title>dimension-6.0更新</title>
     <link href="http://ezgx.site/archives/43564/"/>
     <id>http://ezgx.site/archives/43564/</id>
     <published>2023-03-26T13:16:57.000Z</published>
-    <updated>2023-06-30T10:07:55.209Z</updated>
+    <updated>2023-07-01T16:34:17.387Z</updated>
     
     
       
@@ -39,10 +68,10 @@
   
   <entry>
     <title>typecho搭建教程</title>
-    <link href="http://ezgx.site/archives/23551/"/>
-    <id>http://ezgx.site/archives/23551/</id>
+    <link href="http://ezgx.site/archives/13199/"/>
+    <id>http://ezgx.site/archives/13199/</id>
     <published>2023-03-18T18:50:15.000Z</published>
-    <updated>2023-06-30T08:11:26.212Z</updated>
+    <updated>2023-07-01T16:34:17.480Z</updated>
     
     
       
@@ -63,7 +92,7 @@
     <link href="http://ezgx.site/archives/58214/"/>
     <id>http://ezgx.site/archives/58214/</id>
     <published>2023-03-17T13:42:30.000Z</published>
-    <updated>2023-06-30T09:41:16.689Z</updated>
+    <updated>2023-07-01T16:34:17.328Z</updated>
     
     
       
@@ -83,10 +112,10 @@
   
   <entry>
     <title>dimension外挂标签</title>
-    <link href="http://ezgx.site/archives/tagplugins/"/>
-    <id>http://ezgx.site/archives/tagplugins/</id>
+    <link href="http://ezgx.site/archives/58490/"/>
+    <id>http://ezgx.site/archives/58490/</id>
     <published>2023-03-07T15:59:03.000Z</published>
-    <updated>2023-06-30T09:59:35.426Z</updated>
+    <updated>2023-07-01T16:34:17.381Z</updated>
     
     
       
@@ -110,10 +139,10 @@
   
   <entry>
     <title>问：我能去暗网看看吗？</title>
-    <link href="http://ezgx.site/archives/59381/"/>
-    <id>http://ezgx.site/archives/59381/</id>
+    <link href="http://ezgx.site/archives/56791/"/>
+    <id>http://ezgx.site/archives/56791/</id>
     <published>2023-02-28T10:23:44.000Z</published>
-    <updated>2023-06-30T08:10:36.909Z</updated>
+    <updated>2023-07-01T16:34:17.368Z</updated>
     
     
       
@@ -134,7 +163,7 @@
     <link href="http://ezgx.site/archives/11066/"/>
     <id>http://ezgx.site/archives/11066/</id>
     <published>2023-02-25T10:31:37.000Z</published>
-    <updated>2023-06-30T08:17:34.994Z</updated>
+    <updated>2023-07-01T16:34:17.468Z</updated>
     
     
       
@@ -152,10 +181,10 @@
   
   <entry>
     <title>butterfly添加蓝天白云</title>
-    <link href="http://ezgx.site/archives/35907/"/>
-    <id>http://ezgx.site/archives/35907/</id>
+    <link href="http://ezgx.site/archives/18276/"/>
+    <id>http://ezgx.site/archives/18276/</id>
     <published>2023-02-23T13:59:13.000Z</published>
-    <updated>2023-06-30T10:17:44.434Z</updated>
+    <updated>2023-07-01T16:34:17.321Z</updated>
     
     
       
@@ -181,10 +210,10 @@
   
   <entry>
     <title>cbx-home首页</title>
-    <link href="http://ezgx.site/archives/46680/"/>
-    <id>http://ezgx.site/archives/46680/</id>
+    <link href="http://ezgx.site/archives/59158/"/>
+    <id>http://ezgx.site/archives/59158/</id>
     <published>2023-02-18T17:56:23.000Z</published>
-    <updated>2023-06-30T10:28:04.099Z</updated>
+    <updated>2023-07-01T16:34:17.335Z</updated>
     
     
       
@@ -209,7 +238,7 @@
     <link href="http://ezgx.site/archives/5781/"/>
     <id>http://ezgx.site/archives/5781/</id>
     <published>2023-02-11T12:15:46.000Z</published>
-    <updated>2023-06-30T10:17:39.544Z</updated>
+    <updated>2023-07-01T16:34:17.535Z</updated>
     
     
       
@@ -238,7 +267,7 @@
     <link href="http://ezgx.site/archives/2637/"/>
     <id>http://ezgx.site/archives/2637/</id>
     <published>2023-02-08T13:32:01.000Z</published>
-    <updated>2023-06-30T10:10:46.877Z</updated>
+    <updated>2023-07-01T16:34:17.342Z</updated>
     
     
       
@@ -259,11 +288,11 @@
   </entry>
   
   <entry>
-    <title>使用dimension作为您的hexo主题。</title>
-    <link href="http://ezgx.site/archives/dimension/"/>
-    <id>http://ezgx.site/archives/dimension/</id>
+    <title>Hexo-Theme-Dimension</title>
+    <link href="http://ezgx.site/archives/51537/"/>
+    <id>http://ezgx.site/archives/51537/</id>
     <published>2023-02-07T12:57:15.000Z</published>
-    <updated>2023-06-30T10:08:03.723Z</updated>
+    <updated>2023-07-01T16:38:52.264Z</updated>
     
     
       
@@ -290,7 +319,7 @@
     <link href="http://ezgx.site/archives/65172/"/>
     <id>http://ezgx.site/archives/65172/</id>
     <published>2023-02-03T18:57:52.000Z</published>
-    <updated>2023-06-30T08:36:06.168Z</updated>
+    <updated>2023-07-01T16:34:17.430Z</updated>
     
     
       
@@ -310,10 +339,10 @@
   
   <entry>
     <title>自定义美化你的windows桌面！</title>
-    <link href="http://ezgx.site/archives/34037/"/>
-    <id>http://ezgx.site/archives/34037/</id>
+    <link href="http://ezgx.site/archives/4034/"/>
+    <id>http://ezgx.site/archives/4034/</id>
     <published>2023-01-31T14:05:26.000Z</published>
-    <updated>2023-06-30T08:55:55.038Z</updated>
+    <updated>2023-07-01T16:34:17.499Z</updated>
     
     
       
@@ -336,7 +365,7 @@
     <link href="http://ezgx.site/archives/27391/"/>
     <id>http://ezgx.site/archives/27391/</id>
     <published>2023-01-31T01:35:38.000Z</published>
-    <updated>2023-06-30T09:20:00.275Z</updated>
+    <updated>2023-07-01T16:34:17.484Z</updated>
     
     
       
@@ -357,7 +386,7 @@
     <link href="http://ezgx.site/archives/27831/"/>
     <id>http://ezgx.site/archives/27831/</id>
     <published>2023-01-30T13:55:34.000Z</published>
-    <updated>2023-06-30T08:55:46.562Z</updated>
+    <updated>2023-07-01T16:34:17.504Z</updated>
     
     
       
@@ -380,7 +409,7 @@
     <link href="http://ezgx.site/archives/55282/"/>
     <id>http://ezgx.site/archives/55282/</id>
     <published>2023-01-24T08:49:50.000Z</published>
-    <updated>2023-06-30T10:11:01.744Z</updated>
+    <updated>2023-07-01T16:34:17.355Z</updated>
     
     
       
@@ -407,7 +436,7 @@
     <link href="http://ezgx.site/archives/32096/"/>
     <id>http://ezgx.site/archives/32096/</id>
     <published>2023-01-20T06:17:35.000Z</published>
-    <updated>2023-06-30T09:32:27.196Z</updated>
+    <updated>2023-07-01T16:34:17.489Z</updated>
     
     
       
@@ -431,10 +460,10 @@
   
   <entry>
     <title>Ecx-UI-5-侧栏</title>
-    <link href="http://ezgx.site/archives/83242/"/>
-    <id>http://ezgx.site/archives/83242/</id>
+    <link href="http://ezgx.site/archives/53971/"/>
+    <id>http://ezgx.site/archives/53971/</id>
     <published>2023-01-15T02:52:49.000Z</published>
-    <updated>2023-06-30T10:18:19.931Z</updated>
+    <updated>2023-07-01T16:34:17.289Z</updated>
     
     
     <summary type="html">&lt;p&gt;Ecx-UI第五期&lt;/p&gt;</summary>
@@ -461,7 +490,7 @@
     <link href="http://ezgx.site/archives/47635/"/>
     <id>http://ezgx.site/archives/47635/</id>
     <published>2023-01-08T17:54:51.000Z</published>
-    <updated>2023-06-30T09:33:03.667Z</updated>
+    <updated>2023-07-01T16:34:17.363Z</updated>
     
     
     <summary type="html">&lt;p&gt;Ecx-project进行的过程中&lt;br&gt;&lt;br&gt;发现了一个问题&lt;br&gt;&lt;br&gt;</summary>
@@ -476,33 +505,6 @@
     <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="前端" scheme="http://ezgx.site/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ecx-UI-4-页脚</title>
-    <link href="http://ezgx.site/archives/6854/"/>
-    <id>http://ezgx.site/archives/6854/</id>
-    <published>2023-01-05T00:33:34.000Z</published>
-    <updated>2023-06-30T10:18:05.919Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;:::success&lt;br&gt;Ecx-UI第四期&lt;br&gt;:::&lt;br&gt;</summary>
-    
-    
-    
-    <category term="ui魔改" scheme="http://ezgx.site/categories/ui%E9%AD%94%E6%94%B9/"/>
-    
-    
-    <category term="hexo" scheme="http://ezgx.site/tags/hexo/"/>
-    
-    <category term="教程" scheme="http://ezgx.site/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Ecx-UI" scheme="http://ezgx.site/tags/Ecx-UI/"/>
-    
-    <category term="魔改" scheme="http://ezgx.site/tags/%E9%AD%94%E6%94%B9/"/>
-    
-    <category term="butterfly" scheme="http://ezgx.site/tags/butterfly/"/>
     
   </entry>
   
