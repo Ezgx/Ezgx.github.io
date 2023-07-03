@@ -75,3 +75,9 @@ function hidehometop() {
     btf.snackbarShow('已隐藏顶部', false, 3000)
   }
 }
+
+window.onkeydown = function (e) {
+  if (e.keyCode === 123) {
+    btf.snackbarShow('已打开控制台，请遵守GPL-V3协议', false, 3000)
+  }
+}
