@@ -135,23 +135,3 @@ function hidehometop() {
     })
   }
 }
-
-
-
-window.onkeydown = function (e) {
-  if (e.keyCode === 123) {
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "已打开控制台",
-              message: "扒源请遵守gpl协议",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
-  }
-}
