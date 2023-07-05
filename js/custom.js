@@ -102,8 +102,10 @@ function hideaside() {
 
 function hidehometop() {
   var hometop = document.getElementsByClassName('hometop')[0];
+  var main = document.getElementById('content-inner');
   if (hometop.style.display === 'none') {
     hometop.style.display = 'block';
+    main.style.top = '-40px'
     new Vue({
       data: function () {
           this.$notify({
@@ -120,6 +122,7 @@ function hidehometop() {
   }
   else {
     hometop.style.display = 'none';
+    main.style.top = 'unset'
     new Vue({
       data: function () {
           this.$notify({
