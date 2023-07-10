@@ -1,3 +1,0 @@
-window.onload = () =>{
-    RENDERER.init();
-}
