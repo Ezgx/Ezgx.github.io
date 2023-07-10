@@ -1,6 +1,6 @@
 var RENDERER = {
     POINT_INTERVAL : 5,
-    FISH_COUNT : 7,
+    FISH_COUNT : 9,
     MAX_INTERVAL_COUNT : 40,
     INIT_HEIGHT_RATE : 0.5,
     THRESHOLD : 50,
@@ -153,10 +153,15 @@ var RENDERER = {
         }
     },
     render : function(){
+        var datatheme = document.documentElement.getAttribute("data-theme");
         requestAnimationFrame(this.render);
         this.controlStatus();
         this.context.clearRect(0, 0, this.width, this.height);
-        this.context.fillStyle = '#F7F9FE';
+        if (datatheme === 'light') {
+            this.context.fillStyle = '#F7F9FE';
+        } else {
+            this.context.fillStyle = '#18171d';
+        }
         
         for(var i = 0, count = this.fishes.length; i < count; i++){
             this.fishes[i].render(this.context);
