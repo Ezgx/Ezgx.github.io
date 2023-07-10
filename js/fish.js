@@ -153,10 +153,10 @@ var RENDERER = {
         }
     },
     render : function(){
+        var datatheme = document.documentElement.getAttribute("data-theme");
         requestAnimationFrame(this.render);
         this.controlStatus();
         this.context.clearRect(0, 0, this.width, this.height);
-        var datatheme = document.documentElement.getAttribute("data-theme");
         if (datatheme === 'light') {
             this.context.fillStyle = '#F7F9FE';
         } else {
@@ -348,4 +348,6 @@ FISH.prototype = {
         this.controlStatus(context);
     }
 };
-RENDERER.init();
+$(function(){
+	RENDERER.init();
+});
