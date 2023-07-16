@@ -100,41 +100,6 @@ function hideaside() {
   }
 }
 
-function hidehometop() {
-  var hometop = document.getElementsByClassName('hometop')[0];
-  var main = document.getElementById('content-inner');
-  if (hometop.style.display === 'none') {
-    hometop.style.display = 'block';
-    main.style.top = '-40px'
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "设置成功",
-              message: "已显示顶部",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
-  }
-  else {
-    hometop.style.display = 'none';
-    main.style.top = 'unset'
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "设置成功",
-              message: "已隐藏顶部",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
-  }
+function toend() {
+  btf.scrollToDest(document.getElementById('footer').offsetTop, 300)
 }
