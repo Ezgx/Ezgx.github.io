@@ -160,7 +160,7 @@ var RENDERER = {
         if (datatheme === 'light') {
             this.context.fillStyle = '#F7F9FE';
         } else {
-            this.context.fillStyle = '#212633';
+            this.context.fillStyle = '#18171d';
         }
         
         for(var i = 0, count = this.fishes.length; i < count; i++){
