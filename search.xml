@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>部分dns封堵解决办法</title>
+      <link href="/archives/37091/"/>
+      <url>/archives/37091/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>昨天，我一直在群里闲逛，跟群友聊天，然后就有人说了我的域名访问不了了，我看了下像是被墙了。</p><h1 id="排错"><a href="#排错" class="headerlink" title="排错"></a>排错</h1><p>我的域名是在<code>dynadot</code>购买的，网站托管在<code>netlify</code>，资源在<code>github</code>，然后我就开始逐个排错</p><p>首先我查看了我的github仓库，内容正常。</p><p>然后是netfliy的网站托管，正常。</p><p>然后我发现<code>***.netlify.app</code>被墙了，由于我用的是netlify-dns的cname解析，所以就造成了域名无法访问。</p><h1 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h1><p>换dns，经过延迟测试后，我选择了vercel，但vercel的dns很有特点，也造成了我不能上cdn。</p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>据说最近netlify这类的平台正在一个接一个的墙掉，最近我的博客就像在逃命。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客一年，我收获了什么</title>
       <link href="/archives/46804/"/>
       <url>/archives/46804/</url>

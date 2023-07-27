@@ -6,7 +6,7 @@
   <link href="http://uu.sssu.us/atom.xml" rel="self"/>
   
   <link href="http://uu.sssu.us/"/>
-  <updated>2023-07-19T07:31:53.610Z</updated>
+  <updated>2023-07-27T17:29:30.368Z</updated>
   <id>http://uu.sssu.us/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>部分dns封堵解决办法</title>
+    <link href="http://uu.sssu.us/archives/37091/"/>
+    <id>http://uu.sssu.us/archives/37091/</id>
+    <published>2023-07-23T17:33:38.000Z</published>
+    <updated>2023-07-27T17:29:30.368Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="前端" scheme="http://uu.sssu.us/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="博客" scheme="http://uu.sssu.us/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>博客一年，我收获了什么</title>
@@ -482,33 +507,6 @@
     <category term="碎碎念" scheme="http://uu.sssu.us/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     <category term="前端" scheme="http://uu.sssu.us/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo优化方案汇总</title>
-    <link href="http://uu.sssu.us/archives/32096/"/>
-    <id>http://uu.sssu.us/archives/32096/</id>
-    <published>2023-01-20T06:17:35.000Z</published>
-    <updated>2023-07-03T18:03:33.994Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    
-    <category term="hexo" scheme="http://uu.sssu.us/tags/hexo/"/>
-    
-    <category term="碎碎念" scheme="http://uu.sssu.us/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    <category term="优化" scheme="http://uu.sssu.us/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
