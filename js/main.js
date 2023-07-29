@@ -94,24 +94,18 @@ document.addEventListener('DOMContentLoaded', function () {
       if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
         document.execCommand('copy')
         if (GLOBAL_CONFIG.Snackbar !== undefined) {
-          new Vue({
-            data: function () {
-                this.$notify({
-                    title: "复制成功",
-                    message: "转载请遵守cc协议",
-                    position: 'top-left',
-                    offset: 50,
-                    showClose: true,
-                    type: "success",
-                    duration: 4000
-                });
-            }
-          })
+          btf.snackbarShow(GLOBAL_CONFIG.copy.success)
         } else {
           const prevEle = ctx.previousElementSibling
           prevEle.innerText = GLOBAL_CONFIG.copy.success
           prevEle.style.opacity = 1
           setTimeout(() => { prevEle.style.opacity = 0 }, 700)
+        }
+      } else {
+        if (GLOBAL_CONFIG.Snackbar !== undefined) {
+          btf.snackbarShow(GLOBAL_CONFIG.copy.noSupport)
+        } else {
+          ctx.previousElementSibling.innerText = GLOBAL_CONFIG.copy.noSupport
         }
       }
     }
@@ -287,9 +281,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const currentTop = window.scrollY || document.documentElement.scrollTop
         const isDown = scrollDirection(currentTop)
         if (currentTop > 56) {
-          $header.classList.add('is-top-bar','nav-visible')
           if (isDown) {
-            if ($header.classList.contains('nav-visible')) $header.classList.add('nav-visible')
+            if ($header.classList.contains('nav-visible')) $header.classList.remove('nav-visible')
             if (isChatBtnShow && isChatShow === true) {
               chatBtnHide()
               isChatShow = false
