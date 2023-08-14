@@ -571,6 +571,13 @@
   </url>
   
   <url>
+    <loc>http://uu.sssu.us/tags/%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2023-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://uu.sssu.us/tags/dynasty/</loc>
     <lastmod>2023-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -579,13 +586,6 @@
   
   <url>
     <loc>http://uu.sssu.us/tags/dimension/</loc>
-    <lastmod>2023-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://uu.sssu.us/tags/%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2023-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -620,14 +620,14 @@
   </url>
   
   <url>
-    <loc>http://uu.sssu.us/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://uu.sssu.us/tags/windows/</loc>
     <lastmod>2023-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://uu.sssu.us/tags/windows/</loc>
+    <loc>http://uu.sssu.us/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
