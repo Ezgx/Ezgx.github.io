@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>使用cdn进行加速+防御</title>
+      <link href="/archives/32654/"/>
+      <url>/archives/32654/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>就在前天，因为某些原因，我的网站挨打了，一秒3w多发的cc，网站瞬间被击落。</p><h1 id="使用cdn加速-amp-保护"><a href="#使用cdn加速-amp-保护" class="headerlink" title="使用cdn加速&amp;保护"></a>使用cdn加速&amp;保护</h1><p>免费cdn地址: user.botdun.link</p><p>注册账号后登录</p><ol><li><p>购买免费套餐</p><p><code>套餐管理 -&gt; 购买套餐 -&gt; 公益套餐 -&gt; 购买 -&gt; 月付</code></p><p><img src="https://pic.imgdb.cn/item/64e3aa02661c6c8e54aff518.jpg" alt=""></p><p>免费套餐只能月付（不想每月打卡建议选择付费cdn</p></li><li><p>cdn添加网站</p><p><code>网站管理 -&gt; 我的网站 -&gt; 新增</code></p><p><img src="https://pic.imgdb.cn/item/64e3abd5661c6c8e54b3c228.jpg" alt=""></p><p>填写自己想要加速的网站域名和源站ip，未知ip比如vercel和netlify可以用ping查看</p><p>添加好后点编辑进入编辑页面</p><p><img src="https://pic.imgdb.cn/item/64e3ac4d661c6c8e54b4c551.jpg" alt=""></p><p>查看cname地址</p></li><li><p>网站接入cdn</p><p>进入自己的dns，将要接入cdn的域名原来的解析记录改为刚刚拿到的cname地址</p><p><img src="https://pic.imgdb.cn/item/64e3acdf661c6c8e54b6951c.jpg" alt=""></p></li><li><p>配置ssl</p><p><img src="https://pic.imgdb.cn/item/64e3adbb661c6c8e54b8bb91.jpg" alt=""></p><p>证书是certificate，单证书或者fullchain都可以</p><p>第二个是rsa私钥</p><p>到编辑网站这里选择证书，开启https，开启强制https，跳转端口设置443，注意不要关闭http，不然http会404跳转不了https。</p></li><li><p>cc防护</p><p><img src="https://pic.imgdb.cn/item/64e3aeb7661c6c8e54bb03dd.jpg" alt=""></p><p>选择适合的防护模式。</p></li></ol><h1 id="结束，加速-amp-防护开启成功！"><a href="#结束，加速-amp-防护开启成功！" class="headerlink" title="结束，加速&amp;防护开启成功！"></a>结束，加速&amp;防护开启成功！</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> 优化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>部分dns封堵解决办法</title>
       <link href="/archives/37091/"/>
       <url>/archives/37091/</url>
@@ -71,7 +92,7 @@
       <link href="/archives/49841/"/>
       <url>/archives/49841/</url>
       
-        <content type="html"><![CDATA[<span class='p center logo large'>DYNASTY</span><span class='p center'>新一代简洁华美hexo主题</span><p><img src="https://pic.imgdb.cn/item/649ad9d51ddac507cc40f140.png" alt=""></p><ul><li>卡片风格UI</li><li>双栏</li><li>可选小组件</li><li>可自定义</li><li>方便易用</li><li>简洁华美</li><li>快速更新</li></ul><div class="btns circle grid5">            <a class="button" href='https://docs.dys.sssu.us/' title='使用文档'><img src='https://pic.imgdb.cn/item/649e8b691ddac507cc483e54.png'>使用文档</a>          </div>]]></content>
+        <content type="html"><![CDATA[<span class='p center logo large'>DYNASTY</span><span class='p center'>新一代简洁华美hexo主题</span><p><img src="https://picss.sunbangyan.cn/2023/08/22/2831qb.png" alt=""></p><div class="btns circle grid5">            <a class="button" href='https://docs.dys.sssu.us/' title='使用文档'><img src='https://pic.imgdb.cn/item/649e8b691ddac507cc483e54.png'>使用文档</a>          </div>]]></content>
       
       
       

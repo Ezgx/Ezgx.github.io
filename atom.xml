@@ -6,7 +6,7 @@
   <link href="http://uu.sssu.us/atom.xml" rel="self"/>
   
   <link href="http://uu.sssu.us/"/>
-  <updated>2023-07-27T17:29:30.368Z</updated>
+  <updated>2023-08-21T18:44:18.389Z</updated>
   <id>http://uu.sssu.us/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用cdn进行加速+防御</title>
+    <link href="http://uu.sssu.us/archives/32654/"/>
+    <id>http://uu.sssu.us/archives/32654/</id>
+    <published>2023-08-21T17:47:59.000Z</published>
+    <updated>2023-08-21T18:44:18.389Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="前端" scheme="http://uu.sssu.us/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="优化" scheme="http://uu.sssu.us/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>部分dns封堵解决办法</title>
@@ -96,7 +121,7 @@
     <link href="http://uu.sssu.us/archives/49841/"/>
     <id>http://uu.sssu.us/archives/49841/</id>
     <published>2023-06-30T16:46:24.000Z</published>
-    <updated>2023-08-14T16:44:10.400Z</updated>
+    <updated>2023-08-21T17:35:36.022Z</updated>
     
     
       
@@ -480,33 +505,6 @@
     
     
     <category term="windows" scheme="http://uu.sssu.us/tags/windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>css日记1</title>
-    <link href="http://uu.sssu.us/archives/55282/"/>
-    <id>http://uu.sssu.us/archives/55282/</id>
-    <published>2023-01-24T08:49:50.000Z</published>
-    <updated>2023-07-01T16:34:17.355Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="css" scheme="http://uu.sssu.us/categories/css/"/>
-    
-    
-    <category term="碎碎念" scheme="http://uu.sssu.us/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    <category term="前端" scheme="http://uu.sssu.us/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
