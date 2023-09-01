@@ -83,11 +83,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const highlightShrinkClass = isHighlightShrink === true ? 'closed' : ''
 
     if (isHighlightShrink !== undefined) {
-      highlightShrinkEle = `<i class="fas fa-angle-down expand ${highlightShrinkClass}"></i>`
+      highlightShrinkEle = `<i class="dys arrow-down ${highlightShrinkClass}"></i>`
     }
 
     if (isHighlightCopy) {
-      highlightCopyEle = '<div class="copy-notice"></div><i class="fas fa-paste copy-button"></i>'
+      highlightCopyEle = '<div class="copy-notice"></div><i class="dys copy1"></i>'
     }
 
     const copy = (text, ctx) => {
