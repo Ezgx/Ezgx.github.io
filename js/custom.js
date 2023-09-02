@@ -28,10 +28,16 @@ function percent() {
       ) - document.documentElement.clientHeight, // 整个网页高度 减去 可视高度
     result = Math.round((a / b) * 100), // 计算百分比
     btn = document.querySelector("#percent"); // 获取图标
-  (btn.innerHTML = result);
+    topbtn = document.getElementById('totopbtn')
+    if (result != 0) {
+      btn.innerHTML = result;
+      topbtn.classList.remove('at_top')
+    } else {
+      btn.innerHTML = 'Top';
+      topbtn.classList.add('at_top')
+    }
 }
-
-document.getElementById("page-name").innerText = document.title.split(" | blog")[0];
+percent();
 
 function toggleTheme() {
   var currentTheme = document.documentElement.getAttribute("data-theme");
@@ -54,10 +60,10 @@ function toggleTheme() {
 
 function showconsolebtn() {
   var consolebtn = document.getElementById('console-pannel');
-  if (consolebtn.style.top === '50px') {
-    consolebtn.style.top = '-110px';
+  if (consolebtn.style.scale === '1') {
+    consolebtn.style.scale = '0';
   } else {
-    consolebtn.style.top = '50px'
+    consolebtn.style.scale = '1'
   }
 }
 
