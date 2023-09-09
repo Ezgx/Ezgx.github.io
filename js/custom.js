@@ -28,13 +28,20 @@ function percent() {
       ) - document.documentElement.clientHeight, // 整个网页高度 减去 可视高度
     result = Math.round((a / b) * 100), // 计算百分比
     btn = document.querySelector("#percent"); // 获取图标
-    topbtn = document.getElementById('totopbtn')
-    if (result != 0) {
-      btn.innerHTML = result;
-      topbtn.classList.remove('at_top')
+    conbtn = document.querySelector('#buttons.conbtn')
+    if (result > 0) {
+      conbtn.style.left = 'calc(100% + 7px)'
     } else {
-      btn.innerHTML = 'Top';
-      topbtn.classList.add('at_top')
+      conbtn.style.left = 'calc(100% - 40px)'
+    }
+    if (result > 0, result != 100) {
+      btn.innerHTML = result;
+    } else if (result != 100) {
+      btn.innerHTML = result;
+    } else if (result = 100) {
+      btn.innerHTML = '&#xe62a;';
+      btn.style.fontFamily = 'dys'
+      btn.style.fontSize = '26px'
     }
 }
 percent();
