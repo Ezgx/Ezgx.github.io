@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>使用mmd制作3d动画-初步</title>
+      <link href="/archives/57464/"/>
+      <url>/archives/57464/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>前两天闲得慌跟xg上刷视频，刷到了一些整活的动画，经过了解之后发现是mmd/blender制作的</p><p>难度原因，我先上手了mmd（全称mikumikudance），其实blender也没有多难，都差不多，我没接触过，就先玩了mmd</p><p>我以后会教渲染的，但是电脑带不动，只能纸上谈兵，不过今天这期还是有图哒！</p><h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><ul><li>mmd软件，这个随便搜点就有了，最好汉化的，看着方便（英文大佬当我没说）</li><li>一定的素材，比如动作，人物，场景</li><li>windows电脑（一定要是windows，linux佬弄个虚拟机，别用wine玩这个）</li></ul><h2 id="确认以下事项"><a href="#确认以下事项" class="headerlink" title="确认以下事项"></a>确认以下事项</h2><ul><li>你是个正常人</li><li>你有电脑</li><li>你有手</li></ul><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><h2 id="打开软件"><a href="#打开软件" class="headerlink" title="打开软件"></a>打开软件</h2><p>有手就行（</p><h2 id="导入人物"><a href="#导入人物" class="headerlink" title="导入人物"></a>导入人物</h2><p><img src="https://pic.imgdb.cn/item/64fcd8f4661c6c8e5413bc63.jpg" alt=""></p><p>打开文件夹，把pmx文件拖放进去，或者点载入，然后选文件。</p><p>导入后应为图中效果。</p><p>像我这样的低配电脑可能会无响应一下，等等就好。</p><h2 id="添加动作"><a href="#添加动作" class="headerlink" title="添加动作"></a>添加动作</h2><p><img src="https://pic.imgdb.cn/item/64fcd9a7661c6c8e5413c92b.jpg" alt=""></p><p>同样托进去就行了，现在按<code>p</code>键看看动作效果</p><h2 id="场景"><a href="#场景" class="headerlink" title="场景"></a>场景</h2><p>其实场景也是一个pmx文件，同样拖放进去就好了。</p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><p>老规矩鼠标拖放进去</p><h1 id="成品"><a href="#成品" class="headerlink" title="成品"></a>成品</h1><p>第一次做的水准，不喜勿喷谢谢！</p><a href="https://www.bilibili.com/video/BV15N4y1R7rV/?share_source=copy_web" target="_blank" title="洛天依+只因你太美" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src=" https://pic.imgdb.cn/item/64fcdc7d661c6c8e5413fda8.jpg " class="no-lightbox"></div><div class="link_content"><div class="link_title">洛天依+只因你太美</div><div class="link_desc">来自-径曲山斜-的视频。</div></div></a><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p><img src="https://pic.imgdb.cn/item/64fcda99661c6c8e5413da95.jpg" alt=""></p><ul><li>在添加动作的时候，一定要注意选中的模型，不然会看到场景跳舞或者人物螺旋升天的场面（别问我怎么知道的）</li><li>保存，保存，保存！重要的事情说三遍。</li><li>盈利用途注意版权，玩这个真的很容易侵权吃官司。</li><li>导出的时候选择保留wave才会有声音！！！！不然别来问我：“作者，为啥我弄完没有声音了啊？”</li></ul><h1 id="资源推荐"><a href="#资源推荐" class="headerlink" title="资源推荐"></a>资源推荐</h1><p>我的资源都是在这个<a href="https://www.aplaybox.com/">模之屋</a>下载的</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> mmd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用cdn进行加速+防御</title>
       <link href="/archives/32654/"/>
       <url>/archives/32654/</url>

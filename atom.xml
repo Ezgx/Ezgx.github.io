@@ -6,7 +6,7 @@
   <link href="http://uu.sssu.us/atom.xml" rel="self"/>
   
   <link href="http://uu.sssu.us/"/>
-  <updated>2023-08-21T18:44:18.389Z</updated>
+  <updated>2023-09-09T21:02:38.894Z</updated>
   <id>http://uu.sssu.us/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用mmd制作3d动画-初步</title>
+    <link href="http://uu.sssu.us/archives/57464/"/>
+    <id>http://uu.sssu.us/archives/57464/</id>
+    <published>2023-09-09T20:34:11.000Z</published>
+    <updated>2023-09-09T21:02:38.894Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://uu.sssu.us/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="mmd" scheme="http://uu.sssu.us/tags/mmd/"/>
+    
+  </entry>
   
   <entry>
     <title>使用cdn进行加速+防御</title>
@@ -482,29 +507,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>记录一次诡异的windows崩溃</title>
-    <link href="http://uu.sssu.us/archives/27831/"/>
-    <id>http://uu.sssu.us/archives/27831/</id>
-    <published>2023-01-30T13:55:34.000Z</published>
-    <updated>2023-07-01T16:34:17.504Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    
-    <category term="windows" scheme="http://uu.sssu.us/tags/windows/"/>
     
   </entry>
   
