@@ -162,9 +162,8 @@ var ark_swiper = new Swiper("#ark-swiper-container", {
   effect: "cube",
   spaceBetween: 30,
   mousewheel: true,
-  pagination: {
-    el: ".swiper-pagination",
-    clickable: true,
+  scrollbar: {
+    el: '.swiper-scrollbar',
   },
   navigation: {
     nextEl: '.swiper-button-next',

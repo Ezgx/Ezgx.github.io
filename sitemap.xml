@@ -605,20 +605,6 @@
   </url>
   
   <url>
-    <loc>http://uu.sssu.us/tags/dynasty/</loc>
-    <lastmod>2023-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://uu.sssu.us/tags/dimension/</loc>
-    <lastmod>2023-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://uu.sssu.us/tags/dimesion/</loc>
     <lastmod>2023-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -626,7 +612,21 @@
   </url>
   
   <url>
+    <loc>http://uu.sssu.us/tags/dynasty/</loc>
+    <lastmod>2023-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://uu.sssu.us/tags/dimspace/</loc>
+    <lastmod>2023-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://uu.sssu.us/tags/dimension/</loc>
     <lastmod>2023-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
