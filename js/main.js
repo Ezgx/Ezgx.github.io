@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const highlightShrinkClass = isHighlightShrink === true ? 'closed' : ''
 
     if (isHighlightShrink !== undefined) {
-      highlightShrinkEle = `<i class="dys arrow-down ${highlightShrinkClass}"></i>`
+      highlightShrinkEle = `<i class="dys arrowdown ${highlightShrinkClass}"></i>`
     }
 
     if (isHighlightCopy) {

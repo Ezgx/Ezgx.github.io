@@ -159,6 +159,7 @@ var ark_swiper = new Swiper("#ark-swiper-container", {
   grabCursor : true,//鼠标悬停时显示抓手
   updateOnWindowResize: true,
   slidesPerView: 1,
+  effect: "cube",
   spaceBetween: 30,
   mousewheel: true,
   pagination: {
