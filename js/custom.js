@@ -29,7 +29,7 @@ function percent() {
     result = Math.round((a / b) * 100), // 计算百分比
     btn = document.querySelector("#percent"); // 获取图标
     conbtn = document.querySelector('#buttons.conbtn')
-    if (result > 0) {
+    if (result > 10) {
       conbtn.style.left = 'calc(100% + 7px)'
     } else {
       conbtn.style.left = 'calc(100% - 40px)'
@@ -172,3 +172,92 @@ var ark_swiper = new Swiper("#ark-swiper-container", {
   autoplay: true,
   delay: 2000
 });
+
+const box = document.querySelector('#totopbtn')
+    const mousedown = (event) => {
+      //开关打开
+      isDown = true;
+      let innerX = event.clientX - box.offsetLeft
+      let innerY = event.clientY - box.offsetTop
+
+      box.style.borderWidth = "1px";
+      box.style.borderStyle = "solid";
+      box.style.borderColor = "black";
+      // 移动时
+      document.onmousemove = function (event) {
+        box.style.left = event.clientX - innerX + "px"
+        box.style.top = event.clientY - innerY + "px"
+      }
+
+      // 抬起时
+      document.onmouseup = function () {
+        document.onmousemove = null
+        document.mousedown = null
+        control()
+        box.style.borderWidth = "";
+        box.style.borderStyle = "";
+        box.style.borderColor = "";
+        //开关关闭
+        clickFlag = endTime - startTime < 200;
+        isDown = false;
+      }
+    }
+    // 按下时
+    box.addEventListener('mousedown', mousedown, false)
+
+    
+    var ele = document.querySelector('#totopbtn');
+    // 记录的是元素当前位置
+    var currentPosition = { x: 0, y: 0 };
+    // 手指偏移位置，是touchmove中的坐标减去刚触摸时候的坐标得到并更新
+    var offset = {};
+    // 手指刚触摸时候的坐标
+    var touchStartPositon = {};
+    // 移动标志，主要用来解决touchend中currentPosition无意义累加的问题，下方会说明什么是无意义累加
+    var moveFlag = false;
+    // 监听，冒泡
+    ele.addEventListener('touchstart', touchStart, false)
+    ele.addEventListener('touchmove', touchMove, false)
+    ele.addEventListener('touchend', touchEnd, false)
+    function touchStart(e) {
+        var touch = e.targetTouches[0];
+        // 触摸时候记录手指初始位置
+        touchStartPositon.x = touch.pageX;
+        touchStartPositon.y = touch.pageY;
+    }
+    function touchMove(e) {
+        moveFlag = true;
+
+        // 屏蔽默认函数，当有上下滚动条时候，touchMove默认的是滚动屏幕
+        e.preventDefault();
+        var touch = e.changedTouches[0];
+
+        // 得到用户拖动的相对x y距离，记录在offset中
+        offset.x = touch.pageX - touchStartPositon.x;
+        offset.y = touch.pageY - touchStartPositon.y;
+
+        // offset + currentPostion就是css要移动的距离
+        move({ x: currentPosition.x + offset.x, y: currentPosition.y + offset.y });
+
+    }
+    function touchEnd(e) {
+        
+        if (!moveFlag) return;
+
+        // 无意义累加就在这里：
+        // 用户第一次操作：完成一次拖动，此时offset中x y是有值的
+        // 用户第二次操作：点击元素但是没有拖动，currentPostion就会加上offset中的值
+        // 用户第三次操作：再次拖动，currentPositon中的值就不准了，因为多加了一次offset
+        // 所以判断如果是moveFlag = false时候就直接退出
+        currentPosition.x += offset.x
+        currentPosition.y += offset.y
+        // 对于无意义累加问题，当然也可以通过把offset置位o来解决
+        // offset = { x: 0, y: 0 };
+        moveFlag = false;
+
+    }
+
+    function move(param) {
+        // 利用transform属性做到移动
+        ele.style.transform = "translate3d(" + param.x + "px, " + param.y + "px, 0)"
+    }
