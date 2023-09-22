@@ -46,11 +46,93 @@ function percent() {
 }
 percent();
 
+const nav = {
+copytext: function copytext() {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var text = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  text.innerHTML = '复制成功'
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  text.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+},
+
+darkmode: function darkmode() {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var text = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  text.innerHTML = '切换成功'
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  text.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+},
+
+asidehidetxt: function asidehidetxt() {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var text = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  text.innerHTML = '设置成功'
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  text.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+},
+
+hometophide: function hometophide() {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var text = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  text.innerHTML = '设置成功'
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  text.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+},
+
+randompost: function randompost() {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var text = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  text.innerHTML = '正在跳转'
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  text.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+}
+}
+
 function toggleTheme() {
   var currentTheme = document.documentElement.getAttribute("data-theme");
   var targetTheme = currentTheme === "dark" ? "light" : "dark";
   document.documentElement.setAttribute("data-theme", targetTheme);
-  new Vue({
+  /* new Vue({
     data: function () {
         this.$notify({
             title: "切换成功",
@@ -62,7 +144,8 @@ function toggleTheme() {
             duration: 4000
         });
     }
-  })
+  }) */
+  nav.darkmode()
 }
 
 function showconsolebtn() {
@@ -77,10 +160,11 @@ function showconsolebtn() {
 function hideaside() {
   var aside = document.getElementById('aside-content');
   var postmodule = document.getElementsByClassName('maininner')[0];
+  nav.asidehidetxt()
   if (aside.style.display === 'none') {
     aside.style.display = 'block';
     postmodule.style.width = '74%';
-    new Vue({
+    /* new Vue({
       data: function () {
           this.$notify({
               title: "设置成功",
@@ -92,24 +176,12 @@ function hideaside() {
               duration: 4000
           });
       }
-    })
+    }) */
   }
   else {
     aside.style.display = 'none';
     postmodule.style.width = '100%';
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "设置成功",
-              message: "已隐藏侧边栏",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
+    
   }
 }
 
@@ -119,37 +191,12 @@ function hidehometop() {
   if (hometop.style.display === 'none') {
     hometop.style.display = 'block';
     main.style.top = '-40px'
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "设置成功",
-              message: "已显示顶部",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
   }
   else {
     hometop.style.display = 'none';
     main.style.top = 'unset'
-    new Vue({
-      data: function () {
-          this.$notify({
-              title: "设置成功",
-              message: "已隐藏顶部",
-              position: 'top-left',
-              offset: 50,
-              showClose: true,
-              type: "success",
-              duration: 4000
-          });
-      }
-    })
   }
+  nav.hometophide()
 }
   
 //首页顶部推荐文章轮播图

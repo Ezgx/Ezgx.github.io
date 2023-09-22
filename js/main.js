@@ -94,19 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
         document.execCommand('copy')
         if (GLOBAL_CONFIG.Snackbar !== undefined) {
-          new Vue({
-            data: function () {
-                this.$notify({
-                    title: "复制成功",
-                    message: "转载请遵守cc协议",
-                    position: 'top-left',
-                    offset: 50,
-                    showClose: true,
-                    type: "success",
-                    duration: 4000
-                });
-            }
-          })
+          copytext()
         } else {
           const prevEle = ctx.previousElementSibling
           prevEle.innerText = GLOBAL_CONFIG.copy.success
