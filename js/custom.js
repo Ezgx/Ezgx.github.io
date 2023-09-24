@@ -12,6 +12,22 @@ var custom = {
 }
 custom.sayhi();
 
+function notice(text) {
+  var navbar = document.getElementById('navbar')
+  var navmenus = document.getElementById('nav-menus')
+  var navtext = document.getElementById('notebar')
+  var percent = document.getElementById('buttons')
+  percent.style.scale = '0'
+  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
+  navtext.innerHTML = text
+  navbar.style.width = '330px'
+  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
+  navmenus.style.display = 'none'
+  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
+  navtext.style.display = 'block'
+  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
+}
+
 // 返回顶部 显示网页阅读进度
 window.onscroll = percent; // 执行函数
 // 页面百分比
@@ -46,88 +62,6 @@ function percent() {
 }
 percent();
 
-const nav = {
-copytext: function copytext() {
-  var navbar = document.getElementById('navbar')
-  var navmenus = document.getElementById('nav-menus')
-  var text = document.getElementById('notebar')
-  var percent = document.getElementById('buttons')
-  percent.style.scale = '0'
-  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
-  text.innerHTML = '复制成功'
-  navbar.style.width = '330px'
-  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
-  navmenus.style.display = 'none'
-  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
-  text.style.display = 'block'
-  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
-},
-
-darkmode: function darkmode() {
-  var navbar = document.getElementById('navbar')
-  var navmenus = document.getElementById('nav-menus')
-  var text = document.getElementById('notebar')
-  var percent = document.getElementById('buttons')
-  percent.style.scale = '0'
-  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
-  text.innerHTML = '切换成功'
-  navbar.style.width = '330px'
-  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
-  navmenus.style.display = 'none'
-  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
-  text.style.display = 'block'
-  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
-},
-
-asidehidetxt: function asidehidetxt() {
-  var navbar = document.getElementById('navbar')
-  var navmenus = document.getElementById('nav-menus')
-  var text = document.getElementById('notebar')
-  var percent = document.getElementById('buttons')
-  percent.style.scale = '0'
-  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
-  text.innerHTML = '设置成功'
-  navbar.style.width = '330px'
-  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
-  navmenus.style.display = 'none'
-  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
-  text.style.display = 'block'
-  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
-},
-
-hometophide: function hometophide() {
-  var navbar = document.getElementById('navbar')
-  var navmenus = document.getElementById('nav-menus')
-  var text = document.getElementById('notebar')
-  var percent = document.getElementById('buttons')
-  percent.style.scale = '0'
-  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
-  text.innerHTML = '设置成功'
-  navbar.style.width = '330px'
-  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
-  navmenus.style.display = 'none'
-  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
-  text.style.display = 'block'
-  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
-},
-
-randompost: function randompost() {
-  var navbar = document.getElementById('navbar')
-  var navmenus = document.getElementById('nav-menus')
-  var text = document.getElementById('notebar')
-  var percent = document.getElementById('buttons')
-  percent.style.scale = '0'
-  setTimeout("document.getElementById('buttons').style.scale = '1'", 2000)
-  text.innerHTML = '正在跳转'
-  navbar.style.width = '330px'
-  setTimeout("document.getElementById('navbar').style.width = 'fit-content'", 2000)
-  navmenus.style.display = 'none'
-  setTimeout("document.getElementById('nav-menus').style.display = 'block'", 2000)
-  text.style.display = 'block'
-  setTimeout("document.getElementById('notebar').style.display = 'none'", 2000)
-}
-}
-
 function toggleTheme() {
   var currentTheme = document.documentElement.getAttribute("data-theme");
   var targetTheme = currentTheme === "dark" ? "light" : "dark";
@@ -145,7 +79,7 @@ function toggleTheme() {
         });
     }
   }) */
-  nav.darkmode()
+  notice('切换成功')
 }
 
 function showconsolebtn() {
@@ -160,7 +94,7 @@ function showconsolebtn() {
 function hideaside() {
   var aside = document.getElementById('aside-content');
   var postmodule = document.getElementsByClassName('maininner')[0];
-  nav.asidehidetxt()
+  notice('设置成功')
   if (aside.style.display === 'none') {
     aside.style.display = 'block';
     postmodule.style.width = '74%';
@@ -196,7 +130,7 @@ function hidehometop() {
     hometop.style.display = 'none';
     main.style.top = 'unset'
   }
-  nav.hometophide()
+  notice('设置成功')
 }
   
 //首页顶部推荐文章轮播图

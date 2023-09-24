@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
         document.execCommand('copy')
         if (GLOBAL_CONFIG.Snackbar !== undefined) {
-          copytext()
+          notice('复制成功')
         } else {
           const prevEle = ctx.previousElementSibling
           prevEle.innerText = GLOBAL_CONFIG.copy.success
