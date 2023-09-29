@@ -62,6 +62,17 @@ function percent() {
 }
 percent();
 
+function photo() {
+  var light = document.getElementById('light')
+  var cam = document.getElementById('camera')
+  light.style.opacity = '1'
+  light.style.display = 'block'
+  setTimeout("document.getElementById('light').style.opacity = '0'", 300)
+  setTimeout("document.getElementById('light').style.display = 'none'", 300)
+  cam.style.scale = '1'
+  setTimeout("document.getElementById('camera').style.scale = '0'", 1000)
+}
+
 function toggleTheme() {
   var currentTheme = document.documentElement.getAttribute("data-theme");
   var targetTheme = currentTheme === "dark" ? "light" : "dark";
