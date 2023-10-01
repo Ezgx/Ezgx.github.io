@@ -69,8 +69,9 @@ function photo() {
   light.style.display = 'block'
   setTimeout("document.getElementById('light').style.opacity = '0'", 300)
   setTimeout("document.getElementById('light').style.display = 'none'", 300)
-  cam.style.scale = '1'
-  setTimeout("document.getElementById('camera').style.scale = '0'", 1000)
+  cam.style.top = 'calc(50% - 100px)'
+  cam.style.opacity = '1'
+  setTimeout("document.getElementById('camera').style.top = '-200px';document.getElementById('camera').style.opacity = '0';", 1000)
 }
 
 function toggleTheme() {
@@ -95,10 +96,12 @@ function toggleTheme() {
 
 function showconsolebtn() {
   var consolebtn = document.getElementById('console-pannel');
-  if (consolebtn.style.scale === '1') {
-    consolebtn.style.scale = '0';
+  if (consolebtn.style.top === 'calc(50% - 115px)') {
+    consolebtn.style.top = '-230px';
+    consolebtn.style.opacity = '0'
   } else {
-    consolebtn.style.scale = '1'
+    consolebtn.style.top = 'calc(50% - 115px)';
+    consolebtn.style.opacity = '1'
   }
 }
 
