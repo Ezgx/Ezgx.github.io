@@ -45,11 +45,7 @@ function percent() {
     result = Math.round((a / b) * 100), // 计算百分比
     btn = document.querySelector("#percent"); // 获取图标
     conbtn = document.querySelector('#buttons.conbtn')
-    if (result > 10) {
-      conbtn.style.left = 'calc(100% + 7px)'
-    } else {
-      conbtn.style.left = 'calc(100% - 40px)'
-    }
+    
     if (result > 0, result != 100) {
       btn.innerHTML = result;
     } else if (result != 100) {
@@ -57,7 +53,7 @@ function percent() {
     } else if (result = 100) {
       btn.innerHTML = '&#xe62a;';
       btn.style.fontFamily = 'dys'
-      btn.style.fontSize = '26px'
+      btn.style.fontSize = '15px'
     }
 }
 percent();

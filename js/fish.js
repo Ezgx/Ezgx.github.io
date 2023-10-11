@@ -136,7 +136,7 @@ var RENDERER = {
         this.context.clearRect(0, 0, this.width, this.height);
         var datatheme = document.documentElement.getAttribute("data-theme");
         if (datatheme === 'light') {
-            this.context.fillStyle = '#F7F9FE';
+            this.context.fillStyle = '#F5F6F7';
         } else {
             this.context.fillStyle = '#181C27';
         }
